@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VoterHelp: King County</title>
+  <meta name="description" content="See every race on your King County ballot for the November 3, 2026 general election, with each candidate's own statement and official sources.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>VoterHelp <span class="where">King County · Nov 3, 2026 general election</span></h1>
+      <p class="lede">Enter your address to see what's on your ballot, in the candidates' own words, with links to the official sources.</p>
+      <form id="lookup" class="lookup" autocomplete="on">
+        <label for="address" class="sr-only">Street address in King County</label>
+        <input id="address" name="address" type="text" placeholder="Street address, city (e.g. 1301 5th Ave, Seattle)" required autocomplete="street-address">
+        <button type="submit">Show my ballot</button>
+      </form>
+      <p class="hint">Your address goes only to King County's public map service to look up your districts. We don't store it. <button type="button" id="show-all" class="linkish">Or browse every race in King County</button></p>
+      <div id="status" role="status" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <aside class="deadline wrap" aria-label="How to return your ballot">
+    <strong>Return your ballot by 8 p.m. Tuesday, Nov 3.</strong>
+    Use a <a href="https://kingcounty.gov/en/dept/elections/how-to-vote/ballots/return-my-ballot/ballot-drop-boxes">drop box</a>, or mail it with no stamp needed (it must be postmarked by Nov 3).
+    Need help? <a href="https://kingcounty.gov/en/dept/elections/how-to-vote/ballots/return-my-ballot/vote-centers">Vote centers</a> ·
+    <a href="https://voter.votewa.gov/WhereToVote.aspx">Check your registration</a>
+  </aside>
+
+  <main id="ballot" class="wrap"></main>
+
+  <footer class="wrap foot">
+    <p><strong>Where this comes from.</strong> Candidate statements, photos, contact info and ballot measure text come word for word from the
+      <a href="https://voter.votewa.gov/genericvoterguide.aspx?e=899&amp;c=17">WA Secretary of State online voters' guide</a>, which candidates and committees write themselves.
+      Districts come from <a href="https://gis-kingcounty.opendata.arcgis.com/">King County GIS</a>.
+      VoterHelp is an independent, nonpartisan project, not affiliated with any government office or campaign. Your official ballot is the final word on which races you vote in.</p>
+    <p id="generated"></p>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

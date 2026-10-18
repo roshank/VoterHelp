@@ -1,0 +1,3 @@
+# Raw API responses (large, includes base64 photos). Re-created by the pipeline.
+data/raw/
+__pycache__/

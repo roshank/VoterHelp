@@ -1,0 +1,53 @@
+name: Refresh data and deploy site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 13 * * *" # daily, ~6am Pacific, until the election
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        if: github.event_name != 'push'
+        with:
+          python-version: "3.12"
+      - name: Refresh voters' guide data
+        if: github.event_name != 'push'
+        run: |
+          pip install -r pipeline/requirements.txt
+          cd pipeline && python sos_guide.py --refresh
+      - name: Commit refreshed data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "voterhelp-bot"
+          git config user.email "voterhelp-bot@users.noreply.github.com"
+          git add site/data
+          git diff --cached --quiet || (git commit -m "Refresh voters' guide data" && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

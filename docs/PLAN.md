@@ -4,6 +4,12 @@ Goal: a free, shareable static site where a King County voter enters an address 
 every race on their ballot, with each candidate's own words and sources. Ship a usable
 v1 within days, then add to it.
 
+## Status
+- v1 built: address lookup + every King County contest, with candidate statements and measure arguments.
+- Key find: the WA SOS online voters' guide has a JSON API (`voter.votewa.gov/elections/*.ashx`) that
+  covers every race in the county, including local races and measures. It replaces the King County pamphlet scraper.
+- No human review step, so stances (v2) will be verbatim quotes only, tagged by issue, never paraphrased.
+
 ## Principles
 - Sourced facts only. Every claim links to its source. If we find nothing, say "No stated position".
 - Free sources first. Each source gets its own importer, so a paid one (Ballotpedia, BallotReady, Cicero) can be added later without a rewrite.
