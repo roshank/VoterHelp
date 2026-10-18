@@ -6,7 +6,7 @@ export const ISSUES = [
   { id: "housing", label: "Housing & homelessness",
     terms: ["housing", "homeless*", "unhoused", "rent", "rental", "renter", "tenant", "eviction", "landlord", "shelter", "encampment", "home ownership", "homeowner", "mortgage", "zoning", "density"] },
   { id: "safety", label: "Public safety & policing",
-    terms: ["public safety", "safe", "safer", "safety", "police", "policing", "officer", "crime", "criminal", "violence", "violent", "gun", "firearm", "jail", "incarcerat*", "prosecut*", "sheriff", "911", "fentanyl", "theft"] },
+    terms: ["public safety", "safety", "police", "policing", "officer", "crime", "criminal", "violence", "violent", "gun", "firearm", "jail", "incarcerat*", "prosecut*", "sheriff", "911", "fentanyl", "theft"] },
   { id: "cost", label: "Taxes & cost of living",
     terms: ["tax", "taxpayer", "afford*", "unafford*", "cost of living", "cost", "budget", "spending", "levy", "levies", "fee", "inflation", "price", "wealth", "regressive"] },
   { id: "transport", label: "Transit & roads",

@@ -8,7 +8,11 @@ v1 within days, then add to it.
 - v1 built: address lookup + every King County contest, with candidate statements and measure arguments.
 - Key find: the WA SOS online voters' guide has a JSON API (`voter.votewa.gov/elections/*.ashx`) that
   covers every race in the county, including local races and measures. It replaces the King County pamphlet scraper.
-- No human review step, so stances (v2) will be verbatim quotes only, tagged by issue, never paraphrased.
+- No human review step, so stances are verbatim quotes only, never paraphrased.
+- v2 built: voters pick topic chips or type priorities; each candidate shows the sentences from their
+  statement and campaign website that mention them (keyword match, `site/issues.js`). No ranking.
+- Campaign sites: 120/129 read. Skipped: robots.txt opt-outs, 403s, dead sites, and hosts this build
+  environment can't reach.
 
 ## Principles
 - Sourced facts only. Every claim links to its source. If we find nothing, say "No stated position".

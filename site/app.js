@@ -30,6 +30,7 @@ const GROUPS = [
 
 const $ = (sel) => document.querySelector(sel);
 let data;
+let websites = {}; // candidate id -> scraped campaign website text (site/data/websites.json)
 let ballot = null; // { districts, address } once the voter has asked for a ballot
 const chosen = { chips: new Set(), custom: [] };
 
@@ -135,35 +136,61 @@ function highlighted(text, ranges) {
   return out;
 }
 
-// Sentences in a candidate's own statement that mention a priority. Experience, education and
-// endorsement lists are skipped: "School of Law" or "Labor Council" isn't a position on schools or labor.
-function mentions(candidate, priority) {
+function sentenceHits(paragraphs, priority, extra = {}) {
   const hits = [];
-  for (const section of candidate.statement || []) {
-    if (section.label !== "Statement") continue;
-    for (const para of section.paragraphs) {
-      for (const sentence of sentences(para)) {
-        const ranges = findMatches(priority.matcher, sentence);
-        if (ranges.length) hits.push({ sentence, ranges });
-      }
+  for (const para of paragraphs) {
+    for (const sentence of sentences(para)) {
+      const ranges = findMatches(priority.matcher, sentence);
+      if (ranges.length) hits.push({ sentence, ranges, ...extra });
     }
   }
   return hits;
 }
 
+// Sentences where a candidate mentions a priority: first their voters' guide statement, then their
+// campaign website. Experience, education and endorsement lists are skipped: "School of Law" or
+// "Labor Council" isn't a position on schools or labor.
+function mentions(candidate, priority) {
+  const statement = (candidate.statement || []).filter((s) => s.label === "Statement").flatMap((s) => s.paragraphs);
+  const guide = sentenceHits(statement, priority);
+  const seen = new Set(guide.map((hit) => hit.sentence));
+  const site = (websites[candidate.id]?.pages || [])
+    .flatMap((page) => sentenceHits(page.paragraphs, priority, { page }))
+    .filter((hit) => !seen.has(hit.sentence) && seen.add(hit.sentence));
+  return { guide, site };
+}
+
+function quoteGroup(label, hits, link) {
+  if (!hits.length) return null;
+  // Sentences that hit the topic several times say more about it, so they go first.
+  const ranked = [...hits].sort((a, b) => b.ranges.length - a.ranges.length);
+  const quote = (hit) => h("blockquote", {},
+    highlighted(hit.sentence, hit.ranges),
+    link && hit.page ? [" ", h("a", { href: hit.page.url, target: "_blank", rel: "noopener nofollow", class: "small" }, "source")] : null);
+  return h("div", { class: "quote-group" },
+    h("div", { class: "quote-source" }, label),
+    ranked.slice(0, 2).map(quote),
+    ranked.length > 2 ? h("details", { class: "more" }, h("summary", {}, `${ranked.length - 2} more`), ranked.slice(2).map(quote)) : null);
+}
+
 function prioritySummary(candidate, prios) {
-  const rows = prios.map((p) => ({ p, hits: mentions(candidate, p) }));
-  const count = rows.filter((r) => r.hits.length).length;
+  const site = websites[candidate.id];
+  const siteRead = Boolean(site?.pages?.length);
+  const rows = prios.map((p) => ({ p, ...mentions(candidate, p) }));
+  const count = rows.filter((r) => r.guide.length || r.site.length).length;
+  const where = siteRead ? "their statement or campaign website" : "their statement";
   return h("div", { class: "prios" },
     h("div", { class: `badge ${count ? "" : "none"}` },
       prios.length === 1 ? (count ? "Mentions your priority" : "Doesn't mention your priority")
         : count ? `Mentions ${count} of your ${prios.length} priorities` : "Doesn't mention your priorities"),
-    rows.map(({ p, hits }) => h("div", { class: "prio-row" },
+    rows.map(({ p, guide, site: siteHits }) => h("div", { class: "prio-row" },
       h("div", { class: "prio-label" }, p.label),
-      hits.length
-        ? hits.slice(0, 2).map((hit) => h("blockquote", {}, highlighted(hit.sentence, hit.ranges)))
-        : h("p", { class: "muted" }, "Not mentioned in their statement."),
-      hits.length > 2 ? h("p", { class: "muted small" }, `+${hits.length - 2} more in their full statement`) : null)));
+      quoteGroup("Voters' guide statement", guide, false),
+      quoteGroup("Campaign website", siteHits, true),
+      guide.length || siteHits.length ? null : h("p", { class: "muted" }, `Not mentioned in ${where}.`))),
+    candidate.website && !siteRead
+      ? h("p", { class: "muted small" }, "We couldn't read their campaign website, so only their statement was searched.")
+      : null);
 }
 
 function renderChips() {
@@ -296,7 +323,7 @@ function render() {
   renderChips();
   $("#ballot").replaceChildren(...[
     address ? h("p", { class: "districts" }, h("strong", {}, `Ballot for ${address}. `), districtSummary(districts)) : null,
-    prios.length ? h("p", { class: "districts" }, "Highlighted sentences are word for word from each candidate's voters' guide statement. They show what candidates chose to talk about, not where they stand.") : null,
+    prios.length ? h("p", { class: "districts" }, "Highlighted sentences are word for word from each candidate's voters' guide statement or campaign website. They show what candidates chose to talk about, not where they stand.") : null,
     ...GROUPS.filter((g) => byGroup[g.key]?.length).map((g) => [
       h("h2", { class: "group-title" }, g.title),
       g.note ? h("p", { class: "districts" }, g.note) : null,
@@ -338,6 +365,11 @@ async function init() {
   loadPriorities();
   renderChips();
   data = await (await fetch("data/ballot.json")).json();
+  // Website text is optional: the guide works without it.
+  fetch("data/websites.json").then((r) => (r.ok ? r.json() : null)).then((w) => {
+    websites = w?.candidates || {};
+    if (ballot) render();
+  }).catch(() => {});
   $("#generated").textContent = `Data last updated ${new Date(data.generated_at).toLocaleString()}.`;
 
   $("#chips").addEventListener("click", (e) => {

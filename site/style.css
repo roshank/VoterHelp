@@ -139,3 +139,6 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 @media (max-width: 600px) {
   .bar-inner { flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; }
 }
+.quote-group { margin-bottom: 6px; }
+.quote-source { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); margin: 2px 0 4px; }
+.more > summary { font-size: 0.85rem; font-weight: 500; margin: 0 0 6px; }
