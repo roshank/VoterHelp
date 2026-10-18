@@ -9,6 +9,8 @@
   --yes: #1d7a4f;
   --no: #a23b2a;
   --note: #fff6dc;
+  --mark: #ffe58a;
+  --chip-on: #1f5fa8;
   --radius: 10px;
   color-scheme: light dark;
 }
@@ -24,6 +26,8 @@
     --yes: #6cc79b;
     --no: #ee8f7d;
     --note: #3a3220;
+    --mark: #6b5a17;
+    --chip-on: #7fb0ec;
   }
 }
 
@@ -42,15 +46,34 @@ a { color: var(--accent); }
 .top h1 { margin: 0 0 4px; font-size: 1.9rem; letter-spacing: -0.01em; }
 .top .where { display: block; font-size: 0.95rem; font-weight: 500; color: var(--muted); }
 .lede { margin: 8px 0 16px; max-width: 46em; }
-.lookup { display: flex; gap: 8px; flex-wrap: wrap; }
-.lookup input {
-  flex: 1 1 280px; min-width: 0; padding: 12px 14px; font-size: 1rem;
-  border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: var(--text);
+.steps { display: grid; gap: 16px; }
+.step { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; }
+.step h2 { margin: 0 0 12px; font-size: 1.1rem; display: flex; align-items: center; gap: 8px; }
+.num {
+  display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%;
+  background: var(--accent); color: var(--accent-ink); font-size: 0.9rem;
 }
-.lookup button {
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg);
+  color: var(--text); font: inherit; font-size: 0.95rem; cursor: pointer;
+}
+.chip:hover { border-color: var(--accent); }
+.chip[aria-pressed="true"] { background: var(--chip-on); border-color: var(--chip-on); color: var(--accent-ink); font-weight: 600; }
+.chip[aria-pressed="true"]::before { content: "✓ "; }
+.chip.custom[aria-pressed="true"]::before { content: ""; }
+.custom { margin-top: 14px; }
+.custom label { display: block; font-size: 0.9rem; color: var(--muted); margin-bottom: 4px; }
+.custom-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.custom-row input {
+  flex: 1 1 260px; min-width: 0; padding: 12px 14px; font-size: 1rem;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg); color: var(--text);
+}
+.custom-row button {
   padding: 12px 18px; font-size: 1rem; font-weight: 600; border: 0; border-radius: var(--radius);
   background: var(--accent); color: var(--accent-ink); cursor: pointer;
 }
+.custom-row button.secondary { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
 .hint { color: var(--muted); font-size: 0.88rem; margin: 8px 0 0; }
 .linkish { background: none; border: 0; padding: 0; color: var(--accent); font: inherit; text-decoration: underline; cursor: pointer; }
 #status { margin-top: 12px; }
@@ -93,3 +116,26 @@ details > summary { cursor: pointer; color: var(--accent); font-weight: 600; mar
 .committee { font-size: 0.85rem; color: var(--muted); }
 
 .foot { color: var(--muted); font-size: 0.88rem; margin-top: 40px; padding-bottom: 40px; border-top: 1px solid var(--line); padding-top: 16px; }
+
+.priority-bar { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+.bar-inner { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; padding-top: 10px; padding-bottom: 10px; font-size: 0.92rem; }
+.bar-label { font-weight: 600; }
+.pill { display: inline-block; padding: 2px 10px; border-radius: 999px; background: var(--surface); border: 1px solid var(--line); font-size: 0.85rem; margin-right: 4px; }
+
+.prios { margin: 8px 0 4px; }
+.badge {
+  display: inline-block; font-size: 0.85rem; font-weight: 700; padding: 3px 10px; border-radius: 999px;
+  background: var(--chip-on); color: var(--accent-ink); margin-bottom: 6px;
+}
+.badge.none { background: var(--line); color: var(--muted); }
+.prio-row { border-top: 1px solid var(--line); padding: 8px 0 2px; }
+.prio-label { font-weight: 600; font-size: 0.85rem; color: var(--muted); margin-bottom: 4px; }
+.prio-row blockquote { margin: 0 0 6px; padding-left: 10px; border-left: 3px solid var(--accent); }
+.prio-row .from { color: var(--muted); font-size: 0.85rem; }
+mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3px; }
+.muted { color: var(--muted); }
+.small { font-size: 0.85rem; }
+.touches { font-size: 0.9rem; }
+@media (max-width: 600px) {
+  .bar-inner { flex-wrap: nowrap; overflow-x: auto; white-space: nowrap; }
+}
