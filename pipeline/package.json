@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "description": "Only needed for render_js.mjs (JavaScript-only campaign sites)",
+  "type": "module",
+  "dependencies": { "playwright": "1.56.1" }
+}
