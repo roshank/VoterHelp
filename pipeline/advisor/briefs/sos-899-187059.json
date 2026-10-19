@@ -1,0 +1,717 @@
+{
+ "contest_id": "sos-899-187059",
+ "researched": "2026-10-19",
+ "candidates": {
+  "sos-1602096": {
+   "background": "Incumbent state senator for the 43rd District since 2013 and Senate Majority Leader since 2025; state representative 2007-2013. Executive vice president and general counsel at McKinstry; previously a lawyer at K&L Gates.",
+   "record": [
+    {
+     "text": "Prime sponsor of SB 6346 (2026), \"Establishing a tax on millionaires\" (9.9% tax on income over $1 million); voted yes on final passage.",
+     "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+     "source": "WA Legislature"
+    },
+    {
+     "text": "Prime sponsor of SB 5263 (2025), concerning special education funding; enacted as Chapter 368, Laws of 2025.",
+     "url": "https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2025",
+     "source": "WA Legislature"
+    },
+    {
+     "text": "Prime sponsor of SB 5051 (2021), concerning state oversight and accountability of peace officers and corrections officers.",
+     "url": "https://app.leg.wa.gov/billsummary?BillNumber=5051&Year=2021",
+     "source": "WA Legislature"
+    },
+    {
+     "text": "Voted yes on HB 1217 (2025), which limits rent and fee increases for residential tenants (Senate final passage votes April 10 and April 27, 2025).",
+     "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1217&initiative=False",
+     "source": "WA Legislature roll call"
+    },
+    {
+     "text": "Voted yes on HB 1240 (2023), firearms-related safety measures, in Senate final passage votes April 8 and April 18, 2023.",
+     "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2023-24&billNumber=1240&initiative=False",
+     "source": "WA Legislature roll call"
+    },
+    {
+     "text": "Voted yes on HB 1163 (2025), requirements for the purchase, transfer, and possession of firearms, in the Senate final passage vote April 14, 2025.",
+     "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1163&initiative=False",
+     "source": "WA Legislature roll call"
+    }
+   ]
+  },
+  "sos-1602097": {
+   "background": "First-time candidate with no elected experience. Former communications director at Working Washington (a worker advocacy nonprofit) and former legislative aide and Senate communications specialist (2018-2022).",
+   "record": []
+  }
+ },
+ "issues": {
+  "housing": {
+   "summary": "Both candidates support allowing more housing, public funding for affordable housing, and rent stabilization. Pedersen voted for the 2025 rent stabilization law (HB 1217) and says he would support letting local governments adopt stricter limits; Sabio-Howell says the law's cap of up to about 10% is too high and wants further rent stabilization and a statewide social housing approach.",
+   "differ": true,
+   "positions": {
+    "sos-1602096": {
+     "tenant_protections": {
+      "stance": "supports",
+      "why": "Voted for the 2025 rent stabilization law and says he would support letting cities or counties adopt stricter rent limits.",
+      "evidence": [
+       {
+        "quote": "I helped pass rent stabilization, expand prohibited rental provisions",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Improving housing stability for tenants subject to the residential landlord-tenant act and the manufactured/mobile home landlord-tenant act by limiting rent and fee increases",
+        "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1217&initiative=False",
+        "source": "WA Legislature roll call (voted yea)"
+       },
+       {
+        "quote": "I think that generally having local governments have more flexibility to adapt to local conditions is good, yes. So I would support their ability to make that choice.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     },
+     "public_housing": {
+      "stance": "supports",
+      "why": "Cites leading $770 million in new state funding for housing.",
+      "evidence": [
+       {
+        "quote": "I led efforts to provide $770 million in new funding for housing.",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "build_more": {
+      "stance": "supports",
+      "why": "Cites laws to streamline housing construction.",
+      "evidence": [
+       {
+        "quote": "enacted laws aimed at streamlining housing construction and preventing homelessness",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "build_more": {
+      "stance": "supports",
+      "why": "Wants to end apartment bans statewide, allow more housing near transit, and shorten permitting.",
+      "evidence": [
+       {
+        "quote": "Ending apartment bans statewide and ensuring more housing can be built everywhere, especially near transit centers.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Cutting bureaucratic red tape that slows housing development, including lengthy permitting processes and outdated requirements that make housing outrageously expensive to build.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "public_housing": {
+      "stance": "supports",
+      "why": "Supports public investment in social housing developers.",
+      "evidence": [
+       {
+        "quote": "Investing in social housing developers at the local level, which are innovative models for more self-sustaining and publicly-funded affordable housing development.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "tenant_protections": {
+      "stance": "supports",
+      "why": "Supports rent stabilization and says the 2025 law's cap allows increases that are too large.",
+      "evidence": [
+       {
+        "quote": "I think for so many of us, having our rent go up by anything close to 10% is also totally unaffordable",
+        "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+        "source": "The Urbanist interview"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "safety": {
+   "summary": "Both candidates support non-police crisis response and police accountability measures. They differ on police hiring funds: Pedersen co-sponsored a $100 million law enforcement hiring and training investment, while Sabio-Howell says she would redirect the unspent $100 million to public defense. Pedersen voted for an assault weapons ban and a firearm permit law; Sabio-Howell has not stated a position on gun laws beyond community violence prevention programs.",
+   "differ": true,
+   "positions": {
+    "sos-1602096": {
+     "police_accountability": {
+      "stance": "supports",
+      "why": "Sponsored the 2021 law on state oversight of police officers, including license revocation for serious misconduct.",
+      "evidence": [
+       {
+        "quote": "introduced and got passed legislation strengthening the State’s authority to revoke law enforcement licenses after serious misconduct",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Concerning state oversight and accountability of peace officers and corrections officers.",
+        "url": "https://app.leg.wa.gov/billsummary?BillNumber=5051&Year=2021",
+        "source": "WA Legislature (prime sponsor)"
+       }
+      ]
+     },
+     "more_police": {
+      "stance": "supports",
+      "why": "Co-sponsored a $100 million investment in law enforcement hiring and training.",
+      "evidence": [
+       {
+        "quote": "I was a co-sponsor of successful bills enacting a stricter firearm permitting process, an assault weapons ban, and a $100 million investment in new law enforcement hiring and training",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "prevention": {
+      "stance": "supports",
+      "why": "Cites funding for behavioral health alternative response staffing.",
+      "evidence": [
+       {
+        "quote": "in increased behavioral health alternative response staffing across Washington",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "more_gun_laws": {
+      "stance": "supports",
+      "why": "Voted for the assault weapons ban (HB 1240) and permit-to-purchase law (HB 1163); sponsored a voluntary firearm-purchase waiver law.",
+      "evidence": [
+       {
+        "quote": "I helped pass legislation prohibiting domestic violence abusers from having guns",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Establishing firearms-related safety measures to increase public safety.",
+        "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2023-24&billNumber=1240&initiative=False",
+        "source": "WA Legislature roll call (voted yea)"
+       },
+       {
+        "quote": "Enhancing requirements relating to the purchase, transfer, and possession of firearms.",
+        "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1163&initiative=False",
+        "source": "WA Legislature roll call (voted yea)"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "prevention": {
+      "stance": "supports",
+      "why": "Supports sending social workers and mental health professionals to non-violent calls and funding community violence prevention.",
+      "evidence": [
+       {
+        "quote": "Establishing programs that send social workers and mental health professionals to non-violent emergency calls.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Investing in community-based programs that mentor youth, provide alternatives to incarceration, and are proven to reduce gun violence in our neighborhoods.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "more_police": {
+      "stance": "opposes",
+      "why": "Would redirect the unspent $100 million police recruitment fund to public defense.",
+      "evidence": [
+       {
+        "quote": "I absolutely would vote to reallocate that unspent $100 million.",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     },
+     "police_accountability": {
+      "stance": "supports",
+      "why": "Wants limits on law enforcement use of surveillance and AI and wants the Legislature to revisit police accountability rollbacks.",
+      "evidence": [
+       {
+        "quote": "Regulating and restricting the use of AI and surveillance by law enforcement",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "revisit some of the accountability issues related to policing that the public organized around in 2020",
+        "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+        "source": "The Urbanist interview"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "cost": {
+   "summary": "Both candidates support taxing high earners and both supported the 2026 millionaires tax. Pedersen sponsored it and highlights tax cuts for lower-income families and small businesses in the package; Sabio-Howell calls it a first step and also supports a corporate income tax, the Well Washington Fund payroll tax, and a wealth tax. At a June forum, Pedersen said he could not rule out state workforce reductions, while Sabio-Howell said more corporate taxes would avoid cuts.",
+   "differ": true,
+   "positions": {
+    "sos-1602096": {
+     "tax_wealthy": {
+      "stance": "supports",
+      "why": "Sponsored the 2026 millionaires tax and says he co-sponsored a payroll tax bill similar to the Well Washington Fund.",
+      "evidence": [
+       {
+        "quote": "Establishing a tax on millionaires.",
+        "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+        "source": "WA Legislature (prime sponsor)"
+       },
+       {
+        "quote": "I think the Millionaire's Tax is an unqualified progressive victory.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       },
+       {
+        "quote": "I was a co-sponsor of a very similar bill by Senator Saldaña last year. And if it had the votes, I would have voted yes.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     },
+     "relief_regressive": {
+      "stance": "supports",
+      "why": "Says the millionaires tax package reduces taxes for lower-income families, including sales tax exemptions and an expanded Working Families Tax Credit.",
+      "evidence": [
+       {
+        "quote": "I led the successful effort to pass the state's first-ever Millionaires Tax while reducing taxes for lower income families and small businesses.",
+        "url": "https://peopleforpedersen.org/",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "eliminate sales tax on personal care products, diapers, and over-the-counter medicine",
+        "url": "https://peopleforpedersen.org/about",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "tax_wealthy": {
+      "stance": "supports",
+      "why": "Supports a corporate income tax, the Well Washington Fund, and other revenue from large corporations and the wealthy, beyond the millionaires tax.",
+      "evidence": [
+       {
+        "quote": "Fighting for a corporate income tax on mega corporations.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Establishing the Well Washington Fund, a tax on massive corporations to support healthcare access, higher education, and so much more.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "The Millionaire's Tax was an excellent step in the direction of building that more fair economy",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       },
+       {
+        "quote": "We would not need to cut to the bone and ask working people to tighten our belts if we had been more willing to tax corporations",
+        "url": "https://www.yakimaherald.com/news/northwest/washington-millionaires-tax-lawmaker-faces-reelection-challenge-from-the-left/article_0531e762-0715-507e-b886-b2f42c4ec893.html",
+        "source": "Seattle Times (via Yakima Herald), candidate forum"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "transport": {
+   "summary": "Both candidates support investment in transit. Pedersen says he is committed to building the full voter-approved light rail system; Sabio-Howell calls for a multimodal transit system and a shift away from highway expansion.",
+   "differ": false,
+   "positions": {
+    "sos-1602096": {
+     "transit": {
+      "stance": "supports",
+      "why": "Committed to building the full light rail system approved by voters.",
+      "evidence": [
+       {
+        "quote": "building the full light rail system approved by voters",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "safe_streets": {
+      "stance": "supports",
+      "why": "Said safe pedestrian crossings near Aurora Avenue are on his radar for the next transportation budget.",
+      "evidence": [
+       {
+        "quote": "hearing from neighbors of Aurora Avenue about the scarcity of safe pedestrian crossings in the Fremont neighborhood. He said that's now on his radar for the next state transportation budget.",
+        "url": "https://www.yakimaherald.com/news/northwest/washington-millionaires-tax-lawmaker-faces-reelection-challenge-from-the-left/article_0531e762-0715-507e-b886-b2f42c4ec893.html",
+        "source": "Seattle Times (via Yakima Herald)"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "transit": {
+      "stance": "supports",
+      "why": "Wants investment in a connected multimodal transit system and housing near transit, rather than highway expansion.",
+      "evidence": [
+       {
+        "quote": "investing meaningfully in a truly multimodal and connected state",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       },
+       {
+        "quote": "a culture shift away from highway expansion at all costs",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "climate": {
+   "summary": "Both candidates support the Climate Commitment Act. Pedersen defends how its funds have been spent and says he would accept fewer data centers to meet clean-grid goals; Sabio-Howell opposes diverting CCA funds to other uses. Both supported a 2026 bill to make data centers bear their energy costs.",
+   "differ": false,
+   "positions": {
+    "sos-1602096": {
+     "strong_climate_action": {
+      "stance": "supports",
+      "why": "Defends the Climate Commitment Act and supports making data centers pay the full cost of the energy they use.",
+      "evidence": [
+       {
+        "quote": "I worked to defend the Climate Commitment Act, a landmark policy targeting a 95% emissions reduction by 2050.",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "I think absolutely those facilities ought to pay the full cost of the energy and water that they use.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "strong_climate_action": {
+      "stance": "supports",
+      "why": "Opposes diverting Climate Commitment Act funds away from climate goals.",
+      "evidence": [
+       {
+        "quote": "the raiding of CCA funding - or diverting of CCA funding - is ultimately a short-term fix that will be unhelpful or even harmful in the long run",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "schools": {
+   "summary": "Both candidates support more K-12 funding and child care investment. Pedersen sponsored the 2025 special education funding increase and points to millionaires tax money dedicated to child care; Sabio-Howell proposes universal pre-K, a home-care cash benefit, and expanded paid parental leave as steps toward universal child care.",
+   "differ": false,
+   "positions": {
+    "sos-1602096": {
+     "school_funding": {
+      "stance": "supports",
+      "why": "Sponsored the 2025 special education funding bill and says he is committed to funding schools.",
+      "evidence": [
+       {
+        "quote": "As prime sponsor of SB 5263 , I secured a $750 million increase in special education services.",
+        "url": "https://peopleforpedersen.org/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "He is committed to amply funding schools",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "child_care": {
+      "stance": "supports",
+      "why": "Says the millionaires tax dedicates 5% of revenue to child care and early learning (Fair Start for Kids).",
+      "evidence": [
+       {
+        "quote": "We dedicated in the Millionaire's Tax - 5% of the revenue from the tax to pay for the investments that we intend to make in Fair Start for Kids.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "school_funding": {
+      "stance": "supports",
+      "why": "Calls funding basic education the Legislature's first priority and supports higher pay for teachers and paraeducators.",
+      "evidence": [
+       {
+        "quote": "The paramount duty of the state legislature is to fund basic education, and that needs to be a critical priority",
+        "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+        "source": "The Urbanist interview"
+       },
+       {
+        "quote": "Increasing pay, workplace standards, and safety for paraeducators and teachers",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "child_care": {
+      "stance": "supports",
+      "why": "Proposes universal pre-K, a home-care cash benefit for 2- and 3-year-olds, and restoring Working Connections Child Care enrollment.",
+      "evidence": [
+       {
+        "quote": "Building a universal pre-K program statewide and establishing a flexible home-care cash benefit for families seeking care for 2- and 3-year-olds.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Restoring enrollment in Washington’s Working Connections Childcare program",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "health": {
+   "summary": "Both candidates support abortion access. Sabio-Howell has also called for expanding health coverage and eventually universal health care; Pedersen has described federal Medicaid cuts as a crisis for the state but has not stated a specific coverage proposal in the sources reviewed.",
+   "differ": false,
+   "positions": {
+    "sos-1602096": {
+     "abortion_access": {
+      "stance": "supports",
+      "why": "Cites state funding for Planned Parenthood after federal cuts.",
+      "evidence": [
+       {
+        "quote": "We funded Planned Parenthood after the Trump administration cut funding, threatening access to reproductive healthcare and abortion care.",
+        "url": "https://peopleforpedersen.org/",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "abortion_access": {
+      "stance": "supports",
+      "why": "Serves on the Pro-Choice Washington PAC board, working on reproductive justice.",
+      "evidence": [
+       {
+        "quote": "Member, Pro-Choice Washington PAC Board",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "expand_coverage": {
+      "stance": "supports",
+      "why": "Wants the state to protect and reinvest in health care against federal cuts and work toward universal health care.",
+      "evidence": [
+       {
+        "quote": "When it comes to protecting and reinvesting in health care, that’s a place where the state legislature is on the front line",
+        "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+        "source": "The Urbanist interview"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "economy": {
+   "summary": "Both candidates support labor protections and say small businesses pay too much in taxes. Pedersen cites unemployment insurance for striking workers and supports requiring public employers to bargain over AI but is not ready to extend that to the private sector; Sabio-Howell supports a mandate for all employers to bargain over AI.",
+   "differ": true,
+   "positions": {
+    "sos-1602096": {
+     "worker_protections": {
+      "stance": "supports",
+      "why": "Cites passage of unemployment insurance for striking workers; supports AI bargaining for public-sector unions.",
+      "evidence": [
+       {
+        "quote": "My first year as Majority Leader, we passed unemployment insurance for striking workers",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       },
+       {
+        "quote": "for public sector unions, I would say unequivocally, yes. I think that management should have to bargain about AI that could replace workers.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       },
+       {
+        "quote": "I'm not ready to say that for sure in the private sector.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     },
+     "small_business": {
+      "stance": "supports",
+      "why": "Says the millionaires tax package reduces taxes for small businesses.",
+      "evidence": [
+       {
+        "quote": "reducing taxes for lower income families and small businesses",
+        "url": "https://peopleforpedersen.org/",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "worker_protections": {
+      "stance": "supports",
+      "why": "Worked on raising wages and labor standards and supports making AI a subject of bargaining.",
+      "evidence": [
+       {
+        "quote": "At Working Washington, I fought alongside underpaid workers and took on big corporations to raise wages, strengthen labor standards, and ensure all workers have protections.",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       },
+       {
+        "quote": "PROTEC17 was championing a bill to make AI a subject of bargaining for city and county employees - that's something I would strongly support.",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     },
+     "small_business": {
+      "stance": "supports",
+      "why": "Said small businesses pay too much in taxes.",
+      "evidence": [
+       {
+        "quote": "No, they pay too much.",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "rights": {
+   "summary": "Both candidates support limiting state cooperation with federal immigration enforcement and protecting transgender people. Pedersen cites laws banning masked agents and limiting data sharing with ICE; Sabio-Howell calls the mask ban unenforceable and proposes further steps, such as barring law enforcement from hiring former ICE officers. Sabio-Howell also supports even-year local elections.",
+   "differ": false,
+   "positions": {
+    "sos-1602096": {
+     "protect_immigrants": {
+      "stance": "supports",
+      "why": "Cites bans on masked ICE agents and on sharing camera data with ICE; says state data should not be used for immigration enforcement.",
+      "evidence": [
+       {
+        "quote": "We've banned the use of masks and Flock cameras by ICE agents to better protect everyone in our community.",
+        "url": "https://peopleforpedersen.org/",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "We do not want the federal government using state data for immigration enforcement, period.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     },
+     "equity_programs": {
+      "stance": "supports",
+      "why": "Cites leading marriage equality and LGBTQ+ and transgender protections.",
+      "evidence": [
+       {
+        "quote": "I will never stop standing up for the LGBTQ+ community.",
+        "url": "https://peopleforpedersen.org/",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "protect_immigrants": {
+      "stance": "supports",
+      "why": "Proposes protecting data from immigration enforcement, removing incentives for ICE contractors, and banning hiring of former ICE officers.",
+      "evidence": [
+       {
+        "quote": "Protecting our sensitive data from access by immigration enforcement and stripping incentives from companies that contract with ICE.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Banning state and local law enforcement from hiring former ICE officers.",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "the mask ban was a good step, but it is unenforceable",
+        "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+        "source": "Hacks & Wonks interview"
+       }
+      ]
+     },
+     "equity_programs": {
+      "stance": "supports",
+      "why": "Campaign platform includes protecting immigrant and transgender communities.",
+      "evidence": [
+       {
+        "quote": "Protecting immigrant and trans communities’ right to safety, opportunity, and freedom",
+        "url": "https://hannahforwashington.com/issues",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "voting_access": {
+      "stance": "supports",
+      "why": "Supports even-year elections for local offices and a full-time Legislature.",
+      "evidence": [
+       {
+        "quote": "Sabio-Howell expressed support for",
+        "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+        "source": "The Urbanist interview"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "government": {
+   "summary": "Both candidates call for more revenue to fund public services. Sabio-Howell pledged at a June forum to rule out state job cuts; Pedersen said he could not rule out some reductions in the state workforce while negotiating a budget.",
+   "differ": true,
+   "positions": {
+    "sos-1602096": {
+     "public_services": {
+      "stance": "supports",
+      "why": "Supports new revenue so courts, public defense and local services can be fully funded; said he could not rule out state workforce reductions.",
+      "evidence": [
+       {
+        "quote": "So I am absolutely dedicated to finding more revenue so that the whole system can be amply funded.",
+        "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+        "source": "Hacks & Wonks interview"
+       },
+       {
+        "quote": "In my position I cannot take off the table the possibility that there would need to be some reductions in the state workforce.",
+        "url": "https://www.yakimaherald.com/news/northwest/washington-millionaires-tax-lawmaker-faces-reelection-challenge-from-the-left/article_0531e762-0715-507e-b886-b2f42c4ec893.html",
+        "source": "Seattle Times (via Yakima Herald), candidate forum"
+       }
+      ]
+     }
+    },
+    "sos-1602097": {
+     "public_services": {
+      "stance": "supports",
+      "why": "Wants to expand state programs rather than hold funding flat, paid for by taxes on large corporations.",
+      "evidence": [
+       {
+        "quote": "It doesn’t feel like enough to me to defend a system that isn’t working for us, or to just hold the line on already inadequately funded programs",
+        "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+        "source": "The Urbanist interview"
+       }
+      ]
+     },
+     "transparency": {
+      "stance": "supports",
+      "why": "Says equitable access and transparency are essential in state government.",
+      "evidence": [
+       {
+        "quote": "I believe that equitable access and transparency is a non-negotiable part of a state government that truly serves us.",
+        "url": "https://hannahforwashington.com/about-me",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  }
+ }
+}

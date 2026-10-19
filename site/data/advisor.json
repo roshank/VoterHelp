@@ -1,0 +1,960 @@
+{
+ "generated_at": "2026-10-19T00:21:27+00:00",
+ "questions": {
+  "housing": [
+   {
+    "id": "housing_cost",
+    "text": "What should government do most about housing costs?",
+    "options": [
+     {
+      "id": "build_more",
+      "label": "Allow more homes to be built",
+      "detail": "Zoning changes, faster permits, more density"
+     },
+     {
+      "id": "public_housing",
+      "label": "Fund affordable housing directly",
+      "detail": "Public or nonprofit housing paid for with public money"
+     },
+     {
+      "id": "tenant_protections",
+      "label": "Protect renters",
+      "detail": "Rent stabilization, eviction protections"
+     },
+     {
+      "id": "less_regulation_tax",
+      "label": "Cut costs, taxes and rules on building",
+      "detail": "Lower fees, taxes and regulations rather than new programs"
+     }
+    ]
+   },
+   {
+    "id": "homelessness",
+    "text": "What's the right approach to homelessness?",
+    "options": [
+     {
+      "id": "housing_first",
+      "label": "Housing and shelter first",
+      "detail": "More shelter, supportive and permanent housing"
+     },
+     {
+      "id": "treatment",
+      "label": "Mental health and addiction treatment",
+      "detail": "Expand treatment and behavioral health services"
+     },
+     {
+      "id": "enforce_encampments",
+      "label": "Enforce laws on encampments",
+      "detail": "Clear encampments, enforce public-space rules"
+     },
+     {
+      "id": "spending_accountability",
+      "label": "Hold homelessness spending accountable",
+      "detail": "Audit programs, measure results"
+     }
+    ]
+   }
+  ],
+  "safety": [
+   {
+    "id": "safety_approach",
+    "text": "Which approaches to public safety do you favor?",
+    "options": [
+     {
+      "id": "more_police",
+      "label": "Hire and keep more police",
+      "detail": "Officer staffing, recruitment and retention"
+     },
+     {
+      "id": "prevention",
+      "label": "Prevention and alternative responders",
+      "detail": "Violence prevention, non-police crisis response"
+     },
+     {
+      "id": "tougher_enforcement",
+      "label": "Tougher enforcement and prosecution",
+      "detail": "Stronger penalties, prosecute more crimes"
+     },
+     {
+      "id": "police_accountability",
+      "label": "Police oversight and accountability",
+      "detail": "Oversight, use-of-force rules, reform"
+     }
+    ]
+   },
+   {
+    "id": "guns",
+    "text": "On guns:",
+    "options": [
+     {
+      "id": "more_gun_laws",
+      "label": "Stronger gun laws",
+      "detail": "Permits, limits on certain weapons, safe storage"
+     },
+     {
+      "id": "gun_rights",
+      "label": "Protect gun rights",
+      "detail": "Oppose new gun restrictions"
+     }
+    ]
+   }
+  ],
+  "cost": [
+   {
+    "id": "taxes",
+    "text": "On taxes and the budget:",
+    "options": [
+     {
+      "id": "tax_wealthy",
+      "label": "Raise revenue from the wealthy and large corporations",
+      "detail": "Capital gains, wealth or payroll taxes on high earners"
+     },
+     {
+      "id": "no_new_taxes",
+      "label": "No new taxes; cut or hold taxes",
+      "detail": "Oppose tax increases, roll back taxes"
+     },
+     {
+      "id": "cut_spending",
+      "label": "Cut spending and waste",
+      "detail": "Audits, efficiency, smaller budgets"
+     },
+     {
+      "id": "relief_regressive",
+      "label": "Lower taxes on working families",
+      "detail": "Reduce sales or property tax burden, tax credits"
+     }
+    ]
+   }
+  ],
+  "transport": [
+   {
+    "id": "transport_priority",
+    "text": "What should transportation money go to first?",
+    "options": [
+     {
+      "id": "transit",
+      "label": "More and faster transit",
+      "detail": "Bus, light rail, ferries"
+     },
+     {
+      "id": "roads",
+      "label": "Roads and traffic",
+      "detail": "Road maintenance, congestion relief"
+     },
+     {
+      "id": "safe_streets",
+      "label": "Safe streets for walking and biking",
+      "detail": "Sidewalks, bike lanes, traffic safety"
+     },
+     {
+      "id": "lower_driving_costs",
+      "label": "Lower costs for drivers",
+      "detail": "Gas tax, car tabs, tolls"
+     }
+    ]
+   }
+  ],
+  "climate": [
+   {
+    "id": "climate_approach",
+    "text": "On climate and the environment:",
+    "options": [
+     {
+      "id": "strong_climate_action",
+      "label": "Strong climate action",
+      "detail": "Cut emissions, clean energy, keep or expand climate laws"
+     },
+     {
+      "id": "energy_costs_first",
+      "label": "Keep energy and gas costs down first",
+      "detail": "Oppose or roll back costly climate mandates"
+     },
+     {
+      "id": "conservation",
+      "label": "Protect land, water and wildlife",
+      "detail": "Salmon, orcas, forests, clean water"
+     }
+    ]
+   }
+  ],
+  "schools": [
+   {
+    "id": "schools_priority",
+    "text": "For schools and kids, what matters most?",
+    "options": [
+     {
+      "id": "school_funding",
+      "label": "More school funding",
+      "detail": "Fully fund schools, special education, staff"
+     },
+     {
+      "id": "parental_rights",
+      "label": "Parents' rights and say over curriculum",
+      "detail": "Parent notification and curriculum control"
+     },
+     {
+      "id": "child_care",
+      "label": "Child care and early learning",
+      "detail": "Affordable child care, pre-K"
+     },
+     {
+      "id": "student_mental_health",
+      "label": "Student safety and mental health",
+      "detail": "Counselors, school safety"
+     }
+    ]
+   }
+  ],
+  "health": [
+   {
+    "id": "health_priority",
+    "text": "On health care:",
+    "options": [
+     {
+      "id": "expand_coverage",
+      "label": "Expand coverage and lower costs",
+      "detail": "Medicaid, public options, drug prices"
+     },
+     {
+      "id": "behavioral_health",
+      "label": "Mental health and addiction care",
+      "detail": "Treatment capacity, crisis care"
+     },
+     {
+      "id": "abortion_access",
+      "label": "Protect abortion access",
+      "detail": "Keep or expand reproductive health access"
+     },
+     {
+      "id": "abortion_limits",
+      "label": "Limit abortion",
+      "detail": "Support restrictions on abortion"
+     }
+    ]
+   }
+  ],
+  "economy": [
+   {
+    "id": "economy_priority",
+    "text": "On jobs and the economy:",
+    "options": [
+     {
+      "id": "worker_protections",
+      "label": "Workers' pay and protections",
+      "detail": "Minimum wage, labor rights, unions"
+     },
+     {
+      "id": "small_business",
+      "label": "Help small businesses",
+      "detail": "Lower costs and red tape for local business"
+     },
+     {
+      "id": "business_climate",
+      "label": "Business-friendly climate",
+      "detail": "Fewer regulations and taxes on employers"
+     }
+    ]
+   }
+  ],
+  "rights": [
+   {
+    "id": "rights_priority",
+    "text": "On civil rights and immigration:",
+    "options": [
+     {
+      "id": "protect_immigrants",
+      "label": "Protect immigrant communities",
+      "detail": "Limit cooperation with federal immigration enforcement"
+     },
+     {
+      "id": "immigration_enforcement",
+      "label": "Cooperate with immigration enforcement",
+      "detail": "Work with federal authorities"
+     },
+     {
+      "id": "equity_programs",
+      "label": "Equity and anti-discrimination programs",
+      "detail": "Address racial and other disparities"
+     },
+     {
+      "id": "voting_access",
+      "label": "Voting access and democracy reforms",
+      "detail": "Ranked choice, voter access"
+     }
+    ]
+   }
+  ],
+  "government": [
+   {
+    "id": "government_priority",
+    "text": "On how government is run:",
+    "options": [
+     {
+      "id": "transparency",
+      "label": "Transparency and accountability",
+      "detail": "Audits, open records, measurable results"
+     },
+     {
+      "id": "smaller_government",
+      "label": "Smaller, leaner government",
+      "detail": "Cut bureaucracy and programs"
+     },
+     {
+      "id": "public_services",
+      "label": "Invest in public services",
+      "detail": "Expand what government provides"
+     }
+    ]
+   }
+  ]
+ },
+ "races": {
+  "sos-899-186703": {
+   "contest_id": "sos-899-186703",
+   "researched": "2026-10-19",
+   "candidates": {
+    "sos-1601668": {
+     "background": "Political and Partnerships Director at FairVote Washington and a Lake City resident; former PTA Advocacy Chair at John Rogers Elementary. She ran for District 5 in 2023 and applied for the 2025 council appointment; she has not held elected office, so there is no voting record.",
+     "record": []
+    },
+    "sos-1601667": {
+     "background": "Director and faculty member at Seattle University and the University of Washington, co-founder and former chair of a community bank, and co-chair of the King County Immigrant and Refugee Commission. She applied for the 2025 council appointment; she has not held elected office, so there is no voting record.",
+     "record": []
+    }
+   },
+   "issues": {
+    "housing": {
+     "summary": "Both candidates support building more housing and faster permitting, and both back Mayor Wilson's Taller Denser Faster direction. Jenks pledges 1,000 affordable units in the district, emphasizes public land, nonprofit partners and building next to light rail, and lists rental protections. Kang emphasizes shortening permit review, moving away from the Mandatory Housing Affordability (MHA) fee framework in favor of JumpStart payroll-tax money for affordable housing, and pairing growth with infrastructure. On homelessness, Jenks stresses shelter, supportive housing and behavioral health response; Kang stresses on-demand addiction treatment and coordination of services.",
+     "differ": true,
+     "positions": {
+      "sos-1601668": {
+       "build_more": {
+        "stance": "supports",
+        "why": "Supports more housing near light rail and zoning and permitting changes to make affordable housing easier to build.",
+        "evidence": [
+         {
+          "quote": "We built the transit. We should let people live next to it. That is the heart of Taller Denser Faster",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         },
+         {
+          "quote": "Faster has to actually mean faster. It cannot drift into 2028 while rents keep climbing",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         }
+        ]
+       },
+       "public_housing": {
+        "stance": "supports",
+        "why": "Pledges to champion 1,000 new affordable units in the district using public land and nonprofit developers; supports social housing.",
+        "evidence": [
+         {
+          "quote": "As a City Councilmember, Nilu Jenks will champion the creation of 1,000 new units of affordable housing in her district.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "the City must use every tool available, public land, zoning flexibility, and partnerships with nonprofit developers",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "I really wanted the Fred Meyer's location that just went up in Lake City to get social housing",
+          "url": "https://www.officialhacksandwonks.com/nilu-jenks-seattle-city-council-district-5-candidate-shares-her-priorities-and-plans/",
+          "source": "Hacks & Wonks interview (June 2026)"
+         }
+        ]
+       },
+       "tenant_protections": {
+        "stance": "supports",
+        "why": "Lists rental protections, along with shelter and affordable housing, as part of public safety.",
+        "evidence": [
+         {
+          "quote": "Nobody should be living on the street. It's enough shelter beds and it's enough affordable housing. It's rental protections",
+          "url": "https://www.officialhacksandwonks.com/nilu-jenks-seattle-city-council-district-5-candidate-shares-her-priorities-and-plans/",
+          "source": "Hacks & Wonks interview (June 2026)"
+         }
+        ]
+       },
+       "housing_first": {
+        "stance": "supports",
+        "why": "Supports more shelter, supportive housing and affordable housing as the response to unsheltered homelessness.",
+        "evidence": [
+         {
+          "quote": "My biggest concern is our growing unsheltered homelessness crisis",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         },
+         {
+          "quote": "We need more affordable housing, more supportive housing, and more housing overall.",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "build_more": {
+        "stance": "supports",
+        "why": "Supports shortening permit review to build housing faster, and density with mixed-income housing.",
+        "evidence": [
+         {
+          "quote": "I’ll reduce permitting delays to build housing faster, support mixed-income and workforce housing near transit",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Fixing our broken permitting system. That starts with shortening the permit review process",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "My focus is making sure we build smarter, not just faster",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         }
+        ]
+       },
+       "public_housing": {
+        "stance": "supports",
+        "why": "Proposes directing more JumpStart payroll-tax revenue to affordable housing and continued investment in deeply affordable and supportive housing.",
+        "evidence": [
+         {
+          "quote": "Instead, we should direct more Payroll Expense Tax (“JumpStart”) revenue to fund affordable housing.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "continued investment in deeply affordable and supportive housing so longtime residents aren't priced out",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         }
+        ]
+       },
+       "less_regulation_tax": {
+        "stance": "supports",
+        "why": "Proposes moving away from the MHA fee on new housing and supported the proposed temporary MHA fee reduction.",
+        "evidence": [
+         {
+          "quote": "Moving away from the Mandatory Housing Affordability (MHA) framework, which is a tax on desperately needed housing.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "I am disappointed that Mayor Wilson chose not to move forward with the proposal",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         }
+        ]
+       },
+       "treatment": {
+        "stance": "supports",
+        "why": "Supports expanding mental health and on-demand substance use treatment for unhoused people, alongside housing and coordinated services.",
+        "evidence": [
+         {
+          "quote": "My second priority is addressing chronic homelessness with care, treatment, housing, and accountability.",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Expanding access to on-demand substance use disorder treatment so that our unhoused neighbors can get onto a path of recovery.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "safety": {
+     "summary": "Both candidates support alternative responders through the CARE Department and gun violence prevention, and both said at a KUOW debate they would support a mini or satellite police precinct in North Seattle. Kang supports restoring police staffing, keeping SPD's CCTV cameras on along Aurora, and the SOAP (Stay Out of Areas of Prostitution) ordinance; she opposed cameras and SOAP early in the campaign and has said she changed her view after research. Jenks opposes the CCTV program and SOAP, emphasizes CARE, violence interruption, detectives and police oversight bodies, and has said she supports a 1,200-officer level. On guns, Jenks backs safe storage and violence intervention; Kang backs gun violence prevention and tracking how guns are owned and stored.",
+     "differ": true,
+     "positions": {
+      "sos-1601668": {
+       "prevention": {
+        "stance": "supports",
+        "why": "Supports a 24/7 CARE Department for behavioral health calls, community violence intervention and alternative response teams.",
+        "evidence": [
+         {
+          "quote": "It means a fully funded CARE Department responding 24/7 to behavioral health calls, working in true partnership with SPD and Fire Response so every call gets the right responder.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "We should bring alternative response teams to fill this gap",
+          "url": "https://www.fox13seattle.com/news/seattle-council-district-5-candidates",
+          "source": "FOX 13 Seattle"
+         }
+        ]
+       },
+       "more_police": {
+        "stance": "supports",
+        "why": "Says she supports a 1,200-officer level and hiring detectives and undercover officers; has also said promises of large police hiring have not been met.",
+        "evidence": [
+         {
+          "quote": "I support 1,200 police. I've said actively, I support hiring detectives and undercover work that we saw was very successful on Aurora.",
+          "url": "https://www.fox13seattle.com/news/seattle-council-district-5-candidates",
+          "source": "FOX 13 Seattle"
+         },
+         {
+          "quote": "We haven’t hired 200 police officers, right? So people still offering the same solution.",
+          "url": "https://www.kuow.org/2026-07-31/despite-stats-gun-violence-is-top-issue-in-north-seattle-primary-election",
+          "source": "KUOW"
+         }
+        ]
+       },
+       "tougher_enforcement": {
+        "stance": "opposes",
+        "why": "Opposes the SOAP ordinance and SPD's CCTV camera program on Aurora, citing results and civil-liberties concerns.",
+        "evidence": [
+         {
+          "quote": "We brought it back, it didn't work before, and it's not working now, so that's not maybe our best solution.",
+          "url": "https://www.kuow.org/governing/2026-09-24/what-should-be-done-about-seattles-aurora-ave-district-5-council-candidates-debate-public-safety",
+          "source": "KUOW debate coverage"
+         },
+         {
+          "quote": "I strongly suggest people think about the trade-offs or civil liberties",
+          "url": "https://www.kuow.org/governing/2026-09-24/what-should-be-done-about-seattles-aurora-ave-district-5-council-candidates-debate-public-safety",
+          "source": "KUOW debate coverage"
+         },
+         {
+          "quote": "I am very concerned about our cameras",
+          "url": "https://www.fox13seattle.com/news/seattle-council-district-5-candidates",
+          "source": "FOX 13 Seattle"
+         }
+        ]
+       },
+       "police_accountability": {
+        "stance": "supports",
+        "why": "Pledges to defend the independence of the city's police accountability bodies (CPC, OPA, OIG).",
+        "evidence": [
+         {
+          "quote": "She will also defend the independence of Seattle's police accountability bodies — the CPC, OPA, and OIG — so accountability has real teeth.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "more_gun_laws": {
+        "stance": "supports",
+        "why": "Supports safe storage efforts and community and hospital-based violence intervention.",
+        "evidence": [
+         {
+          "quote": "champion safe storage and school partnerships to keep guns out of young people's hands",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Gun violence is a public health crisis, and Nilu will treat it like one.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "more_police": {
+        "stance": "supports",
+        "why": "Supports rebuilding SPD staffing and a second police precinct location in District 5.",
+        "evidence": [
+         {
+          "quote": "Building back Seattle Police Department staffing levels and moving forward with a second police precinct in District 5.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "I fully support restoring the number of officers we need",
+          "url": "https://www.fox13seattle.com/news/seattle-council-district-5-candidates",
+          "source": "FOX 13 Seattle"
+         }
+        ]
+       },
+       "tougher_enforcement": {
+        "stance": "supports",
+        "why": "Supports the SOAP zone on Aurora, keeping SPD's CCTV cameras on with safeguards, and shutting down open-air drug markets; she opposed SOAP and cameras earlier in the race and says she changed her view after research.",
+        "evidence": [
+         {
+          "quote": "Using every tool in our tool box to bring pimps and johns to justice, including the Stay Out of Area Prostitution (SOAP) zone along Aurora Ave. N.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "I also support we use the public safety cameras with ensuring that it is safe for all of the members and the rules we have such as SOAP.",
+          "url": "https://www.fox13seattle.com/news/seattle-council-district-5-candidates",
+          "source": "FOX 13 Seattle"
+         },
+         {
+          "quote": "I now believe the public safety benefits, particularly in addressing violent crime and improving investigations, outweigh the concerns that initially led me to oppose the technology.",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         }
+        ]
+       },
+       "prevention": {
+        "stance": "supports",
+        "why": "Supports gun violence prevention and coordinating service providers, first responders, SPD and the CARE Department.",
+        "evidence": [
+         {
+          "quote": "coordinate providers, first responders, SPD, and CARE. I support police staffing, gun violence prevention, and enforcement focused on violent crime and trafficking.",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "more_gun_laws": {
+        "stance": "supports",
+        "why": "Supports gun violence prevention and has said it is important to know who owns guns and how they are stored.",
+        "evidence": [
+         {
+          "quote": "I think it’s important for us to see who owns guns, how are they stored, and then all of those stolen and unmonitored, the guns that we can’t account for",
+          "url": "https://www.theurbanist.org/educator-julie-kang-enters-fray-in-d5-seattle-council-race/",
+          "source": "The Urbanist (interview, February 2026)"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "cost": {
+     "summary": "Jenks says she is interested in progressive revenue and has proposed taxing AI use and data centers and a land value tax. Kang says the city should show a return on existing spending, has said she would not say more taxes are needed, and has criticized regressive sales tax increases, while also saying there are some opportunities to tax.",
+     "differ": true,
+     "positions": {
+      "sos-1601668": {
+       "tax_wealthy": {
+        "stance": "supports",
+        "why": "Supports progressive revenue, including taxing AI and requiring data centers to cover their costs.",
+        "evidence": [
+         {
+          "quote": "I am interested in progressive revenue, and so, that is basically shifting the burden",
+          "url": "https://www.fox13seattle.com/news/seattle-council-district-5-candidates",
+          "source": "FOX 13 Seattle"
+         },
+         {
+          "quote": "If we want data centers here, then we should be taxing them, they should be covering all the externalities",
+          "url": "https://www.officialhacksandwonks.com/nilu-jenks-seattle-city-council-district-5-candidate-shares-her-priorities-and-plans/",
+          "source": "Hacks & Wonks interview (June 2026)"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "cut_spending": {
+        "stance": "supports",
+        "why": "Says the city should review current spending and require a return on investments before adding taxes.",
+        "evidence": [
+         {
+          "quote": "We always make sure that every investment comes back with a return",
+          "url": "https://www.fox13seattle.com/news/seattle-council-district-5-candidates",
+          "source": "FOX 13 Seattle"
+         },
+         {
+          "quote": "We can’t just continue to tax, even though these are some opportunities to tax",
+          "url": "https://www.theurbanist.org/educator-julie-kang-enters-fray-in-d5-seattle-council-race/",
+          "source": "The Urbanist (interview, February 2026)"
+         }
+        ]
+       },
+       "no_new_taxes": {
+        "stance": "supports",
+        "why": "Said at a forum that she would not say the city needs to collect more taxes from residents, and cites the burden of rising taxes.",
+        "evidence": [
+         {
+          "quote": "I wouldn’t say we need to collect more taxes from our constituents",
+          "url": "https://www.theurbanist.org/jenks-and-kang-offer-differing-views-at-d5-seattle-council-forum/",
+          "source": "The Urbanist (forum coverage, July 2026)"
+         },
+         {
+          "quote": "The city must acknowledge the heavy financial burden it imposes on its own residents and local businesses through rising taxes, red tape, and inadequate basic services.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "transport": {
+     "summary": "Both candidates prioritize completing North Seattle's missing sidewalks and better east-west transit connections in the district. Jenks also proposes expanding free transit to all students.",
+     "differ": false,
+     "positions": {
+      "sos-1601668": {
+       "safe_streets": {
+        "stance": "supports",
+        "why": "Makes sidewalk construction in District 5 a top priority.",
+        "evidence": [
+         {
+          "quote": "Nilu will make sidewalk construction a top priority, especially in District 5.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "improve safety on Lake City Way and Aurora",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "transit": {
+        "stance": "supports",
+        "why": "Proposes expanding free transit to all students, including college students.",
+        "evidence": [
+         {
+          "quote": "This includes expanding free child public transit to all students in Seattle, including college and university students.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "safe_streets": {
+        "stance": "supports",
+        "why": "Supports completing North Seattle's missing sidewalk network and improving walkability.",
+        "evidence": [
+         {
+          "quote": "Matching housing growth with basic public infrastructure like completing North Seattle’s missing sidewalk network and expanding transit access, especially for east to west connectivity.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "transit": {
+        "stance": "supports",
+        "why": "Wants added bus lines and better east-west transit access in the district.",
+        "evidence": [
+         {
+          "quote": "How can we not get rid of bus lines, but add to the bus lines, so we can all get there?",
+          "url": "https://www.thestranger.com/news/julie-kang-is-running-for-city-council-district-5-80455115/",
+          "source": "The Stranger (interview, February 2026)"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "climate": {
+     "summary": "Jenks names meeting the city's climate goals as a priority and says JumpStart funds meant for the Green New Deal should not be used as a budget filler. Both candidates say tree canopy should be considered alongside new housing.",
+     "differ": true,
+     "positions": {
+      "sos-1601668": {
+       "strong_climate_action": {
+        "stance": "supports",
+        "why": "Lists meeting the city's climate goals as a priority and opposes using JumpStart Green New Deal money to fill budget gaps.",
+        "evidence": [
+         {
+          "quote": "move us toward meeting our climate goals",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "JumpStart funds were meant to support the Green New Deal, and we see it instead being a budget filler",
+          "url": "https://www.officialhacksandwonks.com/nilu-jenks-seattle-city-council-district-5-candidate-shares-her-priorities-and-plans/",
+          "source": "Hacks & Wonks interview (June 2026)"
+         }
+        ]
+       },
+       "conservation": {
+        "stance": "supports",
+        "why": "Says tree canopy and biodiversity matter as the city adds density.",
+        "evidence": [
+         {
+          "quote": "That goes back to density, but with keeping in mind that tree canopy and biodiversity matters.",
+          "url": "https://www.officialhacksandwonks.com/nilu-jenks-seattle-city-council-district-5-candidate-shares-her-priorities-and-plans/",
+          "source": "Hacks & Wonks interview (June 2026)"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "conservation": {
+        "stance": "supports",
+        "why": "Supports protecting and expanding the urban tree canopy as housing grows.",
+        "evidence": [
+         {
+          "quote": "Protecting and expanding our urban tree canopy so that increased housing also means greener, healthier, and more climate-resilient neighborhoods.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "schools": {
+     "summary": "Jenks proposes investing in affordable child care as part of a child-friendly city. Kang cites rising child care costs for families but has not stated a specific child care policy in the sources reviewed.",
+     "differ": true,
+     "positions": {
+      "sos-1601668": {
+       "child_care": {
+        "stance": "supports",
+        "why": "Supports investing in affordable child care.",
+        "evidence": [
+         {
+          "quote": "That means investing in affordable child care, improving walkability, increasing park safety, and designing public spaces with kids and families in mind",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "health": {
+     "summary": "Both candidates support expanding behavioral health and addiction services. Jenks emphasizes 24/7 CARE responses and upstream mental health investment; Kang emphasizes on-demand substance use disorder treatment.",
+     "differ": false,
+     "positions": {
+      "sos-1601668": {
+       "behavioral_health": {
+        "stance": "supports",
+        "why": "Supports investing in mental health and a 24/7 CARE response to behavioral health calls.",
+        "evidence": [
+         {
+          "quote": "That means investing upstream in housing, mental health, and youth so fewer crises happen in the first place.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "behavioral_health": {
+        "stance": "supports",
+        "why": "Supports expanding mental health and substance-use treatment, including on-demand treatment for unhoused people.",
+        "evidence": [
+         {
+          "quote": "I’ll expand mental health and substance-use treatment, connect people to housing and services",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Expanding access to on-demand substance use disorder treatment so that our unhoused neighbors can get onto a path of recovery.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "economy": {
+     "summary": "Both candidates say they will support neighborhood and immigrant-owned small businesses. Jenks has raised commercial rent stabilization; Kang has raised the cost of taxes, red tape and permitting on local businesses.",
+     "differ": false,
+     "positions": {
+      "sos-1601668": {
+       "small_business": {
+        "stance": "supports",
+        "why": "Lists supporting neighborhood businesses as a priority and has raised commercial rent stabilization.",
+        "evidence": [
+         {
+          "quote": "support neighborhood businesses",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "I'd be interested in commercial real estate stabilization.",
+          "url": "https://www.officialhacksandwonks.com/nilu-jenks-seattle-city-council-district-5-candidate-shares-her-priorities-and-plans/",
+          "source": "Hacks & Wonks interview (June 2026)"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "small_business": {
+        "stance": "supports",
+        "why": "Pledges support for immigrant-owned small businesses and cites the cost of taxes and red tape on local businesses.",
+        "evidence": [
+         {
+          "quote": "ensures that immigrant owned small businesses have the support they need to thrive",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "rights": {
+     "summary": "Both candidates support Seattle remaining a sanctuary city and limiting local involvement in federal immigration enforcement. Jenks, who works on ranked choice voting at FairVote Washington, makes implementing ranked choice voting in 2027 a priority; Kang serves on the King County election oversight committee but has not stated a position on ranked choice voting in the sources reviewed.",
+     "differ": false,
+     "positions": {
+      "sos-1601668": {
+       "protect_immigrants": {
+        "stance": "supports",
+        "why": "Supports sanctuary policies so local resources are not used for federal deportation efforts, and legal defense funds.",
+        "evidence": [
+         {
+          "quote": "Nilu will fight for robust sanctuary policies that ensure local resources are never used to support federal mass deportation efforts.",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "voting_access": {
+        "stance": "supports",
+        "why": "Prioritizes successful implementation of ranked choice voting in 2027 and voter education.",
+        "evidence": [
+         {
+          "quote": "make sure ranked choice voting is successfully implemented in 2027 so voters trust and understand the system",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "protect_immigrants": {
+        "stance": "supports",
+        "why": "Supports Seattle keeping its sanctuary city status and protecting workers of all visa statuses.",
+        "evidence": [
+         {
+          "quote": "Our city must maintain its status as a Sanctuary City and not allow federal immigration attacks to separate families or unjustly harm people living in our communities.",
+          "url": "https://julieforseattle.com/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "government": {
+     "summary": "Both candidates emphasize accountability and accessibility for District 5: Jenks proposes weekly drop-in office hours in the district, and Kang proposes district offices on Aurora and in Lake City and decisions guided by data and audits.",
+     "differ": false,
+     "positions": {
+      "sos-1601668": {
+       "transparency": {
+        "stance": "supports",
+        "why": "Calls for more accountable, responsive government and proposes weekly district office hours.",
+        "evidence": [
+         {
+          "quote": "The new District 5 councilmember must work every day to make government more accountable and responsive to neighbors’ needs",
+          "url": "https://www.neighborsfornilu.org/platform",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601667": {
+       "transparency": {
+        "stance": "supports",
+        "why": "Says decisions should be guided by data and audits, and proposes district offices on Aurora and in Lake City.",
+        "evidence": [
+         {
+          "quote": "we need a leader who relies on data, audits, and lived experience to guide decisions, rather than pure ideology",
+          "url": "https://julieforseattle.com",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "I’m committed to setting up district offices on Aurora Ave and Lake City to increase accessibility to resources",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

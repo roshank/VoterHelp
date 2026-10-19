@@ -433,7 +433,10 @@ function bottomLine(contest, brief) {
   return h("div", { class: `bottom ${clear ? "clear" : ""}` },
     h("strong", {}, clear ? `Closest to your answers: ${top.name}` : "No clear difference on what you told us"),
     h("p", { class: "small" }, clear ? "" : "On your picks, their stated positions are about the same, or there isn't enough on record. Decide on other factors like experience, background and who's funding them."),
-    h("ul", { class: "small tally" }, ranked.map((c) => h("li", {}, line(c)))));
+    h("ul", { class: "small tally" }, ranked.map((c) => h("li", {}, line(c)))),
+    ranked.some((c) => tally[c.id].unknown)
+      ? h("p", { class: "muted small" }, "“No stated position” means we found nothing on record, not that they disagree.")
+      : null);
 }
 
 function advisorPanel(contest) {

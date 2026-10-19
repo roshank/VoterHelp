@@ -1,0 +1,440 @@
+{
+  "contest_id": "sos-899-187068",
+  "researched": "2026-10-19",
+  "candidates": {
+    "sos-1602111": {
+      "background": "Incumbent state senator for the 46th District and chair of the Senate State Government, Tribal Affairs and Elections Committee; previously a state representative (appointed 2017) and a longtime City of Seattle employee working on contracting programs for women- and minority-owned businesses.",
+      "record": [
+        {
+          "text": "Prime sponsor of SSB 5855 (2026), barring law enforcement officers, including federal agents, from wearing face-concealing coverings on duty; signed into law.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5855&Year=2026",
+          "source": "WA Legislature"
+        },
+        {
+          "text": "Prime sponsor of 2SSB 5444 (2024), restricting weapons at libraries, zoos, aquariums and transit facilities; signed into law.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5444&Year=2024",
+          "source": "WA Legislature"
+        },
+        {
+          "text": "Prime sponsor of SB 5098 (2025-26), restricting weapons in public buildings, parks and playgrounds, and county fairs; passed the Senate, not enacted.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5098&Year=2025",
+          "source": "WA Legislature"
+        },
+        {
+          "text": "Voted yes on final passage of EHB 1217 (2025), which limits rent and fee increases for residential tenants.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=1217&Year=2025",
+          "source": "WA Legislature"
+        },
+        {
+          "text": "Voted yes on final passage of ESSB 6346 (2026), establishing a tax on millionaires.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+          "source": "WA Legislature"
+        },
+        {
+          "text": "Prime sponsor of SB 5077 (2025), expanding voter registration services at government agencies; enacted.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5077&Year=2025",
+          "source": "WA Legislature"
+        }
+      ]
+    },
+    "sos-1602112": {
+      "background": "Retired registered nurse (charge nurse at UW Medicine Northwest Hospital) and chair of the 46th Legislative District Republicans; has not held public office.",
+      "record": []
+    }
+  },
+  "issues": {
+    "housing": {
+      "summary": "On housing costs, Valdez cites his support for zoning reform (HB 1110), a cap on rent increases, and the state Housing Trust Fund; Stephens' homeownership page focuses on property rights without stating a position on these approaches. On homelessness, Stephens calls for addiction treatment rather than managing encampments; Valdez says he supports finding solutions to reduce homelessness but did not name a specific approach in the sources found.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "build_more": {
+            "stance": "supports",
+            "why": "Says he helped reform zoning laws to allow more housing and supported HB 1110.",
+            "evidence": [
+              {
+                "quote": "he helped reform antiquated zoning laws so that we can build more affordable housing",
+                "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+                "source": "Voters' guide statement"
+              },
+              {
+                "quote": "HB 1110, which I supported, was a great step in that direction. It's an example where the state needed to step in because of inaction by local cities.",
+                "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+                "source": "The Urbanist questionnaire (2026)"
+              }
+            ]
+          },
+          "tenant_protections": {
+            "stance": "supports",
+            "why": "Voted for EHB 1217 (2025), which limits rent and fee increases, and cites the rent cap in his statement.",
+            "evidence": [
+              {
+                "quote": "put a cap on rent increases",
+                "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+                "source": "Voters' guide statement"
+              },
+              {
+                "quote": "Improving housing stability for tenants subject to the residential landlord-tenant act and the manufactured/mobile home landlord-tenant act by limiting rent and fee increases",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=1217&Year=2025",
+                "source": "WA Legislature (voted yes on final passage, April 27, 2025)"
+              }
+            ]
+          },
+          "public_housing": {
+            "stance": "supports",
+            "why": "Points to the state Housing Trust Fund as a way to fund affordable housing.",
+            "evidence": [
+              {
+                "quote": "The Housing Trust Fund is a proven resource to help our partners build affordable housing.",
+                "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+                "source": "The Urbanist questionnaire (2026)"
+              }
+            ]
+          }
+        },
+        "sos-1602112": {
+          "treatment": {
+            "stance": "supports",
+            "why": "Calls for addiction treatment and a path to independence for people experiencing homelessness.",
+            "evidence": [
+              {
+                "quote": "helping those struggling with addiction get real treatment and a path to independence rather than simply managing the symptoms of homelessness with needles and encampments",
+                "url": "https://www.sandyforwashington.org/public-safety/",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "safety": {
+      "summary": "Stephens names public safety her top priority and says she would support law enforcement and oppose policies that weaken prosecution. Valdez sponsored the 2026 law barring law enforcement officers from concealing their faces on duty, and has sponsored laws restricting firearms in certain public places; no statement on guns from Stephens was found.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "police_accountability": {
+            "stance": "supports",
+            "why": "Prime sponsor of SSB 5855, requiring law enforcement officers, including federal agents, to be identifiable on duty.",
+            "evidence": [
+              {
+                "quote": "Concerning the use of face coverings by law enforcement officers.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=5855&Year=2026",
+                "source": "WA Legislature (prime sponsor)"
+              },
+              {
+                "quote": "Our communities deserve to know who is exercising government authority in their neighborhoods.",
+                "url": "https://senatedemocrats.wa.gov/blog/2026/01/28/senate-passes-valdez-bill-banning-law-enforcement-including-ice-from-wearing-masks-on-duty/",
+                "source": "WA Senate Democrats press release (quoting Valdez)"
+              }
+            ]
+          },
+          "more_gun_laws": {
+            "stance": "supports",
+            "why": "Sponsored restrictions on weapons in libraries, zoos, aquariums and transit facilities (2024) and in parks and county fairs (2025-26).",
+            "evidence": [
+              {
+                "quote": "writing laws that banned ghost guns and high-capacity magazines. Next session, he wants to pass legislation to prohibit carrying guns in our parks and fairgrounds.",
+                "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+                "source": "Voters' guide statement"
+              },
+              {
+                "quote": "Restricting the possession of weapons, excluding carrying a pistol by a person licensed to carry a concealed pistol, on the premises of libraries, zoos, aquariums, and transit facilities.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=5444&Year=2024",
+                "source": "WA Legislature (prime sponsor, 2SSB 5444)"
+              },
+              {
+                "quote": "Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=5098&Year=2025",
+                "source": "WA Legislature (prime sponsor, SB 5098)"
+              }
+            ]
+          }
+        },
+        "sos-1602112": {
+          "tougher_enforcement": {
+            "stance": "supports",
+            "why": "Says she will support law enforcement and push back on policies that weaken prosecution.",
+            "evidence": [
+              {
+                "quote": "I will support law enforcement, push back against policies that weaken prosecution or tie officers’ hands, and reject approaches that enable disorder.",
+                "url": "https://www.sandyforwashington.org/public-safety/",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "cost": {
+      "summary": "Valdez voted for the 2026 tax on millionaires. Stephens says she would oppose new income or gas taxes and wants spending audits and cuts before any new taxes are considered.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "tax_wealthy": {
+            "stance": "supports",
+            "why": "Voted yes on ESSB 6346 (2026), a tax on millionaires.",
+            "evidence": [
+              {
+                "quote": "voted to tax millionaires and the very wealthy to pay for free school lunches, tax relief for small businesses, and healthcare investments",
+                "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+                "source": "Voters' guide statement"
+              },
+              {
+                "quote": "Establishing a tax on millionaires.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+                "source": "WA Legislature (voted yes on final passage, March 11, 2026)"
+              }
+            ]
+          }
+        },
+        "sos-1602112": {
+          "no_new_taxes": {
+            "stance": "supports",
+            "why": "Says she will oppose new income or gas taxes.",
+            "evidence": [
+              {
+                "quote": "I will oppose new income or gas taxes that hit working families hardest",
+                "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+                "source": "Campaign website"
+              }
+            ]
+          },
+          "cut_spending": {
+            "stance": "supports",
+            "why": "Calls for spending audits and cuts to waste and bureaucracy before considering new taxes.",
+            "evidence": [
+              {
+                "quote": "Before considering any new taxes, we need full audits of spending, aggressive cuts to waste and bureaucracy, and real accountability for how every taxpayer dollar is used.",
+                "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "transport": {
+      "summary": "Valdez calls for more transit investment and supports traffic and pedestrian safety programs. Stephens says she would oppose new gas taxes; she did not state transportation spending priorities.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "transit": {
+            "stance": "supports",
+            "why": "Calls for more investment in transit.",
+            "evidence": [
+              {
+                "quote": "More investments in transit. As a frequent user of light rail and public transportation, it's critcal we support our transit infrastucture for all Washingtronians.",
+                "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+                "source": "The Urbanist questionnaire (2026)"
+              }
+            ]
+          },
+          "safe_streets": {
+            "stance": "supports",
+            "why": "Supports programs to reduce traffic and pedestrian deaths; prime sponsor of SB 5521 on traffic safety (not enacted).",
+            "evidence": [
+              {
+                "quote": "I continue to support programs to reduce traffic and pedestrian deaths as a member of the Senate Transportation Committee.",
+                "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+                "source": "The Urbanist questionnaire (2026)"
+              },
+              {
+                "quote": "Improving traffic safety.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=5521&Year=2025",
+                "source": "WA Legislature (prime sponsor, SB 5521)"
+              }
+            ]
+          }
+        },
+        "sos-1602112": {
+          "lower_driving_costs": {
+            "stance": "supports",
+            "why": "Says she will oppose new gas taxes.",
+            "evidence": [
+              {
+                "quote": "I will oppose new income or gas taxes that hit working families hardest",
+                "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "climate": {
+      "summary": "Valdez describes climate change as a crisis to address and stresses protecting the state's clean hydropower. Stephens supports restoring and protecting the environment, including Puget Sound and Lake Washington, while weighing jobs and housing costs.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "strong_climate_action": {
+            "stance": "supports",
+            "why": "Lists climate change among crises he says must be addressed now, and calls for protecting clean hydropower from data-center demand.",
+            "evidence": [
+              {
+                "quote": "the threat of climate change continues to intensify",
+                "url": "https://javiervaldez.com",
+                "source": "Campaign website"
+              },
+              {
+                "quote": "Seattle and WA State is very dependent on hydro power and the demand for data centers compromises our power grid and the ability to deliver clean, hydro power.",
+                "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+                "source": "The Urbanist questionnaire (2026)"
+              }
+            ]
+          }
+        },
+        "sos-1602112": {
+          "conservation": {
+            "stance": "supports",
+            "why": "Supports restoring and protecting the environment and waterways, balanced against jobs and housing costs.",
+            "evidence": [
+              {
+                "quote": "I support practical, science-based efforts to restore and protect our environment without devastating jobs, driving up housing costs, or ignoring the needs of families and businesses.",
+                "url": "https://www.sandyforwashington.org/responsible-environmental-stewardship/",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "schools": {
+      "summary": "Stephens supports school choice, homeschooling support, and parental authority in education. No statement on these school priorities from Valdez was found beyond citing free school lunches as a use of new tax revenue.",
+      "differ": true,
+      "positions": {
+        "sos-1602112": {
+          "parental_rights": {
+            "stance": "supports",
+            "why": "Supports school choice and calls for respecting parental authority in education.",
+            "evidence": [
+              {
+                "quote": "We need to reduce bureaucracy in education, respect parental authority, and give all options – including homeschooling and charter alternatives – fair funding so every child can thrive.",
+                "url": "https://www.sandyforwashington.org/education-choice-and-parental-rights/",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "health": {
+      "summary": "Valdez says he helped replace federal funding cut from Planned Parenthood. Stephens says health decisions belong to patients, families and doctors and emphasizes medical freedom; she did not state a position on the options listed here.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "abortion_access": {
+            "stance": "supports",
+            "why": "Says he helped backfill federal funding cut from Planned Parenthood.",
+            "evidence": [
+              {
+                "quote": "He also helped backfill money that Trump cut from Planned Parenthood",
+                "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+                "source": "Voters' guide statement"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "economy": {
+      "summary": "Valdez prime-sponsored a 2025 public employee collective bargaining law and cites tax relief for small businesses. No statement on these economic approaches from Stephens was found.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "worker_protections": {
+            "stance": "supports",
+            "why": "Prime sponsor of SSB 5503 (2025) on public employee collective bargaining, enacted.",
+            "evidence": [
+              {
+                "quote": "Concerning public employee collective bargaining processes.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=5503&Year=2025",
+                "source": "WA Legislature (prime sponsor, SSB 5503)"
+              }
+            ]
+          },
+          "small_business": {
+            "stance": "supports",
+            "why": "Cites tax relief for small businesses and help for small, women- and minority-owned businesses.",
+            "evidence": [
+              {
+                "quote": "help working families, and small, women, and minority-owned businesses recover from the pandemic",
+                "url": "https://javiervaldez.com",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "rights": {
+      "summary": "Valdez names protecting immigrant communities as a top priority, describes applying an equity lens to policy, and has sponsored voter registration and ballot-curing bills. Stephens' rights page focuses on religious liberty and parental rights; no statement on the options listed here was found.",
+      "differ": true,
+      "positions": {
+        "sos-1602111": {
+          "protect_immigrants": {
+            "stance": "supports",
+            "why": "Lists fighting for immigrant communities as a top priority and cites limits on federal agents' masks and camera surveillance.",
+            "evidence": [
+              {
+                "quote": "continuing fighting for our immigrant and underserved communities",
+                "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+                "source": "The Urbanist questionnaire (2026)"
+              },
+              {
+                "quote": "banned federal agents from using cameras to spy on immigrants",
+                "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+                "source": "Voters' guide statement"
+              }
+            ]
+          },
+          "equity_programs": {
+            "stance": "supports",
+            "why": "Says he brings a race and social justice equity lens to policy and budget decisions.",
+            "evidence": [
+              {
+                "quote": "I have worked tirelessly to bring a race and social justice equity lens to our policies and budget",
+                "url": "https://javiervaldez.com",
+                "source": "Campaign website"
+              }
+            ]
+          },
+          "voting_access": {
+            "stance": "supports",
+            "why": "Prime sponsor of enacted bills expanding agency voter registration (SB 5077, 2025) and reducing ballot rejection rates (ESSB 5890, 2024).",
+            "evidence": [
+              {
+                "quote": "Concerning expansion of voter registration services by government agencies.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=5077&Year=2025",
+                "source": "WA Legislature (prime sponsor, SB 5077)"
+              },
+              {
+                "quote": "Reducing ballot rejection rates through updates to ballot curing, canvassing, reporting, and outreach processes.",
+                "url": "https://app.leg.wa.gov/billsummary?BillNumber=5890&Year=2024",
+                "source": "WA Legislature (prime sponsor, ESSB 5890)"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "government": {
+      "summary": "Stephens calls for audits of state spending and of nonprofits that receive public funds. No statement on these approaches to running government from Valdez was found.",
+      "differ": true,
+      "positions": {
+        "sos-1602112": {
+          "transparency": {
+            "stance": "supports",
+            "why": "Calls for full spending audits and accountability for taxpayer dollars, including funds passed to nonprofits.",
+            "evidence": [
+              {
+                "quote": "Before considering any new taxes, we need full audits of spending, aggressive cuts to waste and bureaucracy, and real accountability for how every taxpayer dollar is used.",
+                "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+                "source": "Campaign website"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
