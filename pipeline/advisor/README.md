@@ -21,6 +21,9 @@ Flow:
 - **Evidence or nothing.** Mark a position (`supports`/`opposes`) only when a quote or official
   record shows it directly. Never infer a position from party, endorsements, donors, or
   demographics. No evidence means leave it out: the site shows "No stated position".
+- **Direct, not implied.** A quote must state the position itself. Hedged or conditional lines
+  ("without constantly asking residents to pay more") don't count as support for an option like
+  "no new taxes"; leave the option out and describe the nuance in the issue summary instead.
 - **Verbatim quotes.** `quote` must be copied exactly from the source at `url` (it is checked
   automatically). Keep quotes under ~300 characters. For the voters' guide use
   `https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17`; for campaign websites use the
