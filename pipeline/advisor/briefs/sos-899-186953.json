@@ -1,0 +1,605 @@
+{
+ "contest_id": "sos-899-186953",
+ "researched": "2026-10-19",
+ "candidates": {
+  "sos-1601900": {
+   "background": "U.S. Representative for Washington's 7th District since 2017 and former Washington State Senator (2015-2017); founder and former executive director of the immigrant-advocacy group OneAmerica. Serves on the House Judiciary, Foreign Affairs and Budget committees.",
+   "record": [
+    {
+     "text": "Lead sponsor of H.R. 3069, the Medicare for All Act of 2025 (introduced April 29, 2025), to establish a national health insurance program.",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+     "source": "GovInfo (U.S. GPO) bill text"
+    },
+    {
+     "text": "Lead sponsor of H.R. 8085, the Ultra-Millionaire Tax Act of 2026 (introduced March 25, 2026), which would impose an annual tax on the net value of very large personal assets.",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8085ih/html/BILLS-119hr8085ih.htm",
+     "source": "GovInfo (U.S. GPO) bill text"
+    },
+    {
+     "text": "Lead sponsor of H.R. 4457, the Housing Is a Human Right Act of 2025 (introduced July 16, 2025), which authorizes federal grants for housing and homelessness programs.",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4457ih/html/BILLS-119hr4457ih.htm",
+     "source": "GovInfo (U.S. GPO) bill text"
+    },
+    {
+     "text": "Lead sponsor of H.R. 944, the Access to Counsel Act (2025), on access to legal counsel for people held at ports of entry or U.S. Customs and Border Protection facilities.",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr944ih/html/BILLS-119hr944ih.htm",
+     "source": "GovInfo (U.S. GPO) bill text"
+    },
+    {
+     "text": "Voted No on final House passage of H.R. 1, the One Big Beautiful Bill Act (motion to concur in the Senate amendment, roll call 190, July 3, 2025).",
+     "url": "https://clerk.house.gov/Votes/2025190",
+     "source": "Clerk of the U.S. House, roll call vote"
+    },
+    {
+     "text": "Voted Nay on H.R. 29, the Laken Riley Act, which requires federal detention of certain non-citizens charged with theft-related crimes (roll call 6, January 7, 2025).",
+     "url": "https://clerk.house.gov/Votes/20256",
+     "source": "Clerk of the U.S. House, roll call vote"
+    }
+   ]
+  },
+  "sos-1601901": {
+   "background": "Business owner (Meineke franchises; former co-owner of Bistro Baffi restaurant in Normandy Park), U.S. Marine Corps veteran (2011-2014) and former Lakewood police officer (2017). Has not held elected office, so has no voting record.",
+   "record": []
+  }
+ },
+ "issues": {
+  "housing": {
+   "summary": "Both candidates support federal money for housing. Jayapal sponsors the Housing Is a Human Right Act and lists housing and shelter funding she secured; Sheth says he will fight for federal funding to keep families in voucher-supported housing and calls for affordable housing to address homelessness.",
+   "differ": false,
+   "positions": {
+    "sos-1601900": {
+     "public_housing": {
+      "stance": "supports",
+      "why": "Sponsors the Housing Is a Human Right Act to fund affordable housing; lists federal housing funding secured for the district.",
+      "evidence": [
+       {
+        "quote": "the Housing is a Human Right Act to invest billions into affordable housing",
+        "url": "https://www.pramilaforcongress.com/bio",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "$12.3 million for housing, including 300 new units and emergency shelter for 200 people",
+        "url": "https://www.pramilaforcongress.com/real-results",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "housing_first": {
+      "stance": "supports",
+      "why": "Sponsors H.R. 4457, a federal bill on homelessness that funds housing and shelter programs, and cites emergency shelter funding.",
+      "evidence": [
+       {
+        "quote": "To address root causes of homelessness, meet the needs of community",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4457ih/html/BILLS-119hr4457ih.htm",
+        "source": "GovInfo (U.S. GPO) bill text, H.R. 4457"
+       },
+       {
+        "quote": "build affordable housing",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "public_housing": {
+      "stance": "supports",
+      "why": "Says he will seek federal funding to keep families in voucher-supported housing.",
+      "evidence": [
+       {
+        "quote": "I will fight for federal 'Bridge-to-Work' funding that keeps families housed while providing the job training HUD is now prioritizing.",
+        "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+        "source": "The Urbanist candidate questionnaire (2026)"
+       }
+      ]
+     },
+     "housing_first": {
+      "stance": "supports",
+      "why": "States that his goal is to build affordable housing to address homelessness.",
+      "evidence": [
+       {
+        "quote": "My goal is to create sustainable & affordable housing to solve homelessness",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "safety": {
+   "summary": "Sheth's stated focus is police staffing and enforcing existing laws. Jayapal's evidence is from her voting record: she voted for the George Floyd Justice in Policing Act (2021) and lists the 2022 Bipartisan Safer Communities Act gun law among legislation she helped pass. Neither has stated a position on the other's main options.",
+   "differ": true,
+   "positions": {
+    "sos-1601900": {
+     "police_accountability": {
+      "stance": "supports",
+      "why": "Voted Yea on House passage of the George Floyd Justice in Policing Act of 2021 (roll call 60).",
+      "evidence": [
+       {
+        "quote": "George Floyd Justice in Policing Act of 2021",
+        "url": "https://clerk.house.gov/Votes/202160",
+        "source": "Clerk of the U.S. House, roll call vote"
+       }
+      ]
+     },
+     "more_gun_laws": {
+      "stance": "supports",
+      "why": "Lists the Bipartisan Safer Communities Act (2022), which she voted for, among legislation she helped pass.",
+      "evidence": [
+       {
+        "quote": "The first major gun safety law in over thirty years.",
+        "url": "https://www.pramilaforcongress.com/real-results",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "more_police": {
+      "stance": "supports",
+      "why": "Supports funding to hire more police, directed to recruitment, training and retention.",
+      "evidence": [
+       {
+        "quote": "ensure dollars go to recruitment, training, and retention — not consultants.",
+        "url": "https://shethforcongress.com/issues/public-safety",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "bringing law & order back to Seattle",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "tougher_enforcement": {
+      "stance": "supports",
+      "why": "Calls for enforcing existing laws and prioritizing law-abiding citizens.",
+      "evidence": [
+       {
+        "quote": "Washington doesn’t need experimental policing — it needs leaders who enforce existing laws.",
+        "url": "https://shethforcongress.com/issues/public-safety",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Supporting our emergency services and making crime illegal again in Washington State is crucial.",
+        "url": "https://www.shethforcongress.com",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "cost": {
+   "summary": "Jayapal sponsors a federal wealth tax on the largest fortunes. Sheth's campaign site criticizes Washington's existing and proposed taxes, including the capital-gains, estate and income taxes, and calls for lower sales and property taxes and less government waste.",
+   "differ": true,
+   "positions": {
+    "sos-1601900": {
+     "tax_wealthy": {
+      "stance": "supports",
+      "why": "Lead sponsor of the Ultra-Millionaire Tax Act of 2026, a federal tax on very large net worth.",
+      "evidence": [
+       {
+        "quote": "Ultra-Millionaire Tax Act of 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8085ih/html/BILLS-119hr8085ih.htm",
+        "source": "GovInfo (U.S. GPO) bill text, H.R. 8085"
+       },
+       {
+        "quote": "establish an ultra-millionaire wealth tax",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "no_new_taxes": {
+      "stance": "supports",
+      "why": "Says layers of taxes are raising living costs and that state taxes, including new income and capital-gains taxes, are driving employers away.",
+      "evidence": [
+       {
+        "quote": "Layers of taxes are driving up the cost of everything from rent to groceries.",
+        "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "A capital-gains tax, last year’s record-high estate-tax rate, and a new income tax",
+        "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "cut_spending": {
+      "stance": "supports",
+      "why": "Proposes cutting some grants and investigating waste in government spending.",
+      "evidence": [
+       {
+        "quote": "Investigate fraud, waste, and abuse in government spending.",
+        "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Defunding foreign nations non essential experimental grants, freezing Senate & House pay during government shutdown",
+        "url": "https://ivoterguide.com/candidate/77553/race/34878/election/1502",
+        "source": "iVoterGuide candidate questionnaire (2026), candidate's written answer"
+       }
+      ]
+     },
+     "relief_regressive": {
+      "stance": "supports",
+      "why": "Calls for lowering the sales tax and expanding senior property-tax relief.",
+      "evidence": [
+       {
+        "quote": "refusing to lower the most regressive tax",
+        "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Fix senior property-tax relief by raising qualifying income and simplifying access.",
+        "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "transport": {
+   "summary": "Both candidates support transit and road investment. Jayapal requested federal project funding for Sound Transit and lists the 2021 infrastructure law among legislation she helped pass; Sheth says transit should be the easiest choice for commuters and supports maintaining bridges and roads.",
+   "differ": false,
+   "positions": {
+    "sos-1601900": {
+     "transit": {
+      "stance": "supports",
+      "why": "Requested federal Community Project Funding for Sound Transit light rail reliability work (FY26).",
+      "evidence": [
+       {
+        "quote": "for Sound Transit’s Link Reliability Improvements",
+        "url": "https://jayapal.house.gov/2025/06/20/jayapal-announces-community-project-funding-requests-for-fy26/",
+        "source": "Rep. Jayapal official House website"
+       }
+      ]
+     },
+     "roads": {
+      "stance": "supports",
+      "why": "Voted for the 2021 Bipartisan Infrastructure Law (roll call 369, Nov. 5, 2021) and lists road and bridge rebuilding among its results.",
+      "evidence": [
+       {
+        "quote": "Rebuild our roads, bridges, ports, and airports, replace lead pipes, and create new good-paying green, union jobs",
+        "url": "https://www.pramilaforcongress.com/real-results",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "transit": {
+      "stance": "supports",
+      "why": "Says he supports investing in transit to reduce gridlock and costs for families.",
+      "evidence": [
+       {
+        "quote": "By investing in transit, we aren't just laying tracks; we are expanding opportunity, reducing costs for families, and ensuring our city remains competitive.",
+        "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+        "source": "The Urbanist candidate questionnaire (2026)"
+       }
+      ]
+     },
+     "roads": {
+      "stance": "supports",
+      "why": "Advocates maintaining and improving bridges and roads.",
+      "evidence": [
+       {
+        "quote": "bridges and roads, understanding that a robust and reliable infrastructure is the backbone of economic growth",
+        "url": "https://shethforcongress.com/issues/infrastructure",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "climate": {
+   "summary": "Jayapal supports a transition to 100% clean energy and voted for the 2022 Inflation Reduction Act. Sheth puts keeping residential energy bills down first, supports nuclear (SMR) and renewable power, and calls for auditing Washington's Climate Commitment Act for its effect on prices.",
+   "differ": true,
+   "positions": {
+    "sos-1601900": {
+     "strong_climate_action": {
+      "stance": "supports",
+      "why": "Supports a transition to a 100% clean energy economy; voted Yea on the Inflation Reduction Act (H.R. 5376, roll call 420, Aug. 12, 2022).",
+      "evidence": [
+       {
+        "quote": "climate action so we finally transition to a 100% clean energy economy while prioritizing environmental justice",
+        "url": "https://www.pramilaforcongress.com/bio",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "To provide for reconciliation pursuant to title II of S. Con. Res. 14",
+        "url": "https://clerk.house.gov/Votes/2022420",
+        "source": "Clerk of the U.S. House, roll call vote"
+       }
+      ]
+     },
+     "conservation": {
+      "stance": "supports",
+      "why": "States support for access to clean air, safe drinking water and public lands.",
+      "evidence": [
+       {
+        "quote": "ensuring everyone has access to clean air, safe drinking water, and public lands",
+        "url": "https://www.pramilaforcongress.com/bio",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "energy_costs_first": {
+      "stance": "supports",
+      "why": "Says residential energy bills should not rise to meet corporate demand and calls for auditing the Climate Commitment Act's effect on consumer prices.",
+      "evidence": [
+       {
+        "quote": "we cannot allow residential energy bills to skyrocket to meet corporate demand",
+        "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+        "source": "The Urbanist candidate questionnaire (2026)"
+       },
+       {
+        "quote": "to measure its impact on consumer prices and ensure funds achieve meaningful results.",
+        "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "schools": {
+   "summary": "Only Sheth has stated K-12 positions: he supports reversing state K-12 budget cuts and giving parents and local school boards more control. No stated K-12 position from Jayapal was found; her higher-education bill (College for All) does not map to these options.",
+   "differ": true,
+   "positions": {
+    "sos-1601901": {
+     "school_funding": {
+      "stance": "supports",
+      "why": "Supports reversing recent state K-12 budget cuts.",
+      "evidence": [
+       {
+        "quote": "Republicans will reverse Democrat-led K-12 budget cuts that have gutted classrooms and shortchanged students.",
+        "url": "https://shethforcongress.com/issues/education-and-local-control/",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "parental_rights": {
+      "stance": "supports",
+      "why": "Supports returning control to parents and local school boards and parental notification policies.",
+      "evidence": [
+       {
+        "quote": "return control to parents and local boards",
+        "url": "https://shethforcongress.com/issues/education-and-local-control/",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "health": {
+   "summary": "Jayapal sponsors Medicare for All and supports abortion rights. On a questionnaire Sheth chose the option that taxpayer-funded health care, including Medicaid and Medicare, should be abolished, citing fraud. He has written that abortion decisions belong to the doctor or pregnant woman, but on the same questionnaire he also marked 'Strongly Agree' that human life deserves legal protection from conception. He supports directing opioid settlement money to treatment.",
+   "differ": true,
+   "positions": {
+    "sos-1601900": {
+     "expand_coverage": {
+      "stance": "supports",
+      "why": "Lead sponsor of the Medicare for All Act of 2025.",
+      "evidence": [
+       {
+        "quote": "To establish an improved Medicare-for-All national health insurance",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+        "source": "GovInfo (U.S. GPO) bill text, H.R. 3069"
+       },
+       {
+        "quote": "I’m leading the fight for the Medicare for All Act to ensure that universal healthcare is a right, not a privilege.",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "abortion_access": {
+      "stance": "supports",
+      "why": "Lists protecting abortion rights among her work in Congress.",
+      "evidence": [
+       {
+        "quote": "protect abortion rights",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "expand_coverage": {
+      "stance": "opposes",
+      "why": "On the iVoterGuide questionnaire chose option D ('Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded'), citing fraud.",
+      "evidence": [
+       {
+        "quote": "D, I have witnessed personally where this programs are just getting abused for fraud",
+        "url": "https://ivoterguide.com/candidate/77553/race/34878/election/1502",
+        "source": "iVoterGuide candidate questionnaire (2026), candidate's written answer"
+       }
+      ]
+     },
+     "abortion_access": {
+      "stance": "supports",
+      "why": "Wrote that abortion is a decision for the doctor or pregnant woman and named bodily autonomy among rights to protect. On the same iVoterGuide questionnaire he also marked 'Strongly Agree' that human life deserves legal protection from conception.",
+      "evidence": [
+       {
+        "quote": "This choice is only belong to either doctor or pregnant woman.",
+        "url": "https://ivoterguide.com/candidate/77553/race/34878/election/1502",
+        "source": "iVoterGuide candidate questionnaire (2026), candidate's written answer"
+       },
+       {
+        "quote": "whether that’s your right to vote, your right to marry who you love, or your right to bodily autonomy",
+        "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+        "source": "The Urbanist candidate questionnaire (2026)"
+       }
+      ]
+     },
+     "behavioral_health": {
+      "stance": "supports",
+      "why": "Supports directing cannabis and opioid settlement revenue to treatment, and mandatory treatment for repeat drug-possession offenders.",
+      "evidence": [
+       {
+        "quote": "Dedicate cannabis and opioid settlement revenue to local law enforcement and treatment",
+        "url": "https://shethforcongress.com/issues/public-safety",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "economy": {
+   "summary": "Jayapal's stated focus is workers: a higher federal minimum wage and the PRO Act on union organizing. Sheth's stated focus is employers: fewer regulations on small businesses and a more business-friendly climate.",
+   "differ": true,
+   "positions": {
+    "sos-1601900": {
+     "worker_protections": {
+      "stance": "supports",
+      "why": "Supports a $15 federal minimum wage; voted Yea on the PRO Act (H.R. 842, roll call 70, March 9, 2021).",
+      "evidence": [
+       {
+        "quote": "to increase the federal minimum wage to $15.",
+        "url": "https://www.pramilaforcongress.com/real-results",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Protecting the Right to Organize Act",
+        "url": "https://clerk.house.gov/Votes/202170",
+        "source": "Clerk of the U.S. House, roll call vote"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "small_business": {
+      "stance": "supports",
+      "why": "Supports reducing regulations that he says weigh on small businesses.",
+      "evidence": [
+       {
+        "quote": "reducing the weight of unnecessary government regulations",
+        "url": "https://shethforcongress.com/issues/smallbusinesses",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "business_climate": {
+      "stance": "supports",
+      "why": "Supports investment in small businesses and streamlining bureaucracy for a more business-friendly climate.",
+      "evidence": [
+       {
+        "quote": "encouraging direct investment into small businesses and streamlining bureaucratic processes to foster a more business-friendly climate",
+        "url": "https://shethforcongress.com/issues/smallbusinesses",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "rights": {
+   "summary": "Jayapal sponsors bills on legal protections for immigrants, voted against the Laken Riley Act's detention requirements, and has criticized ICE and CBP actions. Sheth supports border security and coordinating with federal efforts to remove violent offenders who are in the country illegally, while also calling for simpler legal immigration.",
+   "differ": true,
+   "positions": {
+    "sos-1601900": {
+     "protect_immigrants": {
+      "stance": "supports",
+      "why": "Has opposed ICE and CBP actions and sponsors the Access to Counsel Act and Dignity for Detained Immigrants Act.",
+      "evidence": [
+       {
+        "quote": "I’ve been on the frontlines of holding Trump accountable, including around the lawless ICE and CBP actions that have kidnapped and disappeared our neighbors.",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       },
+       {
+        "quote": "the Dignity for Detained Immigrants Act to stop the use of private, for-profit detention centers",
+        "url": "https://www.pramilaforcongress.com/bio",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "immigration_enforcement": {
+      "stance": "opposes",
+      "why": "Voted Nay on the Laken Riley Act (H.R. 29), which requires federal detention of certain non-citizens (roll call 6, Jan. 7, 2025).",
+      "evidence": [
+       {
+        "quote": "Laken Riley Act",
+        "url": "https://clerk.house.gov/Votes/20256",
+        "source": "Clerk of the U.S. House, roll call vote"
+       }
+      ]
+     },
+     "equity_programs": {
+      "stance": "supports",
+      "why": "Lead sponsor of a Trans Bill of Rights.",
+      "evidence": [
+       {
+        "quote": "to provide comprehensive protections for transgender and nonbinary people.",
+        "url": "https://www.pramilaforcongress.com/real-results",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "immigration_enforcement": {
+      "stance": "supports",
+      "why": "Supports border security and coordination with federal efforts to remove violent offenders who are in the country illegally.",
+      "evidence": [
+       {
+        "quote": "That includes coordination with federal efforts to remove violent illegal offenders from our communities.",
+        "url": "https://shethforcongress.com/issues/public-safety",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "We must secure our borders and overhaul our laws to make legal, skilled immigration the standard, not the exception.",
+        "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+        "source": "The Urbanist candidate questionnaire (2026)"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "government": {
+   "summary": "Both candidates emphasize accountability. Jayapal leads bipartisan bills to ban stock trading by members of Congress; Sheth calls for 'military-grade accountability' and investigating fraud, waste and abuse in government spending.",
+   "differ": false,
+   "positions": {
+    "sos-1601900": {
+     "transparency": {
+      "stance": "supports",
+      "why": "Leads bipartisan bills to ban stock trading by members of Congress.",
+      "evidence": [
+       {
+        "quote": "I lead bipartisan bills that ban stock trading for Members of Congress",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     }
+    },
+    "sos-1601901": {
+     "transparency": {
+      "stance": "supports",
+      "why": "Calls for accountability in federal government and investigating waste in spending.",
+      "evidence": [
+       {
+        "quote": "I am also running for Congress to bring military-grade accountability to Washington, D.C.",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     }
+    }
+   }
+  }
+ }
+}

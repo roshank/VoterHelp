@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T00:21:27+00:00",
+ "generated_at": "2026-10-19T00:27:09+00:00",
  "questions": {
   "housing": [
    {
@@ -310,6 +310,704 @@
   ]
  },
  "races": {
+  "sos-899-186677": {
+   "contest_id": "sos-899-186677",
+   "researched": "2026-10-19",
+   "candidates": {
+    "sos-1601663": {
+     "background": "Incumbent King County Councilmember for District 8 since 2024, chair of the Health, Housing and Human Services Committee and the King County Board of Health, and a Sound Transit Board member. Previously served two terms on the Seattle City Council and worked at the Washington State Labor Council.",
+     "record": [
+      {
+       "text": "Sponsored a 2026 ordinance, approved by the council, restricting use of county-owned property as a staging area or operations base for civil immigration enforcement.",
+       "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-24-mosqueda-ice-out-of-county-property-release",
+       "source": "King County Council news release"
+      },
+      {
+       "text": "Sponsored a one-year emergency moratorium (2026), approved by the council, on accepting permits for new or expanded detention facilities in unincorporated King County.",
+       "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-03-mosqueda-detention-center-ban-release",
+       "source": "King County Council news release"
+      },
+      {
+       "text": "Sponsored legislation (2025), passed unanimously, prohibiting large corporate landlords in unincorporated King County from using algorithmic rent-setting platforms.",
+       "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2025/09-23-mosqueda-rent-price-fixing-release",
+       "source": "King County Council news release"
+      },
+      {
+       "text": "Issued a statement supporting the June 2026 King County Transportation District action funding unincorporated roads, with a share for cities.",
+       "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/06-12-mosqueda-transportation-funding-statement",
+       "source": "King County Council news release"
+      },
+      {
+       "text": "As a Sound Transit Board member, issued a statement supporting the May 2026 Sound Transit 20-year financial plan vote covering West Seattle Link and other ST3 projects.",
+       "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/05-28-mosqueda-statement-sound-transit-vote",
+       "source": "King County Council news release"
+      },
+      {
+       "text": "On the Seattle City Council, led passage in 2020 of the JumpStart payroll expense tax on large employers (described on her campaign site as progressive revenue for housing and other investments).",
+       "url": "https://www.teamteresa.org/about",
+       "source": "Campaign website"
+      }
+     ]
+    },
+    "sos-1601664": {
+     "background": "Former data analytics and technology consultant who most recently worked as a legislative assistant to Seattle City Councilmember Maritza Rivera. Has not held elected office, so has no voting record.",
+     "record": []
+    }
+   },
+   "issues": {
+    "housing": {
+     "summary": "Both candidates say they want more housing built. Mosqueda emphasizes public and nonprofit funding (including a regional housing levy and progressive revenue) and sponsored a ban on algorithmic rent-setting; Duda emphasizes faster permitting, fewer development barriers and much more density near light rail, and says public budgets alone cannot close the gap. On homelessness, Mosqueda describes a housing-first approach with outcome benchmarks; Duda calls for leading with addiction treatment, sober housing and rebuilding the regional system around measurable goals.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "build_more": {
+        "stance": "supports",
+        "why": "Supports incentives and zoning to build more housing, including density near transit.",
+        "evidence": [
+         {
+          "quote": "Create incentives to build more green, lasting and affordable housing throughout our region in partnership with local jurisdictions and communities to promote density",
+          "url": "https://www.teamteresa.org/priorities",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "leverage county financing, zoning, and surplus land policies to build more affordable units near transit and job centers",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       },
+       "public_housing": {
+        "stance": "supports",
+        "why": "Supports public and nonprofit housing funding, including social housing developers, land trusts and a regional housing levy.",
+        "evidence": [
+         {
+          "quote": "I support community land trusts and nonprofit social housing developers to take land permanently off the speculative market",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "I support the growing call for a regional Housing Levy to scale up housing in our region to meet the need.",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       },
+       "tenant_protections": {
+        "stance": "supports",
+        "why": "Sponsored a county ban on algorithmic rent-setting by large corporate landlords and lists preventing displacement as a priority.",
+        "evidence": [
+         {
+          "quote": "unanimously passed legislation sponsored by Councilmember Teresa Mosqueda to prohibit large corporate landlords from using algorithmic rent price fixing platforms",
+          "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2025/09-23-mosqueda-rent-price-fixing-release",
+          "source": "King County Council news release"
+         },
+         {
+          "quote": "My priorities remain expanding affordable housing and preventing displacement",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "housing_first": {
+        "stance": "supports",
+        "why": "Supports a housing-first approach and expanding permanent supportive housing with services.",
+        "evidence": [
+         {
+          "quote": "I support a housing-first, evidence-based approach with clear outcome benchmarks and rigorous fiscal oversight.",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "I will fight to expand permanent supportive housing and the workforce required to succeed",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       },
+       "treatment": {
+        "stance": "supports",
+        "why": "Supports investing in behavioral health services and workers.",
+        "evidence": [
+         {
+          "quote": "Increase access to care by investing in behavioral health services and workers",
+          "url": "https://www.teamteresa.org/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "spending_accountability": {
+        "stance": "supports",
+        "why": "Points to steps to bring homelessness contracts back under county oversight, including an independent financial monitor, and calls for outcome benchmarks and oversight hearings.",
+        "evidence": [
+         {
+          "quote": "we hired an independent financial monitor",
+          "url": "https://www.westsideseattle.com/robinson-papers/2026/10/16/candidates-clash-public-safety-tax-policy-and-school-funding-alki",
+          "source": "Westside Seattle (Alki Community Council forum)"
+         },
+         {
+          "quote": "My approach is to build accountability in from the start: clear outcome benchmarks, transparent reporting, timely payments to contracted providers, and regular oversight hearings so problems are caught early.",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "build_more": {
+        "stance": "supports",
+        "why": "Supports fixing permitting and allowing much more housing near light rail stations.",
+        "evidence": [
+         {
+          "quote": "It means building more housing by fixing permitting and reducing barriers to new construction",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Allow significantly more housing within several blocks of major light-rail stations",
+          "url": "https://www.nickduda.com/housingandtransit",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "less_regulation_tax": {
+        "stance": "supports",
+        "why": "Says development requirements and barriers make housing harder to finance and should be reduced to expand private supply.",
+        "evidence": [
+         {
+          "quote": "We need to greatly reduce barriers for private development to expand the total supply",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "Development requirements make projects difficult to finance, meaning less housing actually gets built.",
+          "url": "https://www.nickduda.com/housingandtransit",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "public_housing": {
+        "stance": "supports",
+        "why": "Supports public housing that is safe and stabilizing for the most vulnerable, while saying government cannot build its way out of the shortage alone.",
+        "evidence": [
+         {
+          "quote": "public housing that is safe and stabilizing for our most vulnerable",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "There is no municipal budget that won’t collapse if local government tries to build its way out of the gap.",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       },
+       "treatment": {
+        "stance": "supports",
+        "why": "Wants treatment as the primary response to addiction-related homelessness, with more public treatment beds, private beds when needed, and sober recovery housing.",
+        "evidence": [
+         {
+          "quote": "Contract with qualified private providers when public beds are unavailable.",
+          "url": "https://www.nickduda.com/treatment",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Create dedicated sober housing throughout the county-funded housing system.",
+          "url": "https://www.nickduda.com/treatment",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Housing matters, but for someone suffering from severe addiction, housing alone is not treatment.",
+          "url": "https://www.nickduda.com/treatment",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "enforce_encampments": {
+        "stance": "supports",
+        "why": "Calls for clear expectations on public safety and public spaces alongside services.",
+        "evidence": [
+         {
+          "quote": "We need a much stronger treatment, recovery, and accountability framework that connects people to services, but also sets clear expectations around public safety and public spaces.",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       },
+       "spending_accountability": {
+        "stance": "supports",
+        "why": "Supports moving away from the current regional homelessness authority structure and measuring each program against clear goals.",
+        "evidence": [
+         {
+          "quote": "Yes, I support moving away from the current KCRHA structure.",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "Each program should have clear measurable goals and outcomes and should be regularly measured against them.",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "safety": {
+     "summary": "Both candidates mention violence prevention for young people. Mosqueda frames gun and youth violence as a public health issue and calls for prevention programs and for stronger follow-through on law enforcement oversight recommendations. Duda calls for recruiting and retaining officers, escalating consequences for repeat offenders, aggressive pursuit of traffickers and dealers, and fixing jail medical intake; he said he did not yet have a position on making oversight recommendations binding.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "prevention": {
+        "stance": "supports",
+        "why": "Supports gun and youth violence prevention programs and funding for community-based services.",
+        "evidence": [
+         {
+          "quote": "Address gun, youth, and interpersonal violence as the public health crisis they are by expanding gun awareness programming and money for dispute resolution programming",
+          "url": "https://www.teamteresa.org/priorities",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "improving community safety through behavioral health and gun violence prevention",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "police_accountability": {
+        "stance": "supports",
+        "why": "Says advisory-only oversight (OLEO) recommendations are insufficient and the council should push for stronger accountability on use of force and traffic enforcement.",
+        "evidence": [
+         {
+          "quote": "The current advisory-only structure for OLEO recommendations is insufficient",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "I believe the Council should be much more actively involved in advancing these recommendations, particularly around use of force, traffic enforcement, and community safety.",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "more_police": {
+        "stance": "supports",
+        "why": "Supports competitive pay and staffing to recruit and retain officers.",
+        "evidence": [
+         {
+          "quote": "We should recruit, train, and retain excellent officers, compensate them competitively, and expect professionalism in return.",
+          "url": "https://www.nickduda.com/publicsafety",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "tougher_enforcement": {
+        "stance": "supports",
+        "why": "Supports escalating consequences for repeat offenders after diversion and aggressively pursuing traffickers and drug dealers.",
+        "evidence": [
+         {
+          "quote": "Escalate consequences for repeated offenses when previous interventions have failed.",
+          "url": "https://www.nickduda.com/publicsafety",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Aggressively pursue pimps, dealers, and organized exploitation.",
+          "url": "https://www.nickduda.com/publicsafety",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "prevention": {
+        "stance": "supports",
+        "why": "Supports youth programs and earlier intervention in areas with persistent violence, and stabilization centers for people in crisis.",
+        "evidence": [
+         {
+          "quote": "Expand youth sports, mentorship, employment, and after-school opportunities in neighborhoods experiencing persistent violence.",
+          "url": "https://www.nickduda.com/publicsafety",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "police_accountability": {
+        "stance": "supports",
+        "why": "Says independent oversight of law enforcement is essential, but said he needed more information before taking a position on binding OLEO recommendations.",
+        "evidence": [
+         {
+          "quote": "I am a firm believer in accountability and measurable outcomes, and believe independent oversight is essential to public trust, especially in law enforcement.",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "cost": {
+     "summary": "Mosqueda says she will pursue progressive revenue such as a progressive payroll tax and real estate excise tax, and opposes using accountability concerns to cut social services. Duda focuses on audits, outcome statements and withholding funds from programs that cannot define success and says better delivery can provide more effective services.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "tax_wealthy": {
+        "stance": "supports",
+        "why": "Supports progressive revenue, including a progressive payroll tax and progressive real estate excise tax; led Seattle's JumpStart payroll tax.",
+        "evidence": [
+         {
+          "quote": "I will pursue progressive revenue – including a progressive payroll tax and progressive REET",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "leading the passage of progressive revenue to invest in housing",
+          "url": "https://www.teamteresa.org/about",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "cut_spending": {
+        "stance": "opposes",
+        "why": "Opposes using financial-mismanagement findings as a reason to cut social services, while supporting stronger controls.",
+        "evidence": [
+         {
+          "quote": "I refuse to let legitimate accountability concerns become a backdoor to austerity.",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "cut_spending": {
+        "stance": "supports",
+        "why": "Supports stronger audits and outcome-based budgeting, including withholding part of a large program's funding until it sets measurable goals.",
+        "evidence": [
+         {
+          "quote": "Strengthen independent performance and financial audits.",
+          "url": "https://www.nickduda.com/accountability",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "25% of its funding should be withheld until it can.",
+          "url": "https://www.nickduda.com/accountability",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "transport": {
+     "summary": "Both candidates support frequent, reliable transit and protecting service. Mosqueda emphasizes building all ST3 light rail lines, around-the-clock service, new transit revenue, a road-funding district and bike and pedestrian safety. Duda emphasizes fare gates paired with reduced fares, reassessing project costs, exploring lower-cost rail alternatives, and denser housing around stations.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "transit": {
+        "stance": "supports",
+        "why": "Supports building all voter-approved ST3 lines and expanding frequent, around-the-clock transit service.",
+        "evidence": [
+         {
+          "quote": "expand frequent, reliable, electrified transit service around the clock",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "Abandonment is not an option – neither is indefinitely deferring lines King County riders are counting on.",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       },
+       "roads": {
+        "stance": "supports",
+        "why": "Supported a Transportation Benefit District to fund road repairs in unincorporated areas such as White Center and Vashon.",
+        "evidence": [
+         {
+          "quote": "Today’s action provides much needed relief for unincorporated roads, bike lanes and sidewalks to be built on the horizon.",
+          "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/06-12-mosqueda-transportation-funding-statement",
+          "source": "King County Council news release"
+         }
+        ]
+       },
+       "safe_streets": {
+        "stance": "supports",
+        "why": "Supports protected bike lanes and safe crossings.",
+        "evidence": [
+         {
+          "quote": "I've advocated to advance safe walking and biking infrastructure, including protected bike lanes and safe crossings",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "transit": {
+        "stance": "supports",
+        "why": "Supports protecting frequency and reliability, expanding evening and night service where sensible, and fare gates paired with reduced and free fares.",
+        "evidence": [
+         {
+          "quote": "My second priority is protecting service: frequency, reliability, safety, and the rider experience.",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "Install modern, accessible fare gates at Link stations while expanding reduced and free fare programs for riders who qualify.",
+          "url": "https://www.nickduda.com/housingandtransit",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "climate": {
+     "summary": "Mosqueda describes density and green housing as part of climate action and has highlighted salmon and watershed restoration grants as a Flood Control District supervisor. Duda said Metro's bus fleet electrification plan should be reassessed because of its cost. Duda's materials do not otherwise state climate positions.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "strong_climate_action": {
+        "stance": "supports",
+        "why": "Supports green housing and density as part of efforts to address climate change.",
+        "evidence": [
+         {
+          "quote": "promote density, greenspace, trees, and community cohesion as part of the effort to combat climate change",
+          "url": "https://www.teamteresa.org/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "conservation": {
+        "stance": "supports",
+        "why": "Highlighted Flood Control District grants for salmon recovery and watershed restoration in District 8.",
+        "evidence": [
+         {
+          "quote": "help create healthier communities, support salmon recovery, and ensure that environmental benefits are shared by current and future generations",
+          "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/07-22-mosqueda-fcd-habitat-salmon-recovery",
+          "source": "King County Council news release"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "energy_costs_first": {
+        "stance": "supports",
+        "why": "Says Metro's fleet electrification plan should be reassessed because cost estimates were understated.",
+        "evidence": [
+         {
+          "quote": "Two specific areas that deserve reassessment are fleet electrification and fare collection.",
+          "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "schools": {
+     "summary": "Mosqueda lists expanding affordable child care as a priority. Duda's materials do not state a position on schools or child care funding.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "child_care": {
+        "stance": "supports",
+        "why": "Supports expanding affordable child care, including workforce pay and facilities.",
+        "evidence": [
+         {
+          "quote": "Expand accessible and affordable childcare in our county by supporting workforce pay, career pipelines and creating the infrastructure needed to deliver childcare service",
+          "url": "https://www.teamteresa.org/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "health": {
+     "summary": "Both candidates support more behavioral health and addiction care. Mosqueda also calls for using county revenue tools to fund Harborview and public health clinics as federal Medicaid cuts take effect. Duda emphasizes stabilization centers, treatment capacity and fixing jail medical intake.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "expand_coverage": {
+        "stance": "supports",
+        "why": "Calls for using county revenue tools authorized by the state to fund Harborview and public health clinics as Medicaid coverage is cut.",
+        "evidence": [
+         {
+          "quote": "We have these revenue tools at our disposal to invest in the safety net that is Harborview and our public health clinics - the time to act is now.",
+          "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/09-18-mosqueda-boh-medicaid-cuts",
+          "source": "King County Council news release"
+         }
+        ]
+       },
+       "behavioral_health": {
+        "stance": "supports",
+        "why": "Supports more behavioral health services and the workers who provide them.",
+        "evidence": [
+         {
+          "quote": "invest in behavioral health",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Increase access to care by investing in behavioral health services and workers",
+          "url": "https://www.teamteresa.org/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "behavioral_health": {
+        "stance": "supports",
+        "why": "Supports stabilization facilities for people in addiction or behavioral-health crises, and more residential treatment capacity.",
+        "evidence": [
+         {
+          "quote": "King County should develop stabilization facilities where law enforcement, outreach teams, and other responders can bring people experiencing serious addiction or behavioral-health crises.",
+          "url": "https://www.nickduda.com/treatment",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "economy": {
+     "summary": "Both candidates mention workforce training and apprenticeships. Mosqueda emphasizes worker protections, union jobs and Community Workforce Agreements, and support for small businesses. Duda proposes a plan to recruit advanced-manufacturing and other emerging industries with fast-tracked permits.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "worker_protections": {
+        "stance": "supports",
+        "why": "Supports worker protections, living-wage union jobs, apprenticeships and Community Workforce Agreements.",
+        "evidence": [
+         {
+          "quote": "good living wage union jobs through apprenticeships and Community Workforce Agreements",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         },
+         {
+          "quote": "strengthen worker protections",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "small_business": {
+        "stance": "supports",
+        "why": "Cites investments to support small businesses.",
+        "evidence": [
+         {
+          "quote": "I have delivered on policy and made significant investments to support small businesses",
+          "url": "https://www.teamteresa.org/priorities",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "business_climate": {
+        "stance": "supports",
+        "why": "Proposes a 'Frontier Industries' plan with a single point of contact and fast-tracked county permits for advanced manufacturing companies.",
+        "evidence": [
+         {
+          "quote": "Fast tracks qualifying advanced manufacturing projects, with measurable timelines",
+          "url": "https://www.nickduda.com/economicfrontier",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "We should make King County the best place in America to build the technologies of the future",
+          "url": "https://www.nickduda.com/economicfrontier",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "rights": {
+     "summary": "Mosqueda sponsored county measures restricting use of county property for civil immigration enforcement and pausing new detention facilities. Duda's materials do not state a position on immigration or civil rights policy.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "protect_immigrants": {
+        "stance": "supports",
+        "why": "Sponsored ordinances restricting county property from use in civil immigration enforcement and placing a moratorium on new detention facilities.",
+        "evidence": [
+         {
+          "quote": "the ordinance limits the use of county-owned and county-controlled property",
+          "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-24-mosqueda-ice-out-of-county-property-release",
+          "source": "King County Council news release"
+         },
+         {
+          "quote": "the measure prohibits the county from accepting applications for new or expanded detention centers",
+          "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-03-mosqueda-detention-center-ban-release",
+          "source": "King County Council news release"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "government": {
+     "summary": "Both candidates say they support public services and accountability. Mosqueda emphasizes outcome benchmarks and oversight while opposing service cuts. Duda proposes public outcome statements for every program over $1 million a year, stronger audits, and shrinking or redesigning programs that repeatedly miss targets, and says the goal is better, not smaller, government.",
+     "differ": true,
+     "positions": {
+      "sos-1601663": {
+       "transparency": {
+        "stance": "supports",
+        "why": "Supports outcome benchmarks, transparent reporting and regular oversight hearings for contracted services.",
+        "evidence": [
+         {
+          "quote": "clear outcome benchmarks, transparent reporting, timely payments to contracted providers, and regular oversight hearings",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       },
+       "public_services": {
+        "stance": "supports",
+        "why": "Says both financial controls and social services investment are needed.",
+        "evidence": [
+         {
+          "quote": "Strong financial controls and robust social services investment are not mutually exclusive – we need both.",
+          "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+          "source": "The Urbanist 2026 candidate questionnaire"
+         }
+        ]
+       }
+      },
+      "sos-1601664": {
+       "transparency": {
+        "stance": "supports",
+        "why": "Supports public outcome statements, published results and stronger audits.",
+        "evidence": [
+         {
+          "quote": "Set measurable goals. Publish the results. Scale what works. Change what doesn't.",
+          "url": "https://www.nickduda.com/accountability",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Require agencies to respond publicly to major audit findings.",
+          "url": "https://www.nickduda.com/accountability",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "public_services": {
+        "stance": "supports",
+        "why": "Says he believes in robust public services that are measured for results.",
+        "evidence": [
+         {
+          "quote": "I believe in robust public services.",
+          "url": "https://www.nickduda.com/accountability",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    }
+   }
+  },
   "sos-899-186703": {
    "contest_id": "sos-899-186703",
    "researched": "2026-10-19",
@@ -347,7 +1045,7 @@
        },
        "public_housing": {
         "stance": "supports",
-        "why": "Pledges to champion 1,000 new affordable units in the district using public land and nonprofit developers; supports social housing.",
+        "why": "Pledges 1,000 new affordable units in the district using public land and nonprofit developers; supports social housing.",
         "evidence": [
          {
           "quote": "As a City Councilmember, Nilu Jenks will champion the creation of 1,000 new units of affordable housing in her district.",
@@ -948,6 +1646,1773 @@
           "quote": "I’m committed to setting up district offices on Aurora Ave and Lake City to increase accessibility to resources",
           "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
           "source": "Voters' guide statement"
+         }
+        ]
+       }
+      }
+     }
+    }
+   }
+  },
+  "sos-899-186953": {
+   "contest_id": "sos-899-186953",
+   "researched": "2026-10-19",
+   "candidates": {
+    "sos-1601900": {
+     "background": "U.S. Representative for Washington's 7th District since 2017 and former Washington State Senator (2015-2017); founder and former executive director of the immigrant-advocacy group OneAmerica. Serves on the House Judiciary, Foreign Affairs and Budget committees.",
+     "record": [
+      {
+       "text": "Lead sponsor of H.R. 3069, the Medicare for All Act of 2025 (introduced April 29, 2025), to establish a national health insurance program.",
+       "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+       "source": "GovInfo (U.S. GPO) bill text"
+      },
+      {
+       "text": "Lead sponsor of H.R. 8085, the Ultra-Millionaire Tax Act of 2026 (introduced March 25, 2026), which would impose an annual tax on the net value of very large personal assets.",
+       "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8085ih/html/BILLS-119hr8085ih.htm",
+       "source": "GovInfo (U.S. GPO) bill text"
+      },
+      {
+       "text": "Lead sponsor of H.R. 4457, the Housing Is a Human Right Act of 2025 (introduced July 16, 2025), which authorizes federal grants for housing and homelessness programs.",
+       "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4457ih/html/BILLS-119hr4457ih.htm",
+       "source": "GovInfo (U.S. GPO) bill text"
+      },
+      {
+       "text": "Lead sponsor of H.R. 944, the Access to Counsel Act (2025), on access to legal counsel for people held at ports of entry or U.S. Customs and Border Protection facilities.",
+       "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr944ih/html/BILLS-119hr944ih.htm",
+       "source": "GovInfo (U.S. GPO) bill text"
+      },
+      {
+       "text": "Voted No on final House passage of H.R. 1, the One Big Beautiful Bill Act (motion to concur in the Senate amendment, roll call 190, July 3, 2025).",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "source": "Clerk of the U.S. House, roll call vote"
+      },
+      {
+       "text": "Voted Nay on H.R. 29, the Laken Riley Act, which requires federal detention of certain non-citizens charged with theft-related crimes (roll call 6, January 7, 2025).",
+       "url": "https://clerk.house.gov/Votes/20256",
+       "source": "Clerk of the U.S. House, roll call vote"
+      }
+     ]
+    },
+    "sos-1601901": {
+     "background": "Business owner (Meineke franchises; former co-owner of Bistro Baffi restaurant in Normandy Park), U.S. Marine Corps veteran (2011-2014) and former Lakewood police officer (2017). Has not held elected office, so has no voting record.",
+     "record": []
+    }
+   },
+   "issues": {
+    "housing": {
+     "summary": "Both candidates support federal money for housing. Jayapal sponsors the Housing Is a Human Right Act and lists housing and shelter funding she secured; Sheth says he will fight for federal funding to keep families in voucher-supported housing and calls for affordable housing to address homelessness.",
+     "differ": false,
+     "positions": {
+      "sos-1601900": {
+       "public_housing": {
+        "stance": "supports",
+        "why": "Sponsors the Housing Is a Human Right Act to fund affordable housing; lists federal housing funding secured for the district.",
+        "evidence": [
+         {
+          "quote": "the Housing is a Human Right Act to invest billions into affordable housing",
+          "url": "https://www.pramilaforcongress.com/bio",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "$12.3 million for housing, including 300 new units and emergency shelter for 200 people",
+          "url": "https://www.pramilaforcongress.com/real-results",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "housing_first": {
+        "stance": "supports",
+        "why": "Sponsors H.R. 4457, a federal bill on homelessness that funds housing and shelter programs, and cites emergency shelter funding.",
+        "evidence": [
+         {
+          "quote": "To address root causes of homelessness, meet the needs of community",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4457ih/html/BILLS-119hr4457ih.htm",
+          "source": "GovInfo (U.S. GPO) bill text, H.R. 4457"
+         },
+         {
+          "quote": "build affordable housing",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "public_housing": {
+        "stance": "supports",
+        "why": "Says he will seek federal funding to keep families in voucher-supported housing.",
+        "evidence": [
+         {
+          "quote": "I will fight for federal 'Bridge-to-Work' funding that keeps families housed while providing the job training HUD is now prioritizing.",
+          "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+          "source": "The Urbanist candidate questionnaire (2026)"
+         }
+        ]
+       },
+       "housing_first": {
+        "stance": "supports",
+        "why": "States that his goal is to build affordable housing to address homelessness.",
+        "evidence": [
+         {
+          "quote": "My goal is to create sustainable & affordable housing to solve homelessness",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "safety": {
+     "summary": "Sheth's stated focus is police staffing and enforcing existing laws. Jayapal's evidence is from her voting record: she voted for the George Floyd Justice in Policing Act (2021) and lists the 2022 Bipartisan Safer Communities Act gun law among legislation she helped pass. Neither has stated a position on the other's main options.",
+     "differ": true,
+     "positions": {
+      "sos-1601900": {
+       "police_accountability": {
+        "stance": "supports",
+        "why": "Voted Yea on House passage of the George Floyd Justice in Policing Act of 2021 (roll call 60).",
+        "evidence": [
+         {
+          "quote": "George Floyd Justice in Policing Act of 2021",
+          "url": "https://clerk.house.gov/Votes/202160",
+          "source": "Clerk of the U.S. House, roll call vote"
+         }
+        ]
+       },
+       "more_gun_laws": {
+        "stance": "supports",
+        "why": "Lists the Bipartisan Safer Communities Act (2022), which she voted for, among legislation she helped pass.",
+        "evidence": [
+         {
+          "quote": "The first major gun safety law in over thirty years.",
+          "url": "https://www.pramilaforcongress.com/real-results",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "more_police": {
+        "stance": "supports",
+        "why": "Supports funding to hire more police, directed to recruitment, training and retention.",
+        "evidence": [
+         {
+          "quote": "ensure dollars go to recruitment, training, and retention — not consultants.",
+          "url": "https://shethforcongress.com/issues/public-safety",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "bringing law & order back to Seattle",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "tougher_enforcement": {
+        "stance": "supports",
+        "why": "Calls for enforcing existing laws and prioritizing law-abiding citizens.",
+        "evidence": [
+         {
+          "quote": "Washington doesn’t need experimental policing — it needs leaders who enforce existing laws.",
+          "url": "https://shethforcongress.com/issues/public-safety",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Supporting our emergency services and making crime illegal again in Washington State is crucial.",
+          "url": "https://www.shethforcongress.com",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "cost": {
+     "summary": "Jayapal sponsors a federal wealth tax on the largest fortunes. Sheth's campaign site criticizes Washington's existing and proposed taxes, including the capital-gains, estate and income taxes, and calls for lower sales and property taxes and less government waste.",
+     "differ": true,
+     "positions": {
+      "sos-1601900": {
+       "tax_wealthy": {
+        "stance": "supports",
+        "why": "Lead sponsor of the Ultra-Millionaire Tax Act of 2026, a federal tax on very large net worth.",
+        "evidence": [
+         {
+          "quote": "Ultra-Millionaire Tax Act of 2026",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8085ih/html/BILLS-119hr8085ih.htm",
+          "source": "GovInfo (U.S. GPO) bill text, H.R. 8085"
+         },
+         {
+          "quote": "establish an ultra-millionaire wealth tax",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "no_new_taxes": {
+        "stance": "supports",
+        "why": "Says layers of taxes are raising living costs and that state taxes, including new income and capital-gains taxes, are driving employers away.",
+        "evidence": [
+         {
+          "quote": "Layers of taxes are driving up the cost of everything from rent to groceries.",
+          "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "A capital-gains tax, last year’s record-high estate-tax rate, and a new income tax",
+          "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "cut_spending": {
+        "stance": "supports",
+        "why": "Proposes cutting some grants and investigating waste in government spending.",
+        "evidence": [
+         {
+          "quote": "Investigate fraud, waste, and abuse in government spending.",
+          "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Defunding foreign nations non essential experimental grants, freezing Senate & House pay during government shutdown",
+          "url": "https://ivoterguide.com/candidate/77553/race/34878/election/1502",
+          "source": "iVoterGuide candidate questionnaire (2026), candidate's written answer"
+         }
+        ]
+       },
+       "relief_regressive": {
+        "stance": "supports",
+        "why": "Calls for lowering the sales tax and expanding senior property-tax relief.",
+        "evidence": [
+         {
+          "quote": "refusing to lower the most regressive tax",
+          "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Fix senior property-tax relief by raising qualifying income and simplifying access.",
+          "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "transport": {
+     "summary": "Both candidates support transit and road investment. Jayapal requested federal project funding for Sound Transit and lists the 2021 infrastructure law among legislation she helped pass; Sheth says transit should be the easiest choice for commuters and supports maintaining bridges and roads.",
+     "differ": false,
+     "positions": {
+      "sos-1601900": {
+       "transit": {
+        "stance": "supports",
+        "why": "Requested federal Community Project Funding for Sound Transit light rail reliability work (FY26).",
+        "evidence": [
+         {
+          "quote": "for Sound Transit’s Link Reliability Improvements",
+          "url": "https://jayapal.house.gov/2025/06/20/jayapal-announces-community-project-funding-requests-for-fy26/",
+          "source": "Rep. Jayapal official House website"
+         }
+        ]
+       },
+       "roads": {
+        "stance": "supports",
+        "why": "Voted for the 2021 Bipartisan Infrastructure Law (roll call 369, Nov. 5, 2021) and lists road and bridge rebuilding among its results.",
+        "evidence": [
+         {
+          "quote": "Rebuild our roads, bridges, ports, and airports, replace lead pipes, and create new good-paying green, union jobs",
+          "url": "https://www.pramilaforcongress.com/real-results",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "transit": {
+        "stance": "supports",
+        "why": "Says he supports investing in transit to reduce gridlock and costs for families.",
+        "evidence": [
+         {
+          "quote": "By investing in transit, we aren't just laying tracks; we are expanding opportunity, reducing costs for families, and ensuring our city remains competitive.",
+          "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+          "source": "The Urbanist candidate questionnaire (2026)"
+         }
+        ]
+       },
+       "roads": {
+        "stance": "supports",
+        "why": "Advocates maintaining and improving bridges and roads.",
+        "evidence": [
+         {
+          "quote": "bridges and roads, understanding that a robust and reliable infrastructure is the backbone of economic growth",
+          "url": "https://shethforcongress.com/issues/infrastructure",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "climate": {
+     "summary": "Jayapal supports a transition to 100% clean energy and voted for the 2022 Inflation Reduction Act. Sheth puts keeping residential energy bills down first, supports nuclear (SMR) and renewable power, and calls for auditing Washington's Climate Commitment Act for its effect on prices.",
+     "differ": true,
+     "positions": {
+      "sos-1601900": {
+       "strong_climate_action": {
+        "stance": "supports",
+        "why": "Supports a transition to a 100% clean energy economy; voted Yea on the Inflation Reduction Act (H.R. 5376, roll call 420, Aug. 12, 2022).",
+        "evidence": [
+         {
+          "quote": "climate action so we finally transition to a 100% clean energy economy while prioritizing environmental justice",
+          "url": "https://www.pramilaforcongress.com/bio",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "To provide for reconciliation pursuant to title II of S. Con. Res. 14",
+          "url": "https://clerk.house.gov/Votes/2022420",
+          "source": "Clerk of the U.S. House, roll call vote"
+         }
+        ]
+       },
+       "conservation": {
+        "stance": "supports",
+        "why": "States support for access to clean air, safe drinking water and public lands.",
+        "evidence": [
+         {
+          "quote": "ensuring everyone has access to clean air, safe drinking water, and public lands",
+          "url": "https://www.pramilaforcongress.com/bio",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "energy_costs_first": {
+        "stance": "supports",
+        "why": "Says residential energy bills should not rise to meet corporate demand and calls for auditing the Climate Commitment Act's effect on consumer prices.",
+        "evidence": [
+         {
+          "quote": "we cannot allow residential energy bills to skyrocket to meet corporate demand",
+          "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+          "source": "The Urbanist candidate questionnaire (2026)"
+         },
+         {
+          "quote": "to measure its impact on consumer prices and ensure funds achieve meaningful results.",
+          "url": "https://shethforcongress.com/issues/affordability-economy-employment",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "schools": {
+     "summary": "Only Sheth has stated K-12 positions: he supports reversing state K-12 budget cuts and giving parents and local school boards more control. No stated K-12 position from Jayapal was found; her higher-education bill (College for All) does not map to these options.",
+     "differ": true,
+     "positions": {
+      "sos-1601901": {
+       "school_funding": {
+        "stance": "supports",
+        "why": "Supports reversing recent state K-12 budget cuts.",
+        "evidence": [
+         {
+          "quote": "Republicans will reverse Democrat-led K-12 budget cuts that have gutted classrooms and shortchanged students.",
+          "url": "https://shethforcongress.com/issues/education-and-local-control/",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "parental_rights": {
+        "stance": "supports",
+        "why": "Supports returning control to parents and local school boards and parental notification policies.",
+        "evidence": [
+         {
+          "quote": "return control to parents and local boards",
+          "url": "https://shethforcongress.com/issues/education-and-local-control/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "health": {
+     "summary": "Jayapal sponsors Medicare for All and supports abortion rights. On a questionnaire Sheth chose the option that taxpayer-funded health care, including Medicaid and Medicare, should be abolished, citing fraud. He has written that abortion decisions belong to the doctor or pregnant woman, but on the same questionnaire he also marked 'Strongly Agree' that human life deserves legal protection from conception. He supports directing opioid settlement money to treatment.",
+     "differ": true,
+     "positions": {
+      "sos-1601900": {
+       "expand_coverage": {
+        "stance": "supports",
+        "why": "Lead sponsor of the Medicare for All Act of 2025.",
+        "evidence": [
+         {
+          "quote": "To establish an improved Medicare-for-All national health insurance",
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3069ih/html/BILLS-119hr3069ih.htm",
+          "source": "GovInfo (U.S. GPO) bill text, H.R. 3069"
+         },
+         {
+          "quote": "I’m leading the fight for the Medicare for All Act to ensure that universal healthcare is a right, not a privilege.",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "abortion_access": {
+        "stance": "supports",
+        "why": "Lists protecting abortion rights among her work in Congress.",
+        "evidence": [
+         {
+          "quote": "protect abortion rights",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "expand_coverage": {
+        "stance": "opposes",
+        "why": "On the iVoterGuide questionnaire chose option D ('Taxpayer funded health care should be abolished in all forms, and Medicaid and Medicare should be defunded'), citing fraud.",
+        "evidence": [
+         {
+          "quote": "D, I have witnessed personally where this programs are just getting abused for fraud",
+          "url": "https://ivoterguide.com/candidate/77553/race/34878/election/1502",
+          "source": "iVoterGuide candidate questionnaire (2026), candidate's written answer"
+         }
+        ]
+       },
+       "abortion_access": {
+        "stance": "supports",
+        "why": "Wrote that abortion is a decision for the doctor or pregnant woman and named bodily autonomy among rights to protect. On the same iVoterGuide questionnaire he also marked 'Strongly Agree' that human life deserves legal protection from conception.",
+        "evidence": [
+         {
+          "quote": "This choice is only belong to either doctor or pregnant woman.",
+          "url": "https://ivoterguide.com/candidate/77553/race/34878/election/1502",
+          "source": "iVoterGuide candidate questionnaire (2026), candidate's written answer"
+         },
+         {
+          "quote": "whether that’s your right to vote, your right to marry who you love, or your right to bodily autonomy",
+          "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+          "source": "The Urbanist candidate questionnaire (2026)"
+         }
+        ]
+       },
+       "behavioral_health": {
+        "stance": "supports",
+        "why": "Supports directing cannabis and opioid settlement revenue to treatment, and mandatory treatment for repeat drug-possession offenders.",
+        "evidence": [
+         {
+          "quote": "Dedicate cannabis and opioid settlement revenue to local law enforcement and treatment",
+          "url": "https://shethforcongress.com/issues/public-safety",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "economy": {
+     "summary": "Jayapal's stated focus is workers: a higher federal minimum wage and the PRO Act on union organizing. Sheth's stated focus is employers: fewer regulations on small businesses and a more business-friendly climate.",
+     "differ": true,
+     "positions": {
+      "sos-1601900": {
+       "worker_protections": {
+        "stance": "supports",
+        "why": "Supports a $15 federal minimum wage; voted Yea on the PRO Act (H.R. 842, roll call 70, March 9, 2021).",
+        "evidence": [
+         {
+          "quote": "to increase the federal minimum wage to $15.",
+          "url": "https://www.pramilaforcongress.com/real-results",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Protecting the Right to Organize Act",
+          "url": "https://clerk.house.gov/Votes/202170",
+          "source": "Clerk of the U.S. House, roll call vote"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "small_business": {
+        "stance": "supports",
+        "why": "Supports reducing regulations that he says weigh on small businesses.",
+        "evidence": [
+         {
+          "quote": "reducing the weight of unnecessary government regulations",
+          "url": "https://shethforcongress.com/issues/smallbusinesses",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "business_climate": {
+        "stance": "supports",
+        "why": "Supports investment in small businesses and streamlining bureaucracy for a more business-friendly climate.",
+        "evidence": [
+         {
+          "quote": "encouraging direct investment into small businesses and streamlining bureaucratic processes to foster a more business-friendly climate",
+          "url": "https://shethforcongress.com/issues/smallbusinesses",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "rights": {
+     "summary": "Jayapal sponsors bills on legal protections for immigrants, voted against the Laken Riley Act's detention requirements, and has criticized ICE and CBP actions. Sheth supports border security and coordinating with federal efforts to remove violent offenders who are in the country illegally, while also calling for simpler legal immigration.",
+     "differ": true,
+     "positions": {
+      "sos-1601900": {
+       "protect_immigrants": {
+        "stance": "supports",
+        "why": "Has opposed ICE and CBP actions and sponsors the Access to Counsel Act and Dignity for Detained Immigrants Act.",
+        "evidence": [
+         {
+          "quote": "I’ve been on the frontlines of holding Trump accountable, including around the lawless ICE and CBP actions that have kidnapped and disappeared our neighbors.",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "the Dignity for Detained Immigrants Act to stop the use of private, for-profit detention centers",
+          "url": "https://www.pramilaforcongress.com/bio",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "immigration_enforcement": {
+        "stance": "opposes",
+        "why": "Voted Nay on the Laken Riley Act (H.R. 29), which requires federal detention of certain non-citizens (roll call 6, Jan. 7, 2025).",
+        "evidence": [
+         {
+          "quote": "Laken Riley Act",
+          "url": "https://clerk.house.gov/Votes/20256",
+          "source": "Clerk of the U.S. House, roll call vote"
+         }
+        ]
+       },
+       "equity_programs": {
+        "stance": "supports",
+        "why": "Lead sponsor of a Trans Bill of Rights.",
+        "evidence": [
+         {
+          "quote": "to provide comprehensive protections for transgender and nonbinary people.",
+          "url": "https://www.pramilaforcongress.com/real-results",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "immigration_enforcement": {
+        "stance": "supports",
+        "why": "Supports border security and coordination with federal efforts to remove violent offenders who are in the country illegally.",
+        "evidence": [
+         {
+          "quote": "That includes coordination with federal efforts to remove violent illegal offenders from our communities.",
+          "url": "https://shethforcongress.com/issues/public-safety",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "We must secure our borders and overhaul our laws to make legal, skilled immigration the standard, not the exception.",
+          "url": "https://docs.google.com/document/d/1ZpnEPxxpm2j3wAOzqoxyqDwpRE2M1UM2zmtvIcYPA1o/export?format=txt",
+          "source": "The Urbanist candidate questionnaire (2026)"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "government": {
+     "summary": "Both candidates emphasize accountability. Jayapal leads bipartisan bills to ban stock trading by members of Congress; Sheth calls for 'military-grade accountability' and investigating fraud, waste and abuse in government spending.",
+     "differ": false,
+     "positions": {
+      "sos-1601900": {
+       "transparency": {
+        "stance": "supports",
+        "why": "Leads bipartisan bills to ban stock trading by members of Congress.",
+        "evidence": [
+         {
+          "quote": "I lead bipartisan bills that ban stock trading for Members of Congress",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      },
+      "sos-1601901": {
+       "transparency": {
+        "stance": "supports",
+        "why": "Calls for accountability in federal government and investigating waste in spending.",
+        "evidence": [
+         {
+          "quote": "I am also running for Congress to bring military-grade accountability to Washington, D.C.",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      }
+     }
+    }
+   }
+  },
+  "sos-899-187059": {
+   "contest_id": "sos-899-187059",
+   "researched": "2026-10-19",
+   "candidates": {
+    "sos-1602096": {
+     "background": "Incumbent state senator for the 43rd District since 2013 and Senate Majority Leader since 2025; state representative 2007-2013. Executive vice president and general counsel at McKinstry; previously a lawyer at K&L Gates.",
+     "record": [
+      {
+       "text": "Prime sponsor of SB 6346 (2026), \"Establishing a tax on millionaires\" (9.9% tax on income over $1 million); voted yes on final passage.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Prime sponsor of SB 5263 (2025), concerning special education funding; enacted as Chapter 368, Laws of 2025.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2025",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Prime sponsor of SB 5051 (2021), concerning state oversight and accountability of peace officers and corrections officers.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=5051&Year=2021",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Voted yes on HB 1217 (2025), which limits rent and fee increases for residential tenants (Senate final passage votes April 10 and April 27, 2025).",
+       "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1217&initiative=False",
+       "source": "WA Legislature roll call"
+      },
+      {
+       "text": "Voted yes on HB 1240 (2023), firearms-related safety measures, in Senate final passage votes April 8 and April 18, 2023.",
+       "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2023-24&billNumber=1240&initiative=False",
+       "source": "WA Legislature roll call"
+      },
+      {
+       "text": "Voted yes on HB 1163 (2025), requirements for the purchase, transfer, and possession of firearms, in the Senate final passage vote April 14, 2025.",
+       "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1163&initiative=False",
+       "source": "WA Legislature roll call"
+      }
+     ]
+    },
+    "sos-1602097": {
+     "background": "First-time candidate with no elected experience. Former communications director at Working Washington (a worker advocacy nonprofit) and former legislative aide and Senate communications specialist (2018-2022).",
+     "record": []
+    }
+   },
+   "issues": {
+    "housing": {
+     "summary": "Both candidates support allowing more housing, public funding for affordable housing, and rent stabilization. Pedersen voted for the 2025 rent stabilization law (HB 1217) and says he would support letting local governments adopt stricter limits; Sabio-Howell says the law's cap of up to about 10% is too high and wants further rent stabilization and a statewide social housing approach.",
+     "differ": true,
+     "positions": {
+      "sos-1602096": {
+       "tenant_protections": {
+        "stance": "supports",
+        "why": "Voted for the 2025 rent stabilization law and says he would support letting cities or counties adopt stricter rent limits.",
+        "evidence": [
+         {
+          "quote": "I helped pass rent stabilization, expand prohibited rental provisions",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Improving housing stability for tenants subject to the residential landlord-tenant act and the manufactured/mobile home landlord-tenant act by limiting rent and fee increases",
+          "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1217&initiative=False",
+          "source": "WA Legislature roll call (voted yea)"
+         },
+         {
+          "quote": "I think that generally having local governments have more flexibility to adapt to local conditions is good, yes. So I would support their ability to make that choice.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       },
+       "public_housing": {
+        "stance": "supports",
+        "why": "Cites leading $770 million in new state funding for housing.",
+        "evidence": [
+         {
+          "quote": "I led efforts to provide $770 million in new funding for housing.",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "build_more": {
+        "stance": "supports",
+        "why": "Cites laws to streamline housing construction.",
+        "evidence": [
+         {
+          "quote": "enacted laws aimed at streamlining housing construction and preventing homelessness",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "build_more": {
+        "stance": "supports",
+        "why": "Wants to end apartment bans statewide, allow more housing near transit, and shorten permitting.",
+        "evidence": [
+         {
+          "quote": "Ending apartment bans statewide and ensuring more housing can be built everywhere, especially near transit centers.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Cutting bureaucratic red tape that slows housing development, including lengthy permitting processes and outdated requirements that make housing outrageously expensive to build.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "public_housing": {
+        "stance": "supports",
+        "why": "Supports public investment in social housing developers.",
+        "evidence": [
+         {
+          "quote": "Investing in social housing developers at the local level, which are innovative models for more self-sustaining and publicly-funded affordable housing development.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "tenant_protections": {
+        "stance": "supports",
+        "why": "Supports rent stabilization and says the 2025 law's cap allows increases that are too large.",
+        "evidence": [
+         {
+          "quote": "I think for so many of us, having our rent go up by anything close to 10% is also totally unaffordable",
+          "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+          "source": "The Urbanist interview"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "safety": {
+     "summary": "Both candidates support non-police crisis response and police accountability measures. They differ on police hiring funds: Pedersen co-sponsored a $100 million law enforcement hiring and training investment, while Sabio-Howell says she would redirect the unspent $100 million to public defense. Pedersen voted for an assault weapons ban and a firearm permit law; Sabio-Howell has not stated a position on gun laws beyond community violence prevention programs.",
+     "differ": true,
+     "positions": {
+      "sos-1602096": {
+       "police_accountability": {
+        "stance": "supports",
+        "why": "Sponsored the 2021 law on state oversight of police officers, including license revocation for serious misconduct.",
+        "evidence": [
+         {
+          "quote": "introduced and got passed legislation strengthening the State’s authority to revoke law enforcement licenses after serious misconduct",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Concerning state oversight and accountability of peace officers and corrections officers.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5051&Year=2021",
+          "source": "WA Legislature (prime sponsor)"
+         }
+        ]
+       },
+       "more_police": {
+        "stance": "supports",
+        "why": "Co-sponsored a $100 million investment in law enforcement hiring and training.",
+        "evidence": [
+         {
+          "quote": "I was a co-sponsor of successful bills enacting a stricter firearm permitting process, an assault weapons ban, and a $100 million investment in new law enforcement hiring and training",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "prevention": {
+        "stance": "supports",
+        "why": "Cites funding for behavioral health alternative response staffing.",
+        "evidence": [
+         {
+          "quote": "in increased behavioral health alternative response staffing across Washington",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "more_gun_laws": {
+        "stance": "supports",
+        "why": "Voted for the assault weapons ban (HB 1240) and permit-to-purchase law (HB 1163).",
+        "evidence": [
+         {
+          "quote": "I helped pass legislation prohibiting domestic violence abusers from having guns",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Establishing firearms-related safety measures to increase public safety.",
+          "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2023-24&billNumber=1240&initiative=False",
+          "source": "WA Legislature roll call (voted yea)"
+         },
+         {
+          "quote": "Enhancing requirements relating to the purchase, transfer, and possession of firearms.",
+          "url": "https://app.leg.wa.gov/bi/RollCallsOnABill/RollCall?biennium=2025-26&billNumber=1163&initiative=False",
+          "source": "WA Legislature roll call (voted yea)"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "prevention": {
+        "stance": "supports",
+        "why": "Supports sending social workers and mental health professionals to non-violent calls and funding community violence prevention.",
+        "evidence": [
+         {
+          "quote": "Establishing programs that send social workers and mental health professionals to non-violent emergency calls.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Investing in community-based programs that mentor youth, provide alternatives to incarceration, and are proven to reduce gun violence in our neighborhoods.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "more_police": {
+        "stance": "opposes",
+        "why": "Would redirect the unspent $100 million police recruitment fund to public defense.",
+        "evidence": [
+         {
+          "quote": "I absolutely would vote to reallocate that unspent $100 million.",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       },
+       "police_accountability": {
+        "stance": "supports",
+        "why": "Wants limits on law enforcement use of surveillance and AI and wants the Legislature to revisit police accountability rollbacks.",
+        "evidence": [
+         {
+          "quote": "Regulating and restricting the use of AI and surveillance by law enforcement",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "revisit some of the accountability issues related to policing that the public organized around in 2020",
+          "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+          "source": "The Urbanist interview"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "cost": {
+     "summary": "Both candidates support taxing high earners and both supported the 2026 millionaires tax. Pedersen sponsored it and highlights tax cuts for lower-income families and small businesses in the package; Sabio-Howell calls it a first step and also supports a corporate income tax, the Well Washington Fund payroll tax, and a wealth tax. At a June forum, Pedersen said he could not rule out state workforce reductions, while Sabio-Howell said more corporate taxes would avoid cuts.",
+     "differ": true,
+     "positions": {
+      "sos-1602096": {
+       "tax_wealthy": {
+        "stance": "supports",
+        "why": "Sponsored the 2026 millionaires tax and says he co-sponsored a payroll tax bill similar to the Well Washington Fund.",
+        "evidence": [
+         {
+          "quote": "Establishing a tax on millionaires.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+          "source": "WA Legislature (prime sponsor)"
+         },
+         {
+          "quote": "I think the Millionaire's Tax is an unqualified progressive victory.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         },
+         {
+          "quote": "I was a co-sponsor of a very similar bill by Senator Saldaña last year. And if it had the votes, I would have voted yes.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       },
+       "relief_regressive": {
+        "stance": "supports",
+        "why": "Says the millionaires tax package reduces taxes for lower-income families, including sales tax exemptions and an expanded Working Families Tax Credit.",
+        "evidence": [
+         {
+          "quote": "I led the successful effort to pass the state's first-ever Millionaires Tax while reducing taxes for lower income families and small businesses.",
+          "url": "https://peopleforpedersen.org/",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "eliminate sales tax on personal care products, diapers, and over-the-counter medicine",
+          "url": "https://peopleforpedersen.org/about",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "tax_wealthy": {
+        "stance": "supports",
+        "why": "Supports a corporate income tax, the Well Washington Fund, and other revenue from large corporations and the wealthy, beyond the millionaires tax.",
+        "evidence": [
+         {
+          "quote": "Fighting for a corporate income tax on mega corporations.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Establishing the Well Washington Fund, a tax on massive corporations to support healthcare access, higher education, and so much more.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "The Millionaire's Tax was an excellent step in the direction of building that more fair economy",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         },
+         {
+          "quote": "We would not need to cut to the bone and ask working people to tighten our belts if we had been more willing to tax corporations",
+          "url": "https://www.yakimaherald.com/news/northwest/washington-millionaires-tax-lawmaker-faces-reelection-challenge-from-the-left/article_0531e762-0715-507e-b886-b2f42c4ec893.html",
+          "source": "Seattle Times (via Yakima Herald), candidate forum"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "transport": {
+     "summary": "Both candidates support investment in transit. Pedersen says he is committed to building the full voter-approved light rail system; Sabio-Howell calls for a multimodal transit system and a shift away from highway expansion.",
+     "differ": false,
+     "positions": {
+      "sos-1602096": {
+       "transit": {
+        "stance": "supports",
+        "why": "Committed to building the full light rail system approved by voters.",
+        "evidence": [
+         {
+          "quote": "building the full light rail system approved by voters",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "safe_streets": {
+        "stance": "supports",
+        "why": "Said safe pedestrian crossings near Aurora Avenue are on his radar for the next transportation budget.",
+        "evidence": [
+         {
+          "quote": "hearing from neighbors of Aurora Avenue about the scarcity of safe pedestrian crossings in the Fremont neighborhood. He said that's now on his radar for the next state transportation budget.",
+          "url": "https://www.yakimaherald.com/news/northwest/washington-millionaires-tax-lawmaker-faces-reelection-challenge-from-the-left/article_0531e762-0715-507e-b886-b2f42c4ec893.html",
+          "source": "Seattle Times (via Yakima Herald)"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "transit": {
+        "stance": "supports",
+        "why": "Wants investment in a connected multimodal transit system and housing near transit, rather than highway expansion.",
+        "evidence": [
+         {
+          "quote": "investing meaningfully in a truly multimodal and connected state",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         },
+         {
+          "quote": "a culture shift away from highway expansion at all costs",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "climate": {
+     "summary": "Both candidates support the Climate Commitment Act. Pedersen defends how its funds have been spent and says he would accept fewer data centers to meet clean-grid goals; Sabio-Howell opposes diverting CCA funds to other uses. Both supported a 2026 bill to make data centers bear their energy costs.",
+     "differ": false,
+     "positions": {
+      "sos-1602096": {
+       "strong_climate_action": {
+        "stance": "supports",
+        "why": "Defends the Climate Commitment Act and supports making data centers pay the full cost of the energy they use.",
+        "evidence": [
+         {
+          "quote": "I worked to defend the Climate Commitment Act, a landmark policy targeting a 95% emissions reduction by 2050.",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "I think absolutely those facilities ought to pay the full cost of the energy and water that they use.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "strong_climate_action": {
+        "stance": "supports",
+        "why": "Opposes diverting Climate Commitment Act funds away from climate goals.",
+        "evidence": [
+         {
+          "quote": "the raiding of CCA funding - or diverting of CCA funding - is ultimately a short-term fix that will be unhelpful or even harmful in the long run",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "schools": {
+     "summary": "Both candidates support more K-12 funding and child care investment. Pedersen sponsored the 2025 special education funding increase and points to millionaires tax money dedicated to child care; Sabio-Howell proposes universal pre-K, a home-care cash benefit, and expanded paid parental leave as steps toward universal child care.",
+     "differ": false,
+     "positions": {
+      "sos-1602096": {
+       "school_funding": {
+        "stance": "supports",
+        "why": "Sponsored the 2025 special education funding bill and says he is committed to funding schools.",
+        "evidence": [
+         {
+          "quote": "As prime sponsor of SB 5263 , I secured a $750 million increase in special education services.",
+          "url": "https://peopleforpedersen.org/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "He is committed to amply funding schools",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "child_care": {
+        "stance": "supports",
+        "why": "Says the millionaires tax dedicates 5% of revenue to child care and early learning (Fair Start for Kids).",
+        "evidence": [
+         {
+          "quote": "We dedicated in the Millionaire's Tax - 5% of the revenue from the tax to pay for the investments that we intend to make in Fair Start for Kids.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "school_funding": {
+        "stance": "supports",
+        "why": "Calls funding basic education the Legislature's first priority and supports higher pay for teachers and paraeducators.",
+        "evidence": [
+         {
+          "quote": "The paramount duty of the state legislature is to fund basic education, and that needs to be a critical priority",
+          "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+          "source": "The Urbanist interview"
+         },
+         {
+          "quote": "Increasing pay, workplace standards, and safety for paraeducators and teachers",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "child_care": {
+        "stance": "supports",
+        "why": "Proposes universal pre-K, a home-care cash benefit for 2- and 3-year-olds, and restoring Working Connections Child Care enrollment.",
+        "evidence": [
+         {
+          "quote": "Building a universal pre-K program statewide and establishing a flexible home-care cash benefit for families seeking care for 2- and 3-year-olds.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Restoring enrollment in Washington’s Working Connections Childcare program",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "health": {
+     "summary": "Both candidates support abortion access. Sabio-Howell has also called for expanding health coverage and eventually universal health care; Pedersen has described federal Medicaid cuts as a crisis for the state but has not stated a specific coverage proposal in the sources reviewed.",
+     "differ": false,
+     "positions": {
+      "sos-1602096": {
+       "abortion_access": {
+        "stance": "supports",
+        "why": "Cites state funding for Planned Parenthood after federal cuts.",
+        "evidence": [
+         {
+          "quote": "We funded Planned Parenthood after the Trump administration cut funding, threatening access to reproductive healthcare and abortion care.",
+          "url": "https://peopleforpedersen.org/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "abortion_access": {
+        "stance": "supports",
+        "why": "Serves on the Pro-Choice Washington PAC board, working on reproductive justice.",
+        "evidence": [
+         {
+          "quote": "Member, Pro-Choice Washington PAC Board",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "expand_coverage": {
+        "stance": "supports",
+        "why": "Wants the state to protect and reinvest in health care against federal cuts and work toward universal health care.",
+        "evidence": [
+         {
+          "quote": "When it comes to protecting and reinvesting in health care, that’s a place where the state legislature is on the front line",
+          "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+          "source": "The Urbanist interview"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "economy": {
+     "summary": "Both candidates support labor protections and say small businesses pay too much in taxes. Pedersen cites unemployment insurance for striking workers and supports requiring public employers to bargain over AI but is not ready to extend that to the private sector; Sabio-Howell supports a mandate for all employers to bargain over AI.",
+     "differ": true,
+     "positions": {
+      "sos-1602096": {
+       "worker_protections": {
+        "stance": "supports",
+        "why": "Cites passage of unemployment insurance for striking workers; supports AI bargaining for public-sector unions.",
+        "evidence": [
+         {
+          "quote": "My first year as Majority Leader, we passed unemployment insurance for striking workers",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         },
+         {
+          "quote": "for public sector unions, I would say unequivocally, yes. I think that management should have to bargain about AI that could replace workers.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         },
+         {
+          "quote": "I'm not ready to say that for sure in the private sector.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       },
+       "small_business": {
+        "stance": "supports",
+        "why": "Says the millionaires tax package reduces taxes for small businesses.",
+        "evidence": [
+         {
+          "quote": "reducing taxes for lower income families and small businesses",
+          "url": "https://peopleforpedersen.org/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "worker_protections": {
+        "stance": "supports",
+        "why": "Worked on raising wages and labor standards and supports making AI a subject of bargaining.",
+        "evidence": [
+         {
+          "quote": "At Working Washington, I fought alongside underpaid workers and took on big corporations to raise wages, strengthen labor standards, and ensure all workers have protections.",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "PROTEC17 was championing a bill to make AI a subject of bargaining for city and county employees - that's something I would strongly support.",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       },
+       "small_business": {
+        "stance": "supports",
+        "why": "Said small businesses pay too much in taxes.",
+        "evidence": [
+         {
+          "quote": "No, they pay too much.",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "rights": {
+     "summary": "Both candidates support limiting state cooperation with federal immigration enforcement and protecting transgender people. Pedersen cites laws banning masked agents and limiting data sharing with ICE; Sabio-Howell calls the mask ban unenforceable and proposes further steps, such as barring law enforcement from hiring former ICE officers. Sabio-Howell also supports even-year local elections.",
+     "differ": false,
+     "positions": {
+      "sos-1602096": {
+       "protect_immigrants": {
+        "stance": "supports",
+        "why": "Cites bans on masked ICE agents and on sharing camera data with ICE; says state data should not be used for immigration enforcement.",
+        "evidence": [
+         {
+          "quote": "We've banned the use of masks and Flock cameras by ICE agents to better protect everyone in our community.",
+          "url": "https://peopleforpedersen.org/",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "We do not want the federal government using state data for immigration enforcement, period.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       },
+       "equity_programs": {
+        "stance": "supports",
+        "why": "Cites leading marriage equality and LGBTQ+ and transgender protections.",
+        "evidence": [
+         {
+          "quote": "I will never stop standing up for the LGBTQ+ community.",
+          "url": "https://peopleforpedersen.org/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "protect_immigrants": {
+        "stance": "supports",
+        "why": "Proposes protecting data from immigration enforcement, removing incentives for ICE contractors, and banning hiring of former ICE officers.",
+        "evidence": [
+         {
+          "quote": "Protecting our sensitive data from access by immigration enforcement and stripping incentives from companies that contract with ICE.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Banning state and local law enforcement from hiring former ICE officers.",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "the mask ban was a good step, but it is unenforceable",
+          "url": "https://www.officialhacksandwonks.com/hannah-sabio-howell-challenges-senate-majority-leader-pedersen-in-seattles-most-progressive-district/",
+          "source": "Hacks & Wonks interview"
+         }
+        ]
+       },
+       "equity_programs": {
+        "stance": "supports",
+        "why": "Campaign platform includes protecting immigrant and transgender communities.",
+        "evidence": [
+         {
+          "quote": "Protecting immigrant and trans communities’ right to safety, opportunity, and freedom",
+          "url": "https://hannahforwashington.com/issues",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "voting_access": {
+        "stance": "supports",
+        "why": "Supports even-year elections for local offices and a full-time Legislature.",
+        "evidence": [
+         {
+          "quote": "Sabio-Howell expressed support for even-year elections for local offices and converting Washington’s very part-time legislature to a full-time year-round body",
+          "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+          "source": "The Urbanist interview"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "government": {
+     "summary": "Both candidates call for more revenue to fund public services. Sabio-Howell pledged at a June forum to rule out state job cuts; Pedersen said he could not rule out some reductions in the state workforce while negotiating a budget.",
+     "differ": true,
+     "positions": {
+      "sos-1602096": {
+       "public_services": {
+        "stance": "supports",
+        "why": "Supports new revenue so courts, public defense and local services can be fully funded; said he could not rule out state workforce reductions.",
+        "evidence": [
+         {
+          "quote": "So I am absolutely dedicated to finding more revenue so that the whole system can be amply funded.",
+          "url": "https://www.officialhacksandwonks.com/senator-jamie-pedersen-defends-millionaires-tax-budget-choices-and-progressive-record-ahead-of-primary-challenge/",
+          "source": "Hacks & Wonks interview"
+         },
+         {
+          "quote": "In my position I cannot take off the table the possibility that there would need to be some reductions in the state workforce.",
+          "url": "https://www.yakimaherald.com/news/northwest/washington-millionaires-tax-lawmaker-faces-reelection-challenge-from-the-left/article_0531e762-0715-507e-b886-b2f42c4ec893.html",
+          "source": "Seattle Times (via Yakima Herald), candidate forum"
+         }
+        ]
+       }
+      },
+      "sos-1602097": {
+       "public_services": {
+        "stance": "supports",
+        "why": "Wants to expand state programs rather than hold funding flat, paid for by taxes on large corporations.",
+        "evidence": [
+         {
+          "quote": "It doesn’t feel like enough to me to defend a system that isn’t working for us, or to just hold the line on already inadequately funded programs",
+          "url": "https://www.theurbanist.org/2026/03/09/labor-leader-sabio-howell-vs-senator-jamie-pedersen/",
+          "source": "The Urbanist interview"
+         }
+        ]
+       },
+       "transparency": {
+        "stance": "supports",
+        "why": "Says equitable access and transparency are essential in state government.",
+        "evidence": [
+         {
+          "quote": "I believe that equitable access and transparency is a non-negotiable part of a state government that truly serves us.",
+          "url": "https://hannahforwashington.com/about-me",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    }
+   }
+  },
+  "sos-899-187068": {
+   "contest_id": "sos-899-187068",
+   "researched": "2026-10-19",
+   "candidates": {
+    "sos-1602111": {
+     "background": "Incumbent state senator for the 46th District and chair of the Senate State Government, Tribal Affairs and Elections Committee; previously a state representative (appointed 2017) and a longtime City of Seattle employee working on contracting programs for women- and minority-owned businesses.",
+     "record": [
+      {
+       "text": "Prime sponsor of SSB 5855 (2026), barring law enforcement officers, including federal agents, from wearing face-concealing coverings on duty; signed into law.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=5855&Year=2026",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Prime sponsor of 2SSB 5444 (2024), restricting weapons at libraries, zoos, aquariums and transit facilities; signed into law.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=5444&Year=2024",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Prime sponsor of SB 5098 (2025-26), restricting weapons in public buildings, parks and playgrounds, and county fairs; passed the Senate, not enacted.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=5098&Year=2025",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Voted yes on final passage of EHB 1217 (2025), which limits rent and fee increases for residential tenants.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=1217&Year=2025",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Voted yes on final passage of ESSB 6346 (2026), establishing a tax on millionaires.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+       "source": "WA Legislature"
+      },
+      {
+       "text": "Prime sponsor of SB 5077 (2025), expanding voter registration services at government agencies; enacted.",
+       "url": "https://app.leg.wa.gov/billsummary?BillNumber=5077&Year=2025",
+       "source": "WA Legislature"
+      }
+     ]
+    },
+    "sos-1602112": {
+     "background": "Retired registered nurse (charge nurse at UW Medicine Northwest Hospital) and chair of the 46th Legislative District Republicans; has not held public office.",
+     "record": []
+    }
+   },
+   "issues": {
+    "housing": {
+     "summary": "On housing costs, Valdez cites his support for zoning reform (HB 1110), a cap on rent increases, and the state Housing Trust Fund; Stephens' homeownership page focuses on property rights without stating a position on these approaches. On homelessness, Stephens calls for addiction treatment rather than managing encampments; Valdez says he supports finding solutions to reduce homelessness but did not name a specific approach in the sources found.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "build_more": {
+        "stance": "supports",
+        "why": "Says he helped reform zoning laws to allow more housing and supported HB 1110.",
+        "evidence": [
+         {
+          "quote": "he helped reform antiquated zoning laws so that we can build more affordable housing",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "HB 1110, which I supported, was a great step in that direction. It's an example where the state needed to step in because of inaction by local cities.",
+          "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+          "source": "The Urbanist questionnaire (2026)"
+         }
+        ]
+       },
+       "tenant_protections": {
+        "stance": "supports",
+        "why": "Voted for EHB 1217 (2025), which limits rent and fee increases, and cites the rent cap in his statement.",
+        "evidence": [
+         {
+          "quote": "put a cap on rent increases",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Improving housing stability for tenants subject to the residential landlord-tenant act and the manufactured/mobile home landlord-tenant act by limiting rent and fee increases",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=1217&Year=2025",
+          "source": "WA Legislature (voted yes on final passage, April 27, 2025)"
+         }
+        ]
+       },
+       "public_housing": {
+        "stance": "supports",
+        "why": "Points to the state Housing Trust Fund as a way to fund affordable housing.",
+        "evidence": [
+         {
+          "quote": "The Housing Trust Fund is a proven resource to help our partners build affordable housing.",
+          "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+          "source": "The Urbanist questionnaire (2026)"
+         }
+        ]
+       }
+      },
+      "sos-1602112": {
+       "treatment": {
+        "stance": "supports",
+        "why": "Calls for addiction treatment and a path to independence for people experiencing homelessness.",
+        "evidence": [
+         {
+          "quote": "helping those struggling with addiction get real treatment and a path to independence rather than simply managing the symptoms of homelessness with needles and encampments",
+          "url": "https://www.sandyforwashington.org/public-safety/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "safety": {
+     "summary": "Stephens names public safety her top priority and says she would support law enforcement and oppose policies that weaken prosecution. Valdez sponsored the 2026 law barring law enforcement officers from concealing their faces on duty, and has sponsored laws restricting firearms in certain public places; no statement on guns from Stephens was found.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "police_accountability": {
+        "stance": "supports",
+        "why": "Prime sponsor of SSB 5855, requiring law enforcement officers, including federal agents, to be identifiable on duty.",
+        "evidence": [
+         {
+          "quote": "Concerning the use of face coverings by law enforcement officers.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5855&Year=2026",
+          "source": "WA Legislature (prime sponsor)"
+         },
+         {
+          "quote": "Our communities deserve to know who is exercising government authority in their neighborhoods.",
+          "url": "https://senatedemocrats.wa.gov/blog/2026/01/28/senate-passes-valdez-bill-banning-law-enforcement-including-ice-from-wearing-masks-on-duty/",
+          "source": "WA Senate Democrats press release (quoting Valdez)"
+         }
+        ]
+       },
+       "more_gun_laws": {
+        "stance": "supports",
+        "why": "Sponsored restrictions on weapons in libraries, zoos, aquariums and transit facilities (2024) and in parks and county fairs (2025-26).",
+        "evidence": [
+         {
+          "quote": "writing laws that banned ghost guns and high-capacity magazines. Next session, he wants to pass legislation to prohibit carrying guns in our parks and fairgrounds.",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Restricting the possession of weapons, excluding carrying a pistol by a person licensed to carry a concealed pistol, on the premises of libraries, zoos, aquariums, and transit facilities.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5444&Year=2024",
+          "source": "WA Legislature (prime sponsor, 2SSB 5444)"
+         },
+         {
+          "quote": "Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5098&Year=2025",
+          "source": "WA Legislature (prime sponsor, SB 5098)"
+         }
+        ]
+       }
+      },
+      "sos-1602112": {
+       "tougher_enforcement": {
+        "stance": "supports",
+        "why": "Says she will support law enforcement and push back on policies that weaken prosecution.",
+        "evidence": [
+         {
+          "quote": "I will support law enforcement, push back against policies that weaken prosecution or tie officers’ hands, and reject approaches that enable disorder.",
+          "url": "https://www.sandyforwashington.org/public-safety/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "cost": {
+     "summary": "Valdez voted for the 2026 tax on millionaires. Stephens says she would oppose new income or gas taxes and wants spending audits and cuts before any new taxes are considered.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "tax_wealthy": {
+        "stance": "supports",
+        "why": "Voted yes on ESSB 6346 (2026), a tax on millionaires.",
+        "evidence": [
+         {
+          "quote": "voted to tax millionaires and the very wealthy to pay for free school lunches, tax relief for small businesses, and healthcare investments",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "Establishing a tax on millionaires.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2026",
+          "source": "WA Legislature (voted yes on final passage, March 11, 2026)"
+         }
+        ]
+       }
+      },
+      "sos-1602112": {
+       "no_new_taxes": {
+        "stance": "supports",
+        "why": "Says she will oppose new income or gas taxes.",
+        "evidence": [
+         {
+          "quote": "I will oppose new income or gas taxes that hit working families hardest",
+          "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "cut_spending": {
+        "stance": "supports",
+        "why": "Calls for spending audits and cuts to waste and bureaucracy before considering new taxes.",
+        "evidence": [
+         {
+          "quote": "Before considering any new taxes, we need full audits of spending, aggressive cuts to waste and bureaucracy, and real accountability for how every taxpayer dollar is used.",
+          "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "transport": {
+     "summary": "Valdez calls for more transit investment and supports traffic and pedestrian safety programs. Stephens says she would oppose new gas taxes; she did not state transportation spending priorities.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "transit": {
+        "stance": "supports",
+        "why": "Calls for more investment in transit.",
+        "evidence": [
+         {
+          "quote": "More investments in transit. As a frequent user of light rail and public transportation, it's critcal we support our transit infrastucture for all Washingtronians.",
+          "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+          "source": "The Urbanist questionnaire (2026)"
+         }
+        ]
+       },
+       "safe_streets": {
+        "stance": "supports",
+        "why": "Supports programs to reduce traffic and pedestrian deaths; prime sponsor of SB 5521 on traffic safety (not enacted).",
+        "evidence": [
+         {
+          "quote": "I continue to support programs to reduce traffic and pedestrian deaths as a member of the Senate Transportation Committee.",
+          "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+          "source": "The Urbanist questionnaire (2026)"
+         },
+         {
+          "quote": "Improving traffic safety.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5521&Year=2025",
+          "source": "WA Legislature (prime sponsor, SB 5521)"
+         }
+        ]
+       }
+      },
+      "sos-1602112": {
+       "lower_driving_costs": {
+        "stance": "supports",
+        "why": "Says she will oppose new gas taxes.",
+        "evidence": [
+         {
+          "quote": "I will oppose new income or gas taxes that hit working families hardest",
+          "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "climate": {
+     "summary": "Valdez describes climate change as a crisis to address and stresses protecting the state's clean hydropower. Stephens supports restoring and protecting the environment, including Puget Sound and Lake Washington, while weighing jobs and housing costs.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "strong_climate_action": {
+        "stance": "supports",
+        "why": "Lists climate change among crises he says must be addressed now, and calls for protecting clean hydropower from data-center demand.",
+        "evidence": [
+         {
+          "quote": "the threat of climate change continues to intensify",
+          "url": "https://javiervaldez.com",
+          "source": "Campaign website"
+         },
+         {
+          "quote": "Seattle and WA State is very dependent on hydro power and the demand for data centers compromises our power grid and the ability to deliver clean, hydro power.",
+          "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+          "source": "The Urbanist questionnaire (2026)"
+         }
+        ]
+       }
+      },
+      "sos-1602112": {
+       "conservation": {
+        "stance": "supports",
+        "why": "Supports restoring and protecting the environment and waterways, balanced against jobs and housing costs.",
+        "evidence": [
+         {
+          "quote": "I support practical, science-based efforts to restore and protect our environment without devastating jobs, driving up housing costs, or ignoring the needs of families and businesses.",
+          "url": "https://www.sandyforwashington.org/responsible-environmental-stewardship/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "schools": {
+     "summary": "Stephens supports school choice, homeschooling support, and parental authority in education. No statement on these school priorities from Valdez was found beyond citing free school lunches as a use of new tax revenue.",
+     "differ": true,
+     "positions": {
+      "sos-1602112": {
+       "parental_rights": {
+        "stance": "supports",
+        "why": "Supports school choice and calls for respecting parental authority in education.",
+        "evidence": [
+         {
+          "quote": "We need to reduce bureaucracy in education, respect parental authority, and give all options – including homeschooling and charter alternatives – fair funding so every child can thrive.",
+          "url": "https://www.sandyforwashington.org/education-choice-and-parental-rights/",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "health": {
+     "summary": "Valdez says he helped replace federal funding cut from Planned Parenthood. Stephens says health decisions belong to patients, families and doctors and emphasizes medical freedom; she did not state a position on the options listed here.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "abortion_access": {
+        "stance": "supports",
+        "why": "Says he helped backfill federal funding cut from Planned Parenthood.",
+        "evidence": [
+         {
+          "quote": "He also helped backfill money that Trump cut from Planned Parenthood",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "economy": {
+     "summary": "Valdez prime-sponsored a 2025 public employee collective bargaining law and cites tax relief for small businesses. No statement on these economic approaches from Stephens was found.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "worker_protections": {
+        "stance": "supports",
+        "why": "Prime sponsor of SSB 5503 (2025) on public employee collective bargaining, enacted.",
+        "evidence": [
+         {
+          "quote": "Concerning public employee collective bargaining processes.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5503&Year=2025",
+          "source": "WA Legislature (prime sponsor, SSB 5503)"
+         }
+        ]
+       },
+       "small_business": {
+        "stance": "supports",
+        "why": "Cites tax relief for small businesses and help for small, women- and minority-owned businesses.",
+        "evidence": [
+         {
+          "quote": "tax relief for small businesses",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         },
+         {
+          "quote": "help working families, and small, women, and minority-owned businesses recover from the pandemic",
+          "url": "https://javiervaldez.com",
+          "source": "Campaign website"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "rights": {
+     "summary": "Valdez names protecting immigrant communities as a top priority, describes applying an equity lens to policy, and has sponsored voter registration and ballot-curing bills. Stephens' rights page focuses on religious liberty and parental rights; no statement on the options listed here was found.",
+     "differ": true,
+     "positions": {
+      "sos-1602111": {
+       "protect_immigrants": {
+        "stance": "supports",
+        "why": "Lists fighting for immigrant communities as a top priority and cites limits on federal agents' masks and camera surveillance.",
+        "evidence": [
+         {
+          "quote": "continuing fighting for our immigrant and underserved communities",
+          "url": "https://docs.google.com/document/d/13vFJoeimMsSfZ_vS8n6be-RpggFowgJWRYopp9nbea4/mobilebasic",
+          "source": "The Urbanist questionnaire (2026)"
+         },
+         {
+          "quote": "banned federal agents from using cameras to spy on immigrants",
+          "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+          "source": "Voters' guide statement"
+         }
+        ]
+       },
+       "equity_programs": {
+        "stance": "supports",
+        "why": "Says he brings a race and social justice equity lens to policy and budget decisions.",
+        "evidence": [
+         {
+          "quote": "I have worked tirelessly to bring a race and social justice equity lens to our policies and budget",
+          "url": "https://javiervaldez.com",
+          "source": "Campaign website"
+         }
+        ]
+       },
+       "voting_access": {
+        "stance": "supports",
+        "why": "Prime sponsor of enacted bills expanding agency voter registration (SB 5077, 2025) and reducing ballot rejection rates (ESSB 5890, 2024).",
+        "evidence": [
+         {
+          "quote": "Concerning expansion of voter registration services by government agencies.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5077&Year=2025",
+          "source": "WA Legislature (prime sponsor, SB 5077)"
+         },
+         {
+          "quote": "Reducing ballot rejection rates through updates to ballot curing, canvassing, reporting, and outreach processes.",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=5890&Year=2024",
+          "source": "WA Legislature (prime sponsor, ESSB 5890)"
+         }
+        ]
+       }
+      }
+     }
+    },
+    "government": {
+     "summary": "Stephens calls for audits of state spending and of nonprofits that receive public funds. No statement on these approaches to running government from Valdez was found.",
+     "differ": true,
+     "positions": {
+      "sos-1602112": {
+       "transparency": {
+        "stance": "supports",
+        "why": "Calls for full spending audits and accountability for taxpayer dollars, including funds passed to nonprofits.",
+        "evidence": [
+         {
+          "quote": "Before considering any new taxes, we need full audits of spending, aggressive cuts to waste and bureaucracy, and real accountability for how every taxpayer dollar is used.",
+          "url": "https://www.sandyforwashington.org/fiscal-responsibility-and-taxpayer-protection/",
+          "source": "Campaign website"
          }
         ]
        }

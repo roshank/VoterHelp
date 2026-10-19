@@ -431,7 +431,10 @@ function bottomLine(contest, brief) {
   };
   const clear = score(top) > 0 && score(top) > score(next);
   return h("div", { class: `bottom ${clear ? "clear" : ""}` },
-    h("strong", {}, clear ? `Closest to your answers: ${top.name}` : "No clear difference on what you told us"),
+    // When the others have nothing on record for these picks, "closest" would overstate it.
+    h("strong", {}, !clear ? "No clear difference on what you told us"
+      : ranked.slice(1).every((c) => !tally[c.id].agree && !tally[c.id].differ) ? `Only ${top.name} has stated positions on your picks`
+      : `Closest to your answers: ${top.name}`),
     h("p", { class: "small" }, clear ? "" : "On your picks, their stated positions are about the same, or there isn't enough on record. Decide on other factors like experience, background and who's funding them."),
     h("ul", { class: "small tally" }, ranked.map((c) => h("li", {}, line(c)))),
     ranked.some((c) => tally[c.id].unknown)
