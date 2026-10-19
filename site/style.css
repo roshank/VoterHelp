@@ -142,3 +142,23 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .quote-group { margin-bottom: 6px; }
 .quote-source { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); margin: 2px 0 4px; }
 .more > summary { font-size: 0.85rem; font-weight: 500; margin: 0 0 6px; }
+
+/* Campaign money: categorical slots in fixed order (validated default palette). */
+:root { --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948; }
+@media (prefers-color-scheme: dark) {
+  :root { --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767; }
+}
+.money { border-top: 1px solid var(--line); margin-top: 10px; padding-top: 4px; }
+.money-totals { margin: 6px 0; }
+.money-bar { display: flex; gap: 2px; height: 12px; margin: 4px 0 8px; }
+.money-bar .seg { min-width: 3px; }
+.money-bar .seg:first-child { border-radius: 4px 0 0 4px; }
+.money-bar .seg:last-child { border-radius: 0 4px 4px 0; }
+.money-bar .seg:only-child { border-radius: 4px; }
+.s1 { background: var(--s1); } .s2 { background: var(--s2); } .s3 { background: var(--s3); } .s4 { background: var(--s4); }
+.s5 { background: var(--s5); } .s6 { background: var(--s6); } .s7 { background: var(--s7); } .s8 { background: var(--s8); }
+.money-legend, .money-list { list-style: none; padding: 0; margin: 0 0 6px; font-size: 0.85rem; }
+.money-legend li, .money-list li { display: flex; gap: 8px; align-items: baseline; padding: 2px 0; }
+.money-legend .swatch { width: 10px; height: 10px; border-radius: 2px; flex: none; align-self: center; }
+.money-legend .src, .money-list li > span:first-child { flex: 1; min-width: 0; }
+.amt { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }

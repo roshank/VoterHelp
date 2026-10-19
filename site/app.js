@@ -31,6 +31,7 @@ const GROUPS = [
 const $ = (sel) => document.querySelector(sel);
 let data;
 let websites = {}; // candidate id -> scraped campaign website text (site/data/websites.json)
+let finance = {}; // candidate id -> PDC campaign finance summary (site/data/finance.json)
 let ballot = null; // { districts, address } once the voter has asked for a ballot
 const chosen = { chips: new Set(), custom: [] };
 
@@ -240,6 +241,62 @@ function addCustom() {
   prioritiesChanged();
 }
 
+// ---- Campaign money --------------------------------------------------------
+
+// Fixed order, so a source always has the same color across every candidate.
+const MONEY_SOURCES = [
+  "Individuals", "Small or unitemized contributions", "PACs and political committees", "Businesses",
+  "Unions", "Political parties", "Other organizations", "The candidate",
+];
+const pct = (part, total) => (part / total < 0.005 ? "<1%" : `${Math.round((100 * part) / total)}%`);
+const usd = (n) => n.toLocaleString("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+
+function moneyBar(byType, total) {
+  const parts = MONEY_SOURCES.map((name, i) => ({ name, i, amount: byType[name] || 0 })).filter((p) => p.amount > 0);
+  return [
+    h("div", { class: "money-bar", role: "img", "aria-label": "Where the money came from" },
+      parts.map((p) => h("span", {
+        class: `seg s${p.i + 1}`, style: `flex-grow: ${p.amount}`,
+        title: `${p.name}: ${usd(p.amount)} (${pct(p.amount, total)})`,
+      }))),
+    h("ul", { class: "money-legend" }, parts.map((p) => h("li", {},
+      h("span", { class: `swatch s${p.i + 1}`, "aria-hidden": "true" }),
+      h("span", { class: "src" }, p.name),
+      h("span", { class: "amt" }, `${usd(p.amount)} · ${pct(p.amount, total)}`)))),
+  ];
+}
+
+function spenders(list) {
+  return h("ul", { class: "money-list" }, list.slice(0, 5).map((x) => h("li", {}, h("span", {}, x.name), h("span", { class: "amt" }, usd(x.total)))));
+}
+
+function moneySection(c) {
+  const f = finance[c.id];
+  if (!f) return null;
+  if (f.federal) {
+    return h("details", { class: "money" }, h("summary", {}, "Campaign money"),
+      h("p", { class: "small" }, "Candidates for Congress report to the Federal Election Commission. ",
+        h("a", { href: f.fec_url, target: "_blank", rel: "noopener" }, "See their FEC filings")));
+  }
+  if (f.no_committee) {
+    return h("details", { class: "money" }, h("summary", {}, "Campaign money"),
+      h("p", { class: "small" }, "No campaign committee is registered with the Public Disclosure Commission, which usually means little or no money raised."));
+  }
+  const totalBySource = Object.values(f.by_type).reduce((a, b) => a + b, 0);
+  return h("details", { class: "money" },
+    h("summary", {}, `Campaign money: raised ${usd(f.raised)}`),
+    h("p", { class: "small money-totals" },
+      `Raised ${usd(f.raised)}`, f.carried_forward ? ` (plus ${usd(f.carried_forward)} carried over)` : "",
+      ` · Spent ${usd(f.spent)}`, f.individual_donors ? ` · ${f.individual_donors.toLocaleString()} individual donors` : ""),
+    totalBySource > 0 ? [h("div", { class: "section-label" }, "Where it came from"), moneyBar(f.by_type, totalBySource)] : null,
+    f.top_organizations.length ? [h("div", { class: "section-label" }, "Largest organizational donors"), spenders(f.top_organizations)] : null,
+    f.outside_support.length ? [h("div", { class: "section-label" }, "Outside groups spending to support"), spenders(f.outside_support)] : null,
+    f.outside_opposition.length ? [h("div", { class: "section-label" }, "Outside groups spending to oppose"), spenders(f.outside_opposition)] : null,
+    h("p", { class: "source" }, "Source: ",
+      h("a", { href: f.pdc_url || "https://www.pdc.wa.gov/", target: "_blank", rel: "noopener" }, "WA Public Disclosure Commission"),
+      ` (${f.pdc_name}). Outside spending is by groups not controlled by the campaign.`));
+}
+
 // ---- Ballot cards --------------------------------------------------------
 
 function candidateCard(c, prios) {
@@ -258,6 +315,7 @@ function candidateCard(c, prios) {
       c.website ? h("a", { href: c.website, target: "_blank", rel: "noopener nofollow" }, "Campaign website") : null,
       c.email ? h("a", { href: `mailto:${c.email}` }, c.email) : null),
     prios.length ? prioritySummary(c, prios) : null,
+    moneySection(c),
     h("details", { open: !prios.length }, h("summary", {}, "Full statement in their words"), fullStatement));
 }
 
@@ -365,11 +423,10 @@ async function init() {
   loadPriorities();
   renderChips();
   data = await (await fetch("data/ballot.json")).json();
-  // Website text is optional: the guide works without it.
-  fetch("data/websites.json").then((r) => (r.ok ? r.json() : null)).then((w) => {
-    websites = w?.candidates || {};
-    if (ballot) render();
-  }).catch(() => {});
+  // Website text and finance data are optional extras: the guide works without them.
+  const extra = (file) => fetch(file).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+  extra("data/websites.json").then((w) => { websites = w?.candidates || {}; if (ballot) render(); });
+  extra("data/finance.json").then((f) => { finance = f?.candidates || {}; if (ballot) render(); });
   $("#generated").textContent = `Data last updated ${new Date(data.generated_at).toLocaleString()}.`;
 
   $("#chips").addEventListener("click", (e) => {

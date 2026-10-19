@@ -1,0 +1,5688 @@
+{
+ "generated_at": "2026-10-19T00:05:49+00:00",
+ "source": "https://www.pdc.wa.gov/political-disclosure-reporting-data/open-data",
+ "candidates": {
+  "sos-1601909": {
+   "pdc_name": "DUERR DAVINA W (Davina Duerr)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70174",
+   "raised": 70170.23,
+   "carried_forward": 8628.63,
+   "spent": 44682.86,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 37076.09,
+    "PACs and political committees": 21259.14,
+    "Businesses": 6200.0,
+    "Unions": 2400.0,
+    "Small or unitemized contributions": 2035.0,
+    "Other organizations": 1200.0
+   },
+   "individual_donors": 12,
+   "top_organizations": [
+    {
+     "name": "WASHINGTON EDUCATION ASSOCIATION POLITICAL ACTION COMMITTEE (WEA-PAC)",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Affordable Housing Council",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Beverage Assoc PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU 775 QUALITY CARE COMMITTEE",
+     "total": 1200.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601910": {
+   "pdc_name": "CHIU MEI WANG (Maggie Wang)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69495",
+   "raised": 11189.51,
+   "carried_forward": 0.0,
+   "spent": 6891.6,
+   "debt": 0.0,
+   "loans": 1200.66,
+   "by_type": {
+    "Individuals": 9988.85,
+    "The candidate": 1200.66
+   },
+   "individual_donors": 35,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601911": {
+   "pdc_name": "Shelley Ann Kloba (Shelley Kloba)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70158",
+   "raised": 73593.94,
+   "carried_forward": 4219.15,
+   "spent": 48838.72,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 27267.8,
+    "Businesses": 17700.0,
+    "Other organizations": 11200.0,
+    "PACs and political committees": 9950.0,
+    "Unions": 7350.0,
+    "Political parties": 126.14
+   },
+   "individual_donors": 85,
+   "top_organizations": [
+    {
+     "name": "Delta Dental",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU Healthcare 1199NW",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Credit Union Legislative Action Fund",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Washington Association of State, County and Municipal Employees (AFSCME) Council 28",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601912": {
+   "pdc_name": "Cliff Moon",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69549",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 3200.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601925": {
+   "pdc_name": "Zachary Hall (Zach Hall)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66928",
+   "raised": 135035.57,
+   "carried_forward": 0.0,
+   "spent": 100083.03,
+   "debt": 17199.5,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 79554.38,
+    "Individuals": 19159.15,
+    "Businesses": 16100.0,
+    "Other organizations": 7450.0,
+    "Unions": 6700.0,
+    "Small or unitemized contributions": 3887.06,
+    "The candidate": 1384.98,
+    "Political parties": 800.0
+   },
+   "individual_donors": 35,
+   "top_organizations": [
+    {
+     "name": "House Democratic Campaign Committee",
+     "total": 40227.38,
+     "type": "Caucus"
+    },
+    {
+     "name": "SEIU 1199NW United for Quality Care PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "WA Beverage Association PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "CONCERNED TAXPAYERS OF WASHINGTON STATE",
+     "total": 15891.44
+    }
+   ]
+  },
+  "sos-1601926": {
+   "pdc_name": "Michelle Diane Bennett (Michelle Bennett)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69071",
+   "raised": 32310.22,
+   "carried_forward": 0.0,
+   "spent": 25975.77,
+   "debt": 0.0,
+   "loans": 735.22,
+   "by_type": {
+    "Individuals": 20175.0,
+    "PACs and political committees": 8400.0,
+    "Businesses": 2400.0,
+    "The candidate": 835.22,
+    "Political parties": 500.0
+   },
+   "individual_donors": 94,
+   "top_organizations": [
+    {
+     "name": "House Republican Organizational Committee",
+     "total": 6000.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "Kemper Holdings LLC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "King County Police Officers Guild PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Council of Police Political Support",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "5th Legislative District Republicans",
+     "total": 500.0,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601927": {
+   "pdc_name": "Lisa Callan (LISA CALLAN)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70175",
+   "raised": 91222.08,
+   "carried_forward": 2845.45,
+   "spent": 84143.4,
+   "debt": 17199.5,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 49256.0,
+    "Businesses": 11150.0,
+    "Individuals": 9833.33,
+    "Other organizations": 9600.0,
+    "Unions": 8200.0,
+    "Political parties": 1772.46,
+    "Small or unitemized contributions": 1410.29
+   },
+   "individual_donors": 26,
+   "top_organizations": [
+    {
+     "name": "Washington Senate Democratic Campaign (WSDC)",
+     "total": 7656.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "WA Affordable Housing Council",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "League of Education Voters",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Puget Sound Pilots PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Snoqualmie Tribe",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601928": {
+   "pdc_name": "Patrick Richard Peacock (Patrick Peacock)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69159",
+   "raised": 12185.0,
+   "carried_forward": 676.88,
+   "spent": 11299.12,
+   "debt": 0.0,
+   "loans": 2000.0,
+   "by_type": {
+    "Individuals": 10385.0,
+    "Businesses": 1200.0,
+    "Political parties": 500.0,
+    "The candidate": 100.0
+   },
+   "individual_donors": 37,
+   "top_organizations": [
+    {
+     "name": "Monroe Machined Products, Inc.",
+     "total": 1200.0,
+     "type": "Business"
+    },
+    {
+     "name": "5th District Republicans",
+     "total": 500.0,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601949": {
+   "pdc_name": "George David Hackney (David Hackney)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62484",
+   "raised": 215153.34,
+   "carried_forward": 24500.0,
+   "spent": 157975.93,
+   "debt": 22213.39,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 101500.0,
+    "PACs and political committees": 53257.49,
+    "Businesses": 37776.85,
+    "Individuals": 14850.0,
+    "Unions": 5150.0,
+    "Small or unitemized contributions": 1819.0,
+    "Political parties": 800.0
+   },
+   "individual_donors": 23,
+   "top_organizations": [
+    {
+     "name": "WA State Council of Police Political Support",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Puget Sound Pilots PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Association of Realtors PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Credit Union Legislative Action Fund",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Jackson Legacy Fund",
+     "total": 42677.92
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    },
+    {
+     "name": "The Kids Table",
+     "total": 22.0
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601950": {
+   "pdc_name": "Ashley Fedan",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68195",
+   "raised": 98069.23,
+   "carried_forward": 0.0,
+   "spent": 109398.92,
+   "debt": 17423.32,
+   "loans": 9000.0,
+   "by_type": {
+    "Individuals": 70078.04,
+    "Small or unitemized contributions": 16198.34,
+    "PACs and political committees": 5650.0,
+    "Businesses": 2900.0,
+    "Unions": 1550.0,
+    "The candidate": 892.85,
+    "Political parties": 800.0
+   },
+   "individual_donors": 135,
+   "top_organizations": [
+    {
+     "name": "Win with Women PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Rainier Surgical Center",
+     "total": 1200.0,
+     "type": "Business"
+    },
+    {
+     "name": "WA Assn of Nurse Anesthetists",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Federation of State Employees",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "American Assn of Nurse Anesthesiology",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601951": {
+   "pdc_name": "STEVEN BERGQUIST (Steve Bergquist)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68636",
+   "raised": 185123.58,
+   "carried_forward": 1471.55,
+   "spent": 163320.27,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 116523.58,
+    "PACs and political committees": 40400.0,
+    "Businesses": 15800.0,
+    "Unions": 11700.0,
+    "Small or unitemized contributions": 700.0
+   },
+   "individual_donors": 8,
+   "top_organizations": [
+    {
+     "name": "WASHINGTON BEER & WINE DISTRIBUTORS ASSOCIATION PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WASHINGTON STATE COUNCIL OF FIREFIGHTERS",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "CREDIT UNION LEG ACTION FUND NORTHWEST CREDIT UNION ASSO",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "The Tulalip Tribes of Washington",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "BECU",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601952": {
+   "pdc_name": "Brian Burnett",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68635",
+   "raised": 156449.99,
+   "carried_forward": 7430.8,
+   "spent": 124725.71,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 107250.0,
+    "Individuals": 25019.25,
+    "Businesses": 20135.74,
+    "Small or unitemized contributions": 2595.0,
+    "Other organizations": 1450.0
+   },
+   "individual_donors": 45,
+   "top_organizations": [
+    {
+     "name": "House Republican Organizational Committee",
+     "total": 64000.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "ASSOCIATED BUILDERS AND CONTRACTORS",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Snoqualmie Tribe",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Hospitality Association",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Association of Nurse Anesthetists Poli Comm",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fix Washington Sponsored by Evergreen Leadership Fund",
+     "total": 4230.49
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601953": {
+   "pdc_name": "Stacy Willoughby",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70264",
+   "raised": 166693.07,
+   "carried_forward": 0.0,
+   "spent": 159676.13,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 90000.19,
+    "Political parties": 27973.48,
+    "PACs and political committees": 27422.19,
+    "Small or unitemized contributions": 15730.79,
+    "Businesses": 2450.0,
+    "Other organizations": 1766.42,
+    "Unions": 1200.0,
+    "The candidate": 150.0
+   },
+   "individual_donors": 166,
+   "top_organizations": [
+    {
+     "name": "Washington State Democratic Central Committee",
+     "total": 26973.48,
+     "type": "Party"
+    },
+    {
+     "name": "House Democratic Campaign Committee",
+     "total": 15900.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "Win With Women PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "IBEW PAC Educational Fund",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "UA Local 32 Pipe PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 330.84
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Fix Washington Sponsored by Evergreen Leadership Fund",
+     "total": 7024.73
+    }
+   ]
+  },
+  "sos-1601955": {
+   "pdc_name": "Michael A. Steele (Mike Steele)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69931",
+   "raised": 158569.0,
+   "carried_forward": 21541.95,
+   "spent": 156805.82,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 61850.0,
+    "Individuals": 41075.0,
+    "Businesses": 39048.0,
+    "Other organizations": 10900.0,
+    "Small or unitemized contributions": 4095.0,
+    "Unions": 1600.0,
+    "The candidate": 1.0
+   },
+   "individual_donors": 73,
+   "top_organizations": [
+    {
+     "name": "House Republican Organizing Committee",
+     "total": 5000.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "Washington Education Association PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "AIRBNB",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "State Farm Federal PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WASHINGTON AGGREGATES & CONCRETE ASSOC PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fix Washington Sponsored by Evergreen Leadership Fund",
+     "total": 4230.49
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 189.5
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601954": {
+   "pdc_name": "Margaret Catherine Carrido Adams (Maggie Adams)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69421",
+   "raised": 13416.75,
+   "carried_forward": 980.73,
+   "spent": 12193.5,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 6867.14,
+    "Small or unitemized contributions": 3296.89,
+    "Political parties": 2000.0,
+    "The candidate": 577.72,
+    "PACs and political committees": 500.0,
+    "Other organizations": 175.0
+   },
+   "individual_donors": 15,
+   "top_organizations": [
+    {
+     "name": "Snohomish County Democratic Central Committee",
+     "total": 2000.0,
+     "type": "Party"
+    },
+    {
+     "name": "Planned Parenthood Advocates of Greater Washington and Northern Idaho",
+     "total": 500.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Elect Stacy Willoughby",
+     "total": 175.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Planned Parenthood Advocates Of Greater Washington",
+     "total": 850.03
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Fix Washington Sponsored by Evergreen Leadership Fund",
+     "total": 7024.74
+    }
+   ]
+  },
+  "sos-1602030": {
+   "pdc_name": "Claire Wilson",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70045",
+   "raised": 113289.44,
+   "carried_forward": 1724.39,
+   "spent": 99152.49,
+   "debt": 2552.0,
+   "loans": 0.0,
+   "by_type": {
+    "Businesses": 34575.51,
+    "PACs and political committees": 33930.44,
+    "Individuals": 26709.49,
+    "Small or unitemized contributions": 10324.0,
+    "Unions": 4450.0,
+    "Other organizations": 2500.0,
+    "Political parties": 800.0
+   },
+   "individual_donors": 78,
+   "top_organizations": [
+    {
+     "name": "WA Charters PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "WA Beverage Assn PAC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Delta Dental",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU Healthcare 1199 NW",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602031": {
+   "pdc_name": "Michael Patrick Rutland (Michael Rutland)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69174",
+   "raised": 19417.36,
+   "carried_forward": 0.0,
+   "spent": 2399.29,
+   "debt": 0.0,
+   "loans": 1687.36,
+   "by_type": {
+    "Individuals": 9730.0,
+    "PACs and political committees": 8000.0,
+    "The candidate": 1687.36
+   },
+   "individual_donors": 48,
+   "top_organizations": [
+    {
+     "name": "Senate Republican Campaign Committee",
+     "total": 5000.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "30th District Republicans",
+     "total": 3000.0,
+     "type": "Caucus"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602032": {
+   "pdc_name": "Jamila E. Taylor",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62295",
+   "raised": 102997.66,
+   "carried_forward": 26478.43,
+   "spent": 100024.34,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 39868.02,
+    "PACs and political committees": 30609.14,
+    "Unions": 13050.0,
+    "Businesses": 10800.0,
+    "Small or unitemized contributions": 7820.5,
+    "Political parties": 800.0
+   },
+   "individual_donors": 117,
+   "top_organizations": [
+    {
+     "name": "SEIU Healthcare 1199NW",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Hospitals for a Healthy Future PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "WA Beer & Wine Distributors Assn",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Credit Union Legislative Action Fund",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602033": {
+   "pdc_name": "Tiffany Faren Bowyer (Tiffany Bowyer)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68410",
+   "raised": 16021.82,
+   "carried_forward": 0.0,
+   "spent": 7508.08,
+   "debt": 0.0,
+   "loans": 431.88,
+   "by_type": {
+    "Individuals": 9940.0,
+    "PACs and political committees": 5000.0,
+    "The candidate": 581.82,
+    "Businesses": 500.0
+   },
+   "individual_donors": 61,
+   "top_organizations": [
+    {
+     "name": "House Republican Organizational Committee",
+     "total": 5000.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "Lil Patriots Academy #1",
+     "total": 500.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602035": {
+   "pdc_name": "Kristine M. Reeves (Kristine Reeves)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66970",
+   "raised": 196308.26,
+   "carried_forward": 35093.56,
+   "spent": 115856.34,
+   "debt": 11645.0,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 134199.14,
+    "Individuals": 35852.86,
+    "PACs and political committees": 21450.0,
+    "Small or unitemized contributions": 3371.26,
+    "Political parties": 1800.0,
+    "The candidate": 835.0,
+    "Businesses": -1200.0
+   },
+   "individual_donors": 58,
+   "top_organizations": [
+    {
+     "name": "Puyallup Tribe of Indians",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "WA Affordable Housing Council",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Gilead Sciences Inc",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Boeing Employees Credit Union (BECU)",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Amazon.com Services LLC",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602034": {
+   "pdc_name": "Paul McDaniel",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69209",
+   "raised": 6969.42,
+   "carried_forward": 950.16,
+   "spent": 5263.52,
+   "debt": 0.0,
+   "loans": 1000.0,
+   "by_type": {
+    "Individuals": 4083.1,
+    "Small or unitemized contributions": 1681.82,
+    "Businesses": 1200.0,
+    "The candidate": 4.5
+   },
+   "individual_donors": 15,
+   "top_organizations": [
+    {
+     "name": "7th Power Inc",
+     "total": 1200.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602037": {
+   "pdc_name": "Philip D Fortunato (Phil Fortunato)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/61073",
+   "raised": 80023.48,
+   "carried_forward": 596.12,
+   "spent": 62881.03,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 33779.48,
+    "Individuals": 22578.43,
+    "Businesses": 21030.57,
+    "Small or unitemized contributions": 2135.0,
+    "Other organizations": 500.0
+   },
+   "individual_donors": 120,
+   "top_organizations": [
+    {
+     "name": "DELTA DENTAL",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "State Farm Federal PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WASHINGTON BEER AND WINE DISTRIBUTORS ASSOCIATION",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "PUGET SOUND ENERGY",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SCHNEIDER FAMILY HOMES LLC",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602036": {
+   "pdc_name": "Tamara Stramel",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68039",
+   "raised": 51719.59,
+   "carried_forward": 0.0,
+   "spent": 39572.82,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 30976.7,
+    "PACs and political committees": 10150.0,
+    "Small or unitemized contributions": 7592.89,
+    "Political parties": 1800.0,
+    "Businesses": 1200.0
+   },
+   "individual_donors": 65,
+   "top_organizations": [
+    {
+     "name": "WA Senate Democratic Campaign",
+     "total": 5000.0,
+     "type": "Caucus"
+    },
+    {
+     "name": "Kennedy Fund",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Strengthening Communities PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Win with Women PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "JCSS Properties LLC",
+     "total": 1200.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602038": {
+   "pdc_name": "Andrew R Stokesbary (Drew Stokesbary)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66875",
+   "raised": 395016.46,
+   "carried_forward": 0.0,
+   "spent": 264328.83,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Businesses": 144098.07,
+    "PACs and political committees": 128813.44,
+    "Individuals": 118704.95,
+    "Unions": 3400.0
+   },
+   "individual_donors": 1808,
+   "top_organizations": [
+    {
+     "name": "CREDIT UNION LEGISLATIVE ACTION FUND",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WASHINGTON HEALTH CARE ASSOCIATION / WHCA-PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "GILEAD SCIENCES, INC.",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "THE BOEING COMPANY PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "UNITEDHEALTH GROUP INC.",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602039": {
+   "pdc_name": "Stephen R Szczurko-Walton (Stephen Szczurko-Walton)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69488",
+   "raised": 16946.08,
+   "carried_forward": 0.0,
+   "spent": 18567.95,
+   "debt": 0.0,
+   "loans": 1750.0,
+   "by_type": {
+    "Individuals": 10150.23,
+    "Small or unitemized contributions": 2531.14,
+    "The candidate": 2514.71,
+    "Businesses": 1000.0,
+    "Political parties": 750.0
+   },
+   "individual_donors": 22,
+   "top_organizations": [
+    {
+     "name": "Taylor & Huang Properties Inc",
+     "total": 1000.0,
+     "type": "Business"
+    },
+    {
+     "name": "31st District Democrats",
+     "total": 750.0,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602040": {
+   "pdc_name": "Joshua Penner",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68442",
+   "raised": 60434.77,
+   "carried_forward": 1996.5,
+   "spent": 40607.09,
+   "debt": 0.0,
+   "loans": 676.88,
+   "by_type": {
+    "Businesses": 30312.0,
+    "PACs and political committees": 21350.0,
+    "Individuals": 5730.0,
+    "Other organizations": 1200.0,
+    "Small or unitemized contributions": 1130.89,
+    "The candidate": 711.88
+   },
+   "individual_donors": 24,
+   "top_organizations": [
+    {
+     "name": "Amazon.com Services LLC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Nash Cascadia Verde LLC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Washington Hospitality Association PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "PMI US Corporate Services",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Kemper Holdings LLC",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602041": {
+   "pdc_name": "John Bielka",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69992",
+   "raised": 15526.63,
+   "carried_forward": 0.0,
+   "spent": 14754.05,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 6928.08,
+    "Individuals": 3889.16,
+    "Political parties": 1550.0,
+    "Unions": 1200.0,
+    "Businesses": 1200.0,
+    "Small or unitemized contributions": 759.39
+   },
+   "individual_donors": 8,
+   "top_organizations": [
+    {
+     "name": "U.A. Local 32 Plumbers Pipe Fitters",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "PACIFIC SEAFOOD",
+     "total": 1200.0,
+     "type": "Business"
+    },
+    {
+     "name": "WASHINGTON STATE DEMOCRATIC CENTRAL PARTY",
+     "total": 800.0,
+     "type": "Party"
+    },
+    {
+     "name": "31ST DISTRICT DEMOCRATS",
+     "total": 750.0,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602042": {
+   "pdc_name": "Cindy Sinhi Kim Ryu (Cindy Ryu)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69055",
+   "raised": 247203.15,
+   "carried_forward": 0.0,
+   "spent": 238979.07,
+   "debt": 45349.38,
+   "loans": 15000.0,
+   "by_type": {
+    "Individuals": 111299.27,
+    "Other organizations": 80778.64,
+    "Political parties": 25800.0,
+    "Small or unitemized contributions": 15515.64,
+    "PACs and political committees": 12400.0,
+    "The candidate": 2009.6,
+    "Businesses": -600.0
+   },
+   "individual_donors": 237,
+   "top_organizations": [
+    {
+     "name": "Snohomish County Democratic Central Committee",
+     "total": 25000.0,
+     "type": "Party"
+    },
+    {
+     "name": "PEMCO Mutual Insurance Company",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "State Farm Federal PAC",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "FairVote Washington PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Evergreen Beauty College",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Washingtonians for a Brighter Future",
+     "total": 25188.02
+    }
+   ]
+  },
+  "sos-1602043": {
+   "pdc_name": "Jesse Salomon",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67032",
+   "raised": 285292.52,
+   "carried_forward": 18093.97,
+   "spent": 243327.41,
+   "debt": 31427.34,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 129414.72,
+    "PACs and political committees": 57500.0,
+    "Businesses": 26807.7,
+    "Political parties": 25913.42,
+    "Other organizations": 25384.3,
+    "Small or unitemized contributions": 15462.5,
+    "Unions": 4100.0,
+    "The candidate": 709.88
+   },
+   "individual_donors": 275,
+   "top_organizations": [
+    {
+     "name": "WASHINGTON SENATE DEMOCRATIC CAMPAIGN",
+     "total": 25113.42,
+     "type": "Party"
+    },
+    {
+     "name": "INTERNATIONAL LONGSHORE AND WAREHOUSE UNION #19",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "PUYALLUP TRIBE OF INDIANS",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "KENNEDY FUND",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "RENTAL HOUSING ASSOCIATION PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Jackson Legacy Fund",
+     "total": 104683.86
+    },
+    {
+     "name": "Washington Needs to Compete",
+     "total": 83576.25
+    },
+    {
+     "name": "WASHINGTON REALTORS POLITICAL ACTION COMMITTEE",
+     "total": 47523.02
+    },
+    {
+     "name": "Washingtonians for a Brighter Future",
+     "total": 23475.37
+    },
+    {
+     "name": "The Kids Table",
+     "total": 8683.02
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602045": {
+   "pdc_name": "Keith Scully",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66268",
+   "raised": 114365.85,
+   "carried_forward": 0.0,
+   "spent": 121940.55,
+   "debt": 21177.6,
+   "loans": 15000.0,
+   "by_type": {
+    "Individuals": 72376.97,
+    "The candidate": 18676.88,
+    "Small or unitemized contributions": 9112.0,
+    "PACs and political committees": 7800.0,
+    "Unions": 5100.0,
+    "Political parties": 800.0,
+    "Other organizations": 500.0
+   },
+   "individual_donors": 132,
+   "top_organizations": [
+    {
+     "name": "IUOE LOCAL 302 SPF",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "SIERRA CLUB PAC WASHINGTON STATE",
+     "total": 1300.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA MULTI FAMILY HOUSING ASSN PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "JUSTICE FOR ALL PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU HEALTHCARE 1199NW PAC",
+     "total": 1200.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602044": {
+   "pdc_name": "Danica Noble",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68329",
+   "raised": 181412.56,
+   "carried_forward": 0.0,
+   "spent": 154866.86,
+   "debt": 0.0,
+   "loans": 7500.0,
+   "by_type": {
+    "Individuals": 136625.24,
+    "Small or unitemized contributions": 16555.66,
+    "Unions": 10600.0,
+    "The candidate": 7781.66,
+    "PACs and political committees": 5850.0,
+    "Other organizations": 3200.0,
+    "Political parties": 800.0
+   },
+   "individual_donors": 208,
+   "top_organizations": [
+    {
+     "name": "AFSCME Council 28",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Machinists Council",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "ATU COPE VOLUNTARY ACCOUNT",
+     "total": 1200.0,
+     "type": "Other"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 1200.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    },
+    {
+     "name": "The Kids Table",
+     "total": 22.0
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602046": {
+   "pdc_name": "Lauren Davis",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68838",
+   "raised": 230224.22,
+   "carried_forward": 39488.58,
+   "spent": 77267.98,
+   "debt": 3000.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 82046.94,
+    "Other organizations": 70200.31,
+    "The candidate": 51775.89,
+    "PACs and political committees": 13409.14,
+    "Small or unitemized contributions": 11991.94,
+    "Political parties": 800.0
+   },
+   "individual_donors": 190,
+   "top_organizations": [
+    {
+     "name": "Lynnwood Police Guild",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "WA Beverage Association PAC",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Proliance Surgeons PAC",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Microsoft",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Washingtonians for a Brighter Future",
+     "total": 23475.38
+    },
+    {
+     "name": "Jackson Legacy Fund",
+     "total": 11634.82
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    },
+    {
+     "name": "The Kids Table",
+     "total": 55.0
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602047": {
+   "pdc_name": "Imraan Siddiqi",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67907",
+   "raised": 79207.59,
+   "carried_forward": 0.0,
+   "spent": 70808.25,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 66775.0,
+    "Small or unitemized contributions": 7435.0,
+    "PACs and political committees": 2950.0,
+    "The candidate": 970.0,
+    "Political parties": 800.0,
+    "Other organizations": 277.59
+   },
+   "individual_donors": 109,
+   "top_organizations": [
+    {
+     "name": "425 ACTION",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "BE THE CHANGE PAC",
+     "total": 1000.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA STATE DEMOCRATS",
+     "total": 800.0,
+     "type": "Party"
+    },
+    {
+     "name": "LIFTING EVERY VOICE",
+     "total": 500.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "ONE AMERICA VOTES JUSTICE FUND",
+     "total": 250.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 198.51
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602048": {
+   "pdc_name": "Tina L. Orwall",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67796",
+   "raised": 61747.5,
+   "carried_forward": 85793.95,
+   "spent": 74361.57,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 40100.0,
+    "Businesses": 15500.0,
+    "Individuals": 2675.0,
+    "Small or unitemized contributions": 1703.0,
+    "Unions": 1100.0,
+    "The candidate": 669.5
+   },
+   "individual_donors": 11,
+   "top_organizations": [
+    {
+     "name": "CREDIT UNION LEGISLATIVE ACTION FUND",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "PUGET SOUND ENERGY",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "WA EDUCATION ASSOCIATION PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "JUSTICE FOR ALL PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "HOSPITALS FOR A HEALTHY FUTURE PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602050": {
+   "pdc_name": "Edwin Obras",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67530",
+   "raised": 42392.41,
+   "carried_forward": 2471.41,
+   "spent": 33536.68,
+   "debt": 8901.53,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 17495.52,
+    "Businesses": 11850.0,
+    "Individuals": 4359.01,
+    "Other organizations": 3400.0,
+    "Unions": 2900.0,
+    "Small or unitemized contributions": 1711.0,
+    "The candidate": 676.88
+   },
+   "individual_donors": 22,
+   "top_organizations": [
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Delta Dental",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Snoqualmie Tribe",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Association of Realtors PAC",
+     "total": 2000.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602049": {
+   "pdc_name": "Christopher Elpidio Quisora Martinez JR (Chris Martinez)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68879",
+   "raised": 6435.35,
+   "carried_forward": 0.0,
+   "spent": 4635.39,
+   "debt": 0.0,
+   "loans": 2186.83,
+   "by_type": {
+    "Individuals": 3871.64,
+    "Businesses": 1200.0,
+    "The candidate": 1186.83,
+    "Political parties": 176.88
+   },
+   "individual_donors": 27,
+   "top_organizations": [
+    {
+     "name": "Monroe Machined Products, Inc.",
+     "total": 1200.0,
+     "type": "Business"
+    },
+    {
+     "name": "King County Republican Party",
+     "total": 176.88,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602051": {
+   "pdc_name": "Mia Su-Ling Gregerson",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66426",
+   "raised": 59301.52,
+   "carried_forward": 11362.51,
+   "spent": 53739.11,
+   "debt": 8901.53,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 30720.52,
+    "Individuals": 10070.0,
+    "Businesses": 9900.0,
+    "Unions": 5100.0,
+    "Small or unitemized contributions": 1811.0,
+    "Other organizations": 1700.0
+   },
+   "individual_donors": 24,
+   "top_organizations": [
+    {
+     "name": "HOSPITALS FOR A HEALTHY FUTURE PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "DELTA DENTAL",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "The Tulalip Tribes of Washington",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "CREDIT UNION LEGISLATIVE ACTION FUND NORTHWEST CREDIT UNION ASSOCIATION",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WASHINGTON AFFORDABLE HOUSING COUNCIL",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602052": {
+   "pdc_name": "Yuri Marinchik",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69208",
+   "raised": 1581.76,
+   "carried_forward": 0.0,
+   "spent": 937.01,
+   "debt": 0.0,
+   "loans": 804.88,
+   "by_type": {
+    "The candidate": 804.88,
+    "Individuals": 600.0,
+    "Political parties": 176.88
+   },
+   "individual_donors": 2,
+   "top_organizations": [
+    {
+     "name": "King County Republican Party",
+     "total": 176.88,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602053": {
+   "pdc_name": "Emily Alvarado",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67301",
+   "raised": 61367.86,
+   "carried_forward": 29630.09,
+   "spent": 54312.23,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 37150.0,
+    "PACs and political committees": 16250.0,
+    "Individuals": 7952.27,
+    "Small or unitemized contributions": 1215.59,
+    "Businesses": -1200.0
+   },
+   "individual_donors": 33,
+   "top_organizations": [
+    {
+     "name": "WA Federation of State Employees SSF (WFSE)",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "SEIU Healthcare 1199NW United for Quality Care",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Credit Union Legislative Action Fund",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Snoqualmie Tribe",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602054": {
+   "pdc_name": "Brianna K.Thomas (Brianna K. Thomas)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67763",
+   "raised": 34046.13,
+   "carried_forward": 30876.43,
+   "spent": 9856.77,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 17000.0,
+    "Individuals": 6547.11,
+    "Businesses": 5900.0,
+    "Unions": 2450.0,
+    "Other organizations": 1200.0,
+    "Small or unitemized contributions": 949.02
+   },
+   "individual_donors": 24,
+   "top_organizations": [
+    {
+     "name": "SEIU 775 QUALITY CARE COMMITTEE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SNOQUALMIE TRIBE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "ALASKA AIRLINES",
+     "total": 1200.0,
+     "type": "Business"
+    },
+    {
+     "name": "WA BEVERAGE ASSOCIATION PAC",
+     "total": 1200.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU HEALTHCARE 1199NW PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602055": {
+   "pdc_name": "Joe Fitzgibbon (JOSEPH FITZGIBBON)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70178",
+   "raised": 201499.59,
+   "carried_forward": 154502.7,
+   "spent": 280320.57,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 87208.76,
+    "Businesses": 68850.01,
+    "Other organizations": 17400.0,
+    "Individuals": 15663.82,
+    "Unions": 10900.0,
+    "Small or unitemized contributions": 1477.0
+   },
+   "individual_donors": 24,
+   "top_organizations": [
+    {
+     "name": "Washington Association of Realtors PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Northwest Natural Gas Company",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Jamestown S'Klallam Tribe",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Beverage Association PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Indian Gaming Association",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "WASHINGTON REALTORS POLITICAL ACTION COMMITTEE",
+     "total": 15245.5
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "CONCERNED TAXPAYERS OF WASHINGTON STATE",
+     "total": 11924.0
+    }
+   ]
+  },
+  "sos-1602056": {
+   "pdc_name": "Mary Anito",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69937",
+   "raised": 10865.32,
+   "carried_forward": 0.0,
+   "spent": 9952.74,
+   "debt": 0.0,
+   "loans": 3336.32,
+   "by_type": {
+    "Individuals": 6270.0,
+    "The candidate": 3336.32,
+    "Small or unitemized contributions": 1259.0
+   },
+   "individual_donors": 10,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602063": {
+   "pdc_name": "Noel C. Frame",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70160",
+   "raised": 91289.05,
+   "carried_forward": 10352.08,
+   "spent": 82344.75,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 43759.05,
+    "Businesses": 18800.0,
+    "Individuals": 13426.0,
+    "Small or unitemized contributions": 7234.0,
+    "Unions": 5600.0,
+    "Other organizations": 2450.0,
+    "The candidate": 20.0
+   },
+   "individual_donors": 55,
+   "top_organizations": [
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Justice For All PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Beverage Association PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "USAA",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Kennedy Fund",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602064": {
+   "pdc_name": "JILLIAN ASTRA ENGLAND (Jillian England)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69169",
+   "raised": 5382.97,
+   "carried_forward": 0.0,
+   "spent": 3291.75,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 3124.53,
+    "Individuals": 1550.0,
+    "Small or unitemized contributions": 370.0,
+    "Political parties": 338.44
+   },
+   "individual_donors": 6,
+   "top_organizations": [
+    {
+     "name": "King County Republican Party",
+     "total": 338.44,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602065": {
+   "pdc_name": "Julia Grant Reed (Julia Reed)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70176",
+   "raised": 65646.0,
+   "carried_forward": 5530.73,
+   "spent": 25625.59,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 24750.0,
+    "Individuals": 15165.0,
+    "Businesses": 13150.0,
+    "Small or unitemized contributions": 5981.0,
+    "Unions": 5400.0,
+    "Other organizations": 1200.0
+   },
+   "individual_donors": 48,
+   "top_organizations": [
+    {
+     "name": "SEIU Healthcare 1199NW",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Electrical Workers 46 PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Snoqualmie Tribe",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Beer & Wine Distributors Assoc",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "BNSF Railway Company",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602066": {
+   "pdc_name": "Elizabeth Berry (Liz Berry)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67487",
+   "raised": 74340.0,
+   "carried_forward": 14839.17,
+   "spent": 39377.49,
+   "debt": 1773.38,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 45600.0,
+    "PACs and political committees": 23850.0,
+    "Individuals": 3086.0,
+    "Small or unitemized contributions": 1804.0
+   },
+   "individual_donors": 7,
+   "top_organizations": [
+    {
+     "name": "SEIU Healthcare 1199NW United for Quality Care",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Uber Technologies Inc",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "USAA",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "WA Machinists Council MNPL Fund / Aerospace Machinists Union District #751",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602067": {
+   "pdc_name": "Chipalo Street",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68643",
+   "raised": 86829.41,
+   "carried_forward": 0.0,
+   "spent": 41259.84,
+   "debt": 0.0,
+   "loans": -1439.69,
+   "by_type": {
+    "Other organizations": 38000.0,
+    "Individuals": 27717.4,
+    "PACs and political committees": 17210.56,
+    "Small or unitemized contributions": 3901.45
+   },
+   "individual_donors": 58,
+   "top_organizations": [
+    {
+     "name": "WASHBANKPAC State Account",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU Healthcare 1199NW United for Quality Care",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "WA Medical PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Amazon.com Services LLC",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602068": {
+   "pdc_name": "Tatiana Meimi Brown (Tatiana Brown)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68954",
+   "raised": 48678.4,
+   "carried_forward": 0.0,
+   "spent": 51671.39,
+   "debt": 0.0,
+   "loans": 5000.0,
+   "by_type": {
+    "Individuals": 35314.5,
+    "Small or unitemized contributions": 11494.67,
+    "The candidate": 819.23,
+    "Political parties": 800.0,
+    "PACs and political committees": 250.0
+   },
+   "individual_donors": 73,
+   "top_organizations": [
+    {
+     "name": "WA State Democrats",
+     "total": 800.0,
+     "type": "Party"
+    },
+    {
+     "name": "WA Ethnic Studies Now",
+     "total": 250.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602069": {
+   "pdc_name": "Kelabe Tewolde",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68621",
+   "raised": 124498.89,
+   "carried_forward": 0.0,
+   "spent": 98558.12,
+   "debt": 10916.81,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 96164.45,
+    "Small or unitemized contributions": 20891.14,
+    "PACs and political committees": 5566.42,
+    "Unions": 1200.0,
+    "The candidate": 676.88
+   },
+   "individual_donors": 202,
+   "top_organizations": [
+    {
+     "name": "WA Youth Alliance Future Fund",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Education Assn PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Housing Alliance",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Sierra Club",
+     "total": 1000.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "UAW Region 6",
+     "total": 600.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Strong Schools PAC Sponsored by Washington Education Association PAC",
+     "total": 40748.0
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602070": {
+   "pdc_name": "Sharon Tomiko Santos",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70153",
+   "raised": 204030.14,
+   "carried_forward": 38623.38,
+   "spent": 130001.87,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 74160.14,
+    "PACs and political committees": 63570.0,
+    "Businesses": 41600.0,
+    "Unions": 13600.0,
+    "Other organizations": 11100.0
+   },
+   "individual_donors": 257,
+   "top_organizations": [
+    {
+     "name": "Pemco Mutual Insurance Company",
+     "total": 2600.0,
+     "type": "Business"
+    },
+    {
+     "name": "BNSF Railway Company",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Washington State Auto Dealers PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "State Farm",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Reynolds Services Company",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Jackson Legacy Fund",
+     "total": 82312.28
+    },
+    {
+     "name": "People Power Solutions PAC",
+     "total": 2500.0
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602071": {
+   "pdc_name": "Jaelynn Pema-la Scott (Jaelynn Scott)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68372",
+   "raised": 150801.87,
+   "carried_forward": 0.0,
+   "spent": 108041.3,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 109364.59,
+    "Small or unitemized contributions": 21810.47,
+    "PACs and political committees": 7250.0,
+    "Unions": 6500.0,
+    "Businesses": 3596.95,
+    "The candidate": 2049.22,
+    "Other organizations": 230.64
+   },
+   "individual_donors": 225,
+   "top_organizations": [
+    {
+     "name": "Build Our Movement PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU Healthcare 1199NW PAC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "WA Federation of State Employees",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602072": {
+   "pdc_name": "Evon mccorkle (Evon McCorkle)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70047",
+   "raised": 700.0,
+   "carried_forward": 0.0,
+   "spent": 23.12,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 700.0
+   },
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602086": {
+   "pdc_name": "Janice Zahn",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67691",
+   "raised": 59325.95,
+   "carried_forward": 53787.63,
+   "spent": 65515.47,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 30390.95,
+    "Individuals": 12105.0,
+    "Businesses": 7800.0,
+    "Small or unitemized contributions": 4980.0,
+    "Other organizations": 3000.0,
+    "Political parties": 800.0,
+    "Unions": 250.0
+   },
+   "individual_donors": 42,
+   "top_organizations": [
+    {
+     "name": "WA AFFORDABLE HOUSING COUNCIL",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "SEIU 775 QUALITY CARE COMMITTEE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "PUGET SOUND PILOTS PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "JUSTICE FOR ALL PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "DELTA DENTAL OF WA",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602087": {
+   "pdc_name": "ELLE ALEXSI NGUYEN (Elle Nguyen)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69308",
+   "raised": 0.0,
+   "carried_forward": 13654.59,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602089": {
+   "pdc_name": "My-Linh Thai (My-Linh T Thai)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62482",
+   "raised": 60853.64,
+   "carried_forward": 20000.0,
+   "spent": 35644.57,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 25909.14,
+    "Businesses": 20250.0,
+    "Individuals": 8827.5,
+    "Small or unitemized contributions": 2667.0,
+    "Unions": 2400.0,
+    "Political parties": 800.0
+   },
+   "individual_donors": 18,
+   "top_organizations": [
+    {
+     "name": "WA MEDICAL PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "HOSPITALS FOR A HEALTHY FUTURE PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "DELTA DENTAL OF WA",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "GENENTECH USA",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "WA BEVERAGE ASSOCIATION PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602088": {
+   "pdc_name": "Michael Rosen",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68221",
+   "raised": 73236.63,
+   "carried_forward": 0.0,
+   "spent": 72856.39,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 56986.63,
+    "Individuals": 14330.0,
+    "Small or unitemized contributions": 1920.0
+   },
+   "individual_donors": 23,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602096": {
+   "pdc_name": "Jamie Pedersen",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/51357",
+   "raised": 565497.34,
+   "carried_forward": 9612.67,
+   "spent": 418409.76,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 257291.0,
+    "PACs and political committees": 153678.34,
+    "Businesses": 117550.0,
+    "Small or unitemized contributions": 14958.0,
+    "Other organizations": 12570.0,
+    "Unions": 8650.0,
+    "Political parties": 800.0
+   },
+   "individual_donors": 614,
+   "top_organizations": [
+    {
+     "name": "WASHINGTON SENATE DEMOCRATIC CAMPAIGN",
+     "total": 17861.74,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "AVISTA CORP",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Philips 66 Company",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SNOQUALMIE TRIBE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "KENNEDY FUND",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "NEW DIRECTION PAC",
+     "total": 216927.83
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 4132.34
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "CONCERNED TAXPAYERS OF WASHINGTON STATE",
+     "total": 45830.72
+    }
+   ]
+  },
+  "sos-1602097": {
+   "pdc_name": "Hannah M. Sabio Howell (Hannah Sabio-Howell)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68475",
+   "raised": 141312.47,
+   "carried_forward": 0.0,
+   "spent": 131843.14,
+   "debt": 1000.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 112677.13,
+    "Small or unitemized contributions": 25731.03,
+    "PACs and political committees": 1439.45,
+    "Political parties": 800.0,
+    "The candidate": 434.22,
+    "Other organizations": 230.64
+   },
+   "individual_donors": 217,
+   "top_organizations": [
+    {
+     "name": "Common Power WA",
+     "total": 839.45,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA State Democrats",
+     "total": 800.0,
+     "type": "Party"
+    },
+    {
+     "name": "Win With Women PAC",
+     "total": 600.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Progress Alliance",
+     "total": 230.64,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602099": {
+   "pdc_name": "Nicole Macri",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67742",
+   "raised": 100598.2,
+   "carried_forward": 21596.84,
+   "spent": 77175.19,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 68550.0,
+    "PACs and political committees": 23500.0,
+    "Individuals": 7662.19,
+    "Small or unitemized contributions": 1479.0,
+    "The candidate": 1400.0,
+    "Political parties": 150.01,
+    "Businesses": -1200.0
+   },
+   "individual_donors": 23,
+   "top_organizations": [
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Credit Union Leg Action Fund / NW Credit Union Assn",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Port Gamble S'klallam Tribe",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Delta Dental of WA",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602098": {
+   "pdc_name": "Alby D Clendennin IV (Alby Clendennin)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68069",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 676.88,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602100": {
+   "pdc_name": "Shaun Scott",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66886",
+   "raised": 26511.27,
+   "carried_forward": 3146.1,
+   "spent": 16553.79,
+   "debt": 39698.06,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 12450.39,
+    "PACs and political committees": 5800.0,
+    "The candidate": 5676.88,
+    "Individuals": 1711.0,
+    "Small or unitemized contributions": 873.0
+   },
+   "individual_donors": 8,
+   "top_organizations": [
+    {
+     "name": "Service Employees International Union (SEIU) 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 1200.0,
+     "type": "Other"
+    },
+    {
+     "name": "Puyallup Tribe of Indians",
+     "total": 1200.0,
+     "type": "Other"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 1200.0,
+     "type": "Other"
+    },
+    {
+     "name": "Credit Union Legislative Action Fund",
+     "total": 1200.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602106": {
+   "pdc_name": "Manka Dhingra",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/50175",
+   "raised": 275852.19,
+   "carried_forward": 3245.42,
+   "spent": 187988.96,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 137934.63,
+    "PACs and political committees": 62500.0,
+    "Businesses": 51677.56,
+    "Unions": 17350.0,
+    "Small or unitemized contributions": 6390.0
+   },
+   "individual_donors": 221,
+   "top_organizations": [
+    {
+     "name": "SEIU 775",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "BNSF Railway Co",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Puget Sound Pilots PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Retail Assn",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "The Tulalip Tribes of WA",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602107": {
+   "pdc_name": "Roger Goodman",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70157",
+   "raised": 50528.94,
+   "carried_forward": 19090.13,
+   "spent": 44507.39,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Businesses": 19550.0,
+    "PACs and political committees": 17950.0,
+    "Individuals": 9419.8,
+    "Unions": 3500.0,
+    "Political parties": 109.14
+   },
+   "individual_donors": 26,
+   "top_organizations": [
+    {
+     "name": "Washington Education Association (WEA) PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WASHINGTON SOCIETY OF CPAS PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Lumen Technologies Service Group LLC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "JUSTICE FOR ALL PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "BNSF",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602108": {
+   "pdc_name": "JoAnn Tolentino",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69275",
+   "raised": 5531.44,
+   "carried_forward": 1137.44,
+   "spent": 3916.61,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 3668.0,
+    "Small or unitemized contributions": 1525.0,
+    "Political parties": 338.44
+   },
+   "individual_donors": 11,
+   "top_organizations": [
+    {
+     "name": "45th LD Republicans",
+     "total": 338.44,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602109": {
+   "pdc_name": "Vanessa E. Kritzer (Vanessa Kritzer)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68358",
+   "raised": 157115.06,
+   "carried_forward": 108.0,
+   "spent": 129389.57,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 128865.06,
+    "PACs and political committees": 13450.0,
+    "Businesses": 6300.0,
+    "Unions": 4700.0,
+    "Other organizations": 3000.0,
+    "Political parties": 800.0
+   },
+   "individual_donors": 433,
+   "top_organizations": [
+    {
+     "name": "SEIU Healthcare 1199NW",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "1910 PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Education Association PAC (WEA)",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington American Federation of State, County and Municipal Employees (AFSCME) Council 28",
+     "total": 1800.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    },
+    {
+     "name": "The Kids Table",
+     "total": 22.0
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602110": {
+   "pdc_name": "John P. Gibbons (John P Gibbons)",
+   "no_committee": true
+  },
+  "sos-1602111": {
+   "pdc_name": "Javier Valdez",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/50976",
+   "raised": 134225.0,
+   "carried_forward": 38149.8,
+   "spent": 75047.48,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 48796.0,
+    "PACs and political committees": 42050.0,
+    "Unions": 20300.0,
+    "Businesses": 12350.0,
+    "Small or unitemized contributions": 9529.0,
+    "Other organizations": 1200.0
+   },
+   "individual_donors": 115,
+   "top_organizations": [
+    {
+     "name": "JAMESTOWN S'KLALLAM TRIBE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "PROFESSIONAL & TECHNICAL EMPLOYEES LOCAL 17",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "KENNEDY FUND",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "JUSTICE FOR ALL PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Electrical Workers 46 PAC",
+     "total": 2400.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 75.8
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602112": {
+   "pdc_name": "Sandra M. Stephens (Sandra Stephens)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69536",
+   "raised": 1026.88,
+   "carried_forward": 0.0,
+   "spent": 724.41,
+   "debt": 0.0,
+   "loans": 676.88,
+   "by_type": {
+    "The candidate": 676.88,
+    "Other organizations": 300.0,
+    "Individuals": 50.0
+   },
+   "individual_donors": 1,
+   "top_organizations": [
+    {
+     "name": "King County 46th District Republicans",
+     "total": 300.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602113": {
+   "pdc_name": "POLLET GERALD M (Gerry Pollet)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66624",
+   "raised": 214407.08,
+   "carried_forward": 74936.81,
+   "spent": 220329.24,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 141609.7,
+    "PACs and political committees": 31863.38,
+    "Unions": 19420.0,
+    "Small or unitemized contributions": 16714.0,
+    "Businesses": 2900.0,
+    "Other organizations": 1100.0,
+    "Political parties": 800.0
+   },
+   "individual_donors": 405,
+   "top_organizations": [
+    {
+     "name": "PORT GAMBLE S'KLALLAM TRIBE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "JUSTICE FOR ALL",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SNOQUALMIE TRIBE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU 1199NW",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "THE TULALIP TRIBES OF WA",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Strong Schools PAC Sponsored by Washington Education Association PAC",
+     "total": 36806.8
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602114": {
+   "pdc_name": "William Dreher (Will Dreher)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68884",
+   "raised": 306327.71,
+   "carried_forward": 0.0,
+   "spent": 255537.4,
+   "debt": 38514.14,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 289407.56,
+    "Small or unitemized contributions": 14970.15,
+    "Political parties": 800.0,
+    "Unions": 500.0,
+    "The candidate": 400.0,
+    "Other organizations": 250.0
+   },
+   "individual_donors": 274,
+   "top_organizations": [
+    {
+     "name": "WA State Democrats",
+     "total": 800.0,
+     "type": "Party"
+    },
+    {
+     "name": "Professional & Technical Employees Local 17",
+     "total": 500.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 56.54
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "PROGRESS KING COUNTY",
+     "total": 14680.55
+    }
+   ]
+  },
+  "sos-1602116": {
+   "pdc_name": "DARYA FARIVAR (Darya Farivar)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69522",
+   "raised": 70449.46,
+   "carried_forward": 20000.0,
+   "spent": 20269.79,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 35387.79,
+    "PACs and political committees": 18109.14,
+    "Small or unitemized contributions": 8297.0,
+    "Businesses": 4800.0,
+    "Unions": 3850.0,
+    "The candidate": 5.53
+   },
+   "individual_donors": 83,
+   "top_organizations": [
+    {
+     "name": "WA MACHINISTS COUNCIL MNPL FUND",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Delta Dental of WA",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU 775 QUALITY CARE COMMITTEE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Snoqualmie Tribe",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "JUSTICE FOR ALL PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602115": {
+   "pdc_name": "Rodney Steven Thornley (Rodney 'Star' Thornley)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69323",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602117": {
+   "pdc_name": "KAUFFMAN CLAUDIA G (Claudia Kauffman)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70145",
+   "raised": 218997.13,
+   "carried_forward": 14100.96,
+   "spent": 178047.03,
+   "debt": 7240.05,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 103190.09,
+    "Businesses": 51000.0,
+    "Individuals": 41826.01,
+    "Other organizations": 11066.23,
+    "Small or unitemized contributions": 9014.8,
+    "Political parties": 1800.0,
+    "Unions": 1000.0,
+    "The candidate": 100.0
+   },
+   "individual_donors": 117,
+   "top_organizations": [
+    {
+     "name": "WA SENATE DEMOCRATIC CAMPAIGN",
+     "total": 5390.09,
+     "type": "Caucus"
+    },
+    {
+     "name": "REGENCE BLUESHIELD",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "KENNEDY FUND",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA INSURERS PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "STATE FARM FEDERAL PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602118": {
+   "pdc_name": "Kristina Soltys",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68743",
+   "raised": 254023.55,
+   "carried_forward": 0.0,
+   "spent": 160252.51,
+   "debt": 0.0,
+   "loans": 784.89,
+   "by_type": {
+    "PACs and political committees": 116940.32,
+    "Political parties": 80400.0,
+    "Individuals": 52298.34,
+    "Businesses": 3600.0,
+    "The candidate": 784.89
+   },
+   "individual_donors": 122,
+   "top_organizations": [
+    {
+     "name": "Senate Republican Campaign Committee",
+     "total": 113040.32,
+     "type": "Caucus"
+    },
+    {
+     "name": "Washington State Republican Party",
+     "total": 80400.0,
+     "type": "Party"
+    },
+    {
+     "name": "Kemper Holdings LLC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Associated General Contractors of Washington's BUILD PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "The Leadership Council",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602119": {
+   "pdc_name": "DEBRA Jean  ENTENMAN (DEBRA ENTENMAN)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70199",
+   "raised": 51560.71,
+   "carried_forward": 21806.32,
+   "spent": 53514.6,
+   "debt": 500.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 30012.83,
+    "Businesses": 8250.0,
+    "Other organizations": 6850.0,
+    "Individuals": 3750.0,
+    "Political parties": 1300.0,
+    "Small or unitemized contributions": 721.0,
+    "The candidate": 676.88
+   },
+   "individual_donors": 9,
+   "top_organizations": [
+    {
+     "name": "The Boeing Company PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Delta Dental",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Beverage Associaion PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602120": {
+   "pdc_name": "Cobi Clark",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68957",
+   "raised": 56143.21,
+   "carried_forward": 0.0,
+   "spent": 58150.77,
+   "debt": 0.0,
+   "loans": 20000.0,
+   "by_type": {
+    "Individuals": 31096.0,
+    "Political parties": 11000.0,
+    "The candidate": 10525.3,
+    "Small or unitemized contributions": 2371.91,
+    "Businesses": 900.0,
+    "PACs and political committees": 250.0
+   },
+   "individual_donors": 64,
+   "top_organizations": [
+    {
+     "name": "Libertarian Party of Washington",
+     "total": 11000.0,
+     "type": "Party"
+    },
+    {
+     "name": "New Tech Web, Inc.",
+     "total": 900.0,
+     "type": "Business"
+    },
+    {
+     "name": "Washington Association of REALTORS",
+     "total": 250.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602121": {
+   "pdc_name": "CHRISTOPHER T STEARNS (Chris Stearns)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62489",
+   "raised": 81707.32,
+   "carried_forward": 5804.36,
+   "spent": 61659.25,
+   "debt": 10670.39,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 56509.14,
+    "Businesses": 12000.0,
+    "Individuals": 6074.0,
+    "Small or unitemized contributions": 3319.6,
+    "Unions": 1350.0,
+    "Political parties": 1300.0,
+    "Other organizations": 1149.58,
+    "The candidate": 5.0
+   },
+   "individual_donors": 17,
+   "top_organizations": [
+    {
+     "name": "WA EDUCATION ASSOCIATION PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "CAMPAIGN FOR TRIBAL SELF-RELIANCE BY WA INDIAN GAMING ASSN",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "THE BOEING COMPANY PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SNOQUALMIE TRIBE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "PORT GAMBLE S'KLALLAM TRIBE",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602122": {
+   "pdc_name": "Theodore Cooke (Ted Cooke)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/66881",
+   "raised": 4315.0,
+   "carried_forward": 670.74,
+   "spent": 4052.85,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 2300.0,
+    "Political parties": 1500.0,
+    "Small or unitemized contributions": 415.0,
+    "The candidate": 100.0
+   },
+   "individual_donors": 3,
+   "top_organizations": [
+    {
+     "name": "47th District Republicans",
+     "total": 1500.0,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602123": {
+   "pdc_name": "Vandana Slatter",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67757",
+   "raised": 108139.08,
+   "carried_forward": 40421.78,
+   "spent": 76744.03,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 36586.42,
+    "Individuals": 31625.0,
+    "Businesses": 26772.78,
+    "Unions": 8100.0,
+    "Small or unitemized contributions": 3378.0,
+    "Other organizations": 1000.0,
+    "The candidate": 676.88
+   },
+   "individual_donors": 46,
+   "top_organizations": [
+    {
+     "name": "Kennedy Fund",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA Federation of State Employees SSF",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "WA State Dental PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Hospitals for a Healthy Future PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Amazon.com Services LLC",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "NEW DIRECTION PAC",
+     "total": 8237.12
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602125": {
+   "pdc_name": "Osman Salahuddin",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68146",
+   "raised": 99242.64,
+   "carried_forward": 74479.73,
+   "spent": 143333.88,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "PACs and political committees": 45850.0,
+    "Businesses": 21650.0,
+    "Individuals": 15585.0,
+    "Unions": 7850.0,
+    "Small or unitemized contributions": 3326.76,
+    "Other organizations": 3000.0,
+    "The candidate": 1980.88
+   },
+   "individual_donors": 34,
+   "top_organizations": [
+    {
+     "name": "Washington Federation of State Employees SSF",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Washington Beer  & Wine Distributors Association",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Puyallup Tribe of Indians",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Puget Sound Energy",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Delta Dental of Washington",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Jackson Legacy Fund",
+     "total": 8322.49
+    },
+    {
+     "name": "NEW DIRECTION PAC",
+     "total": 8237.13
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 132.34
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602124": {
+   "pdc_name": "Jeffery Lee Poppe (Jeffery Poppe)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69553",
+   "raised": 959.7,
+   "carried_forward": 0.0,
+   "spent": 629.26,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 959.7
+   },
+   "individual_donors": 0,
+   "top_organizations": [
+    {
+     "name": "Larry Kavounas",
+     "total": 959.7,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602126": {
+   "pdc_name": "Jessica Forsythe",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67417",
+   "raised": 190709.17,
+   "carried_forward": 0.0,
+   "spent": 79327.15,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 136682.69,
+    "PACs and political committees": 20650.0,
+    "Political parties": 16000.0,
+    "Unions": 11600.0,
+    "Other organizations": 2900.0,
+    "Businesses": 1784.84,
+    "The candidate": 1012.33,
+    "Small or unitemized contributions": 79.31
+   },
+   "individual_donors": 368,
+   "top_organizations": [
+    {
+     "name": "48th District Democrats",
+     "total": 16000.0,
+     "type": "Party"
+    },
+    {
+     "name": "Service Employees International Union (SEIU) Local 925 PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "American Federation of State, County and Municipal Employees (AFSCME) Council 28",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Service Employee International Union (SEIU) 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Washington Education Association PAC (WEA)",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "NEW DIRECTION PAC",
+     "total": 295809.59
+    },
+    {
+     "name": "Eastside Progress PAC",
+     "total": 19649.25
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 13261.59
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Citizens for Progress",
+     "total": 66363.36
+    },
+    {
+     "name": "Jackson Legacy Fund",
+     "total": 12472.05
+    }
+   ]
+  },
+  "sos-1602127": {
+   "pdc_name": "Amy Walen",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67478",
+   "raised": 431410.89,
+   "carried_forward": 0.0,
+   "spent": 269439.51,
+   "debt": 33285.51,
+   "loans": 0.0,
+   "by_type": {
+    "Other organizations": 271294.6,
+    "Individuals": 95813.65,
+    "PACs and political committees": 27309.14,
+    "Political parties": 25800.0,
+    "Small or unitemized contributions": 7543.5,
+    "The candidate": 3650.0,
+    "Businesses": 0.0
+   },
+   "individual_donors": 152,
+   "top_organizations": [
+    {
+     "name": "Amy Walen Surplus Funds Account",
+     "total": 49194.6,
+     "type": "Other"
+    },
+    {
+     "name": "House Democratic Campaign Committee",
+     "total": 25109.14,
+     "type": "Party"
+    },
+    {
+     "name": "Sabey Corporation",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Hospitals for a Healthy Future PAC / HHFPAC",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "Proliance Surgeons PAC State Account",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Washington Needs to Compete",
+     "total": 382884.38
+    },
+    {
+     "name": "Citizens for Progress",
+     "total": 110003.74
+    },
+    {
+     "name": "NATIONAL ASSOCIATION OF REALTORS FUND",
+     "total": 68000.0
+    },
+    {
+     "name": "Jackson Legacy Fund",
+     "total": 58918.27
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "NEW DIRECTION PAC",
+     "total": 169074.02
+    },
+    {
+     "name": "Eastside Progress PAC",
+     "total": 6549.75
+    }
+   ]
+  },
+  "sos-1602132": {
+   "pdc_name": "Colleen M. Melody (Colleen Melody)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67899",
+   "raised": 270077.74,
+   "carried_forward": 0.0,
+   "spent": 110500.72,
+   "debt": 4750.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 215268.29,
+    "Other organizations": 42357.58,
+    "Small or unitemized contributions": 10295.85,
+    "PACs and political committees": 1200.0,
+    "Businesses": 692.42,
+    "Political parties": 263.6
+   },
+   "individual_donors": 406,
+   "top_organizations": [
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 4800.0,
+     "type": "Other"
+    },
+    {
+     "name": "WA Education Association (WEA) PAC",
+     "total": 4800.0,
+     "type": "Other"
+    },
+    {
+     "name": "Pfau Cochran Vertetis Amala",
+     "total": 4800.0,
+     "type": "Other"
+    },
+    {
+     "name": "WA Federation of State Employees SSF (WFSE)",
+     "total": 4800.0,
+     "type": "Other"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 4800.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 75270.58
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 17255.64
+    },
+    {
+     "name": "Seattle Indivisible",
+     "total": 6086.94
+    },
+    {
+     "name": "Planned Parenthood Advocates Of Greater Washington",
+     "total": 850.03
+    },
+    {
+     "name": "Rural Working Families Sponsored by Firelands Workers United",
+     "total": 94.63
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602133": {
+   "pdc_name": "Scott M. Edwards (Scott Edwards)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69970",
+   "raised": 180173.68,
+   "carried_forward": 0.0,
+   "spent": 154240.59,
+   "debt": 0.0,
+   "loans": 9900.0,
+   "by_type": {
+    "Individuals": 129154.36,
+    "Businesses": 29600.0,
+    "PACs and political committees": 12650.0,
+    "Small or unitemized contributions": 5155.0,
+    "The candidate": 3537.7,
+    "Other organizations": 76.62
+   },
+   "individual_donors": 172,
+   "top_organizations": [
+    {
+     "name": "HMG LLC",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "NFIB Washington PAC",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "Kemper Holding LLC",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "Build East PAC",
+     "total": 3900.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Associated General Contractors of Washington BUILD PAC",
+     "total": 3900.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "CONCERNED TAXPAYERS OF WASHINGTON STATE",
+     "total": 72791.9
+    },
+    {
+     "name": "21ST LEGISLATIVE DISTRICT REPUBLICAN PARTY",
+     "total": 433.97
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 91270.57
+    }
+   ]
+  },
+  "sos-1602134": {
+   "pdc_name": "David Stevens y Perez (David Stevens)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68563",
+   "raised": 79125.5,
+   "carried_forward": 0.0,
+   "spent": 64891.76,
+   "debt": 0.0,
+   "loans": 1380.15,
+   "by_type": {
+    "Individuals": 51812.0,
+    "Businesses": 11200.0,
+    "Small or unitemized contributions": 7432.0,
+    "PACs and political committees": 3400.0,
+    "Other organizations": 2200.0,
+    "The candidate": 1581.5,
+    "Political parties": 1500.0
+   },
+   "individual_donors": 82,
+   "top_organizations": [
+    {
+     "name": "Council of Police Political Support",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "Goodman Real Estate Inc",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Rental Housing Association of WA",
+     "total": 2200.0,
+     "type": "Other"
+    },
+    {
+     "name": "Amanda Duff",
+     "total": 1500.0,
+     "type": "Business"
+    },
+    {
+     "name": "ABC WA PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "CONCERNED TAXPAYERS OF WASHINGTON STATE",
+     "total": 49719.3
+    },
+    {
+     "name": "21ST LEGISLATIVE DISTRICT REPUBLICAN PARTY",
+     "total": 433.97
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 91270.57
+    }
+   ]
+  },
+  "sos-1602135": {
+   "pdc_name": "Jaime Hawk (Jaime Michelle Hawk)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68792",
+   "raised": 336702.91,
+   "carried_forward": 0.0,
+   "spent": 312739.15,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 259702.07,
+    "Businesses": 21786.62,
+    "Small or unitemized contributions": 21381.0,
+    "Unions": 17900.0,
+    "The candidate": 7669.62,
+    "PACs and political committees": 7500.0,
+    "Political parties": 763.6
+   },
+   "individual_donors": 362,
+   "top_organizations": [
+    {
+     "name": "Pfau Cochran Vertetis Amala PLLC",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 4800.0,
+     "type": "Union"
+    },
+    {
+     "name": "SEIU Healthcare 1199NW",
+     "total": 4800.0,
+     "type": "Union"
+    },
+    {
+     "name": "SEIU Local 925",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Johnson Flora Sprangers",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 17255.64
+    },
+    {
+     "name": "Seattle Indivisible",
+     "total": 6086.94
+    },
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 2000.0
+    },
+    {
+     "name": "Planned Parenthood Advocates Of Greater Washington",
+     "total": 850.03
+    },
+    {
+     "name": "Rural Working Families Sponsored by Firelands Workers United",
+     "total": 94.63
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602270": {
+   "pdc_name": "Ian S. Birk (Ian Birk)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69786",
+   "raised": 577705.38,
+   "carried_forward": 0.0,
+   "spent": 282088.42,
+   "debt": 15000.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 504204.93,
+    "Businesses": 48571.71,
+    "Small or unitemized contributions": 10073.0,
+    "Unions": 8450.0,
+    "PACs and political committees": 4379.87,
+    "Political parties": 1763.6,
+    "The candidate": 250.0,
+    "Other organizations": 12.27
+   },
+   "individual_donors": 553,
+   "top_organizations": [
+    {
+     "name": "Stritmatter Law",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "WA Education Association PAC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SEIU 775 Quality Care Committee",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Shishido Goldsworthy PLLC",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "GLP Attorneys PS Inc.",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 71270.58
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 9715.9
+    },
+    {
+     "name": "Seattle Indivisible",
+     "total": 6086.96
+    },
+    {
+     "name": "Planned Parenthood Advocates Of Greater Washington",
+     "total": 850.03
+    },
+    {
+     "name": "Rural Working Families Sponsored by Firelands Workers United",
+     "total": 94.63
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602271": {
+   "pdc_name": "Sean Patrick O'Donnell (Sean O'Donnell)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68713",
+   "raised": 445711.74,
+   "carried_forward": 0.0,
+   "spent": 89877.68,
+   "debt": 0.0,
+   "loans": 5000.0,
+   "by_type": {
+    "Individuals": 398144.16,
+    "PACs and political committees": 24852.72,
+    "Small or unitemized contributions": 11922.77,
+    "Businesses": 6000.0,
+    "Other organizations": 4600.0,
+    "The candidate": 192.09
+   },
+   "individual_donors": 608,
+   "top_organizations": [
+    {
+     "name": "Build East PAC",
+     "total": 4800.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Simpson Investment Company",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Skylight Capital, Inc.",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Pierce County Prosecuting Attorneys Association Political Fund",
+     "total": 2400.0,
+     "type": "Other"
+    },
+    {
+     "name": "NFIB Washington Political Action Committee",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Balance Washington",
+     "total": 83941.52
+    },
+    {
+     "name": "CONCERNED TAXPAYERS OF WASHINGTON STATE",
+     "total": 47834.5
+    },
+    {
+     "name": "CITIZENS FOR WORKING COURTS ENTERPRISE WASHINGTON",
+     "total": 2873.0
+    },
+    {
+     "name": "21ST LEGISLATIVE DISTRICT REPUBLICAN PARTY",
+     "total": 433.97
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 75270.58
+    }
+   ]
+  },
+  "sos-1602136": {
+   "pdc_name": "Theodore John Angelis (Theo Angelis)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68464",
+   "raised": 463356.01,
+   "carried_forward": 0.0,
+   "spent": 455042.53,
+   "debt": 22110.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 392299.84,
+    "Businesses": 20299.75,
+    "Unions": 19400.0,
+    "Small or unitemized contributions": 17676.0,
+    "PACs and political committees": 7700.0,
+    "The candidate": 4466.82,
+    "Political parties": 1513.6
+   },
+   "individual_donors": 461,
+   "top_organizations": [
+    {
+     "name": "WA Federation of State Employees",
+     "total": 4800.0,
+     "type": "Union"
+    },
+    {
+     "name": "Johnson Flora Sprangers PLLC",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "Rush Hannula Harkins & Kyler",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "Justice for All PAC",
+     "total": 4800.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "SEIU 775 Quality Care Cmte",
+     "total": 4800.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 73270.58
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 17255.64
+    },
+    {
+     "name": "Seattle Indivisible",
+     "total": 6086.94
+    },
+    {
+     "name": "Planned Parenthood Advocates Of Greater Washington",
+     "total": 850.03
+    },
+    {
+     "name": "Rural Working Families Sponsored by Firelands Workers United",
+     "total": 94.63
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602137": {
+   "pdc_name": "David A. Larson (Dave Larson)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68238",
+   "raised": 436783.67,
+   "carried_forward": 2616.37,
+   "spent": 365295.31,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 352412.5,
+    "Small or unitemized contributions": 37050.5,
+    "Businesses": 20750.0,
+    "PACs and political committees": 18300.0,
+    "Other organizations": 4876.62,
+    "Political parties": 2800.0,
+    "The candidate": 594.05
+   },
+   "individual_donors": 517,
+   "top_organizations": [
+    {
+     "name": "Kemper Holdings LLC",
+     "total": 4800.0,
+     "type": "Business"
+    },
+    {
+     "name": "National Federation of Independent Business (NFIB) Washington PAC",
+     "total": 4800.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Council of Police Political Support",
+     "total": 4800.0,
+     "type": "Other"
+    },
+    {
+     "name": "Skylight Capital",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Associated General Contractors of Washingtons BUILD PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Balance Washington",
+     "total": 77506.51
+    },
+    {
+     "name": "CONCERNED TAXPAYERS OF WASHINGTON STATE",
+     "total": 72791.91
+    },
+    {
+     "name": "21ST LEGISLATIVE DISTRICT REPUBLICAN PARTY",
+     "total": 433.97
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 91270.58
+    }
+   ]
+  },
+  "sos-1602139": {
+   "pdc_name": "STEPHENS DEBRA L (Debra L. Stephens)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69954",
+   "raised": 140435.2,
+   "carried_forward": 26513.38,
+   "spent": 107738.06,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 117673.0,
+    "PACs and political committees": 10800.0,
+    "Businesses": 5345.0,
+    "Unions": 4800.0,
+    "Other organizations": 1200.0,
+    "Political parties": 617.2
+   },
+   "individual_donors": 240,
+   "top_organizations": [
+    {
+     "name": "AFSCME Council 28",
+     "total": 4800.0,
+     "type": "Union"
+    },
+    {
+     "name": "Justice For All PAC",
+     "total": 4800.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Strimatter Law",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Washington Education Association Political Action Committee",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WEA PAC",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 75270.58
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 17255.64
+    },
+    {
+     "name": "Seattle Indivisible",
+     "total": 6086.94
+    },
+    {
+     "name": "Planned Parenthood Advocates Of Greater Washington",
+     "total": 850.03
+    },
+    {
+     "name": "Rural Working Families Sponsored by Firelands Workers United",
+     "total": 94.63
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602138": {
+   "pdc_name": "Todd A. Bloom",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69774",
+   "raised": 32239.46,
+   "carried_forward": 0.0,
+   "spent": 11549.1,
+   "debt": 0.0,
+   "loans": 835.7,
+   "by_type": {
+    "Individuals": 21971.08,
+    "Businesses": 5150.0,
+    "The candidate": 3343.38,
+    "Small or unitemized contributions": 1275.0,
+    "Political parties": 500.0
+   },
+   "individual_donors": 43,
+   "top_organizations": [
+    {
+     "name": "Goodman Real Estate Inc.",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Janicki Industries",
+     "total": 1000.0,
+     "type": "Business"
+    },
+    {
+     "name": "Cascade PAC",
+     "total": 750.0,
+     "type": "Business"
+    },
+    {
+     "name": "Jefferson Co. Republicans Central Committee",
+     "total": 500.0,
+     "type": "Party"
+    },
+    {
+     "name": "11:11 Bail Bonds Inc",
+     "total": 500.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "21ST LEGISLATIVE DISTRICT REPUBLICAN PARTY",
+     "total": 433.97
+    }
+   ],
+   "outside_opposition": [
+    {
+     "name": "Beware the Attack on Our Courts",
+     "total": 75270.58
+    }
+   ]
+  },
+  "sos-1602259": {
+   "pdc_name": "David Scott Mann (David S. Mann)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69354",
+   "raised": 600.0,
+   "carried_forward": 0.0,
+   "spent": 600.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 600.0
+   },
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602260": {
+   "pdc_name": "Bill A. Bowman",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69352",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602180": {
+   "pdc_name": "Leesa A Manion (Leesa Manion)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68796",
+   "raised": 121287.6,
+   "carried_forward": 2255.84,
+   "spent": 73240.35,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 102596.04,
+    "Small or unitemized contributions": 10884.0,
+    "Unions": 4600.0,
+    "Businesses": 2492.56,
+    "The candidate": 390.0,
+    "Political parties": 300.0,
+    "Other organizations": 25.0
+   },
+   "individual_donors": 237,
+   "top_organizations": [
+    {
+     "name": "Amalgamated Transit Union",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "IUPAT Dist Cncl 5",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "Amazon",
+     "total": 1200.0,
+     "type": "Business"
+    },
+    {
+     "name": "LABORERS LOCAL 242",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "K&L GATES",
+     "total": 792.56,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 113.07
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601659": {
+   "pdc_name": "Robert Rolston Foxcurran (Rob Foxcurran)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67803",
+   "raised": 72051.0,
+   "carried_forward": 0.0,
+   "spent": 59675.94,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 52220.0,
+    "Small or unitemized contributions": 9680.0,
+    "PACs and political committees": 5300.0,
+    "Unions": 4600.0,
+    "The candidate": 251.0
+   },
+   "individual_donors": 113,
+   "top_organizations": [
+    {
+     "name": "PROFESSIONAL & TECHNICAL EMPLOYEES LOCAL 17 PAC",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "ATU COPE VOLUNTARY ACCOUNT",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "MASTER BUILDERS ASSC OF KING & SNO COUNTIES - AFFORDABLE HOUSING COUNCIL",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "BOMA PAC OF WASHINGTON STATE",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "WA ASSOCIATION OF REALTORS PAC",
+     "total": 1200.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 113.07
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601660": {
+   "pdc_name": "Dominique Scarimbolo (Dominique M Scarimbolo)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69427",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602181": {
+   "pdc_name": "JULIE A WISE (Julie Wise)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/57204",
+   "raised": 1375.0,
+   "carried_forward": 2157.5,
+   "spent": 3286.11,
+   "debt": 2410.96,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 500.0,
+    "PACs and political committees": 500.0,
+    "Small or unitemized contributions": 375.0
+   },
+   "individual_donors": 1,
+   "top_organizations": [
+    {
+     "name": "FAIRVOTE WASHINGTON PAC",
+     "total": 500.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 113.07
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602372": {
+   "pdc_name": "Rebecca J. Saldana (Rebecca Saldaña)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67557",
+   "raised": 290235.5,
+   "carried_forward": 0.0,
+   "spent": 279459.16,
+   "debt": 6000.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 187672.0,
+    "Small or unitemized contributions": 42163.5,
+    "Unions": 29700.0,
+    "PACs and political committees": 17400.0,
+    "Businesses": 9300.0,
+    "Political parties": 4000.0
+   },
+   "individual_donors": 447,
+   "top_organizations": [
+    {
+     "name": "WA State Democrats",
+     "total": 4000.0,
+     "type": "Party"
+    },
+    {
+     "name": "WA Machinists Council MNPL Fund",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "SEIU Local 925 Public Service PAC",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Teamsters Local 174",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "SEIU Healthcare 1199NW PAC",
+     "total": 2400.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 264.67
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601661": {
+   "pdc_name": "Toshiko Grace Hasegawa",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67867",
+   "raised": 240643.15,
+   "carried_forward": 0.0,
+   "spent": 198251.54,
+   "debt": 1875.47,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 172994.15,
+    "Small or unitemized contributions": 35949.0,
+    "Businesses": 31700.0
+   },
+   "individual_donors": 279,
+   "top_organizations": [
+    {
+     "name": "Puyallup Tribe of Indians",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Delta Air Lines, Inc.",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "SSA Marine, Inc.",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "International Longshore & Warehouse Union Local 19 (IILWU Local 19)",
+     "total": 2400.0,
+     "type": "Business"
+    },
+    {
+     "name": "Port of Seattle Firefighters (IAFF Local 1257) Segregated Funds",
+     "total": 2400.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 264.67
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602220": {
+   "pdc_name": "Jorge L. Barón",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68555",
+   "raised": 41704.52,
+   "carried_forward": 2466.27,
+   "spent": 9754.06,
+   "debt": 0.0,
+   "loans": 1600.0,
+   "by_type": {
+    "Individuals": 30910.52,
+    "Unions": 6150.0,
+    "Small or unitemized contributions": 4644.0
+   },
+   "individual_donors": 57,
+   "top_organizations": [
+    {
+     "name": "Professional & Technical Employees, Local 17",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Electrical Workers 46 PAC",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "Laborers Local Union #242",
+     "total": 600.0,
+     "type": "Union"
+    },
+    {
+     "name": "UFCW Active Ballot Club",
+     "total": 600.0,
+     "type": "Union"
+    },
+    {
+     "name": "Teamsters Local Union #117",
+     "total": 500.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 113.07
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1602221": {
+   "pdc_name": "Claudia Balducci",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67730",
+   "raised": 200947.0,
+   "carried_forward": 113453.76,
+   "spent": 274172.6,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 189697.0,
+    "Unions": 5050.0,
+    "Businesses": 2650.0,
+    "PACs and political committees": 2300.0,
+    "Other organizations": 1200.0,
+    "Small or unitemized contributions": 50.0
+   },
+   "individual_donors": 501,
+   "top_organizations": [
+    {
+     "name": "Seattle Orcas",
+     "total": 2000.0,
+     "type": "Business"
+    },
+    {
+     "name": "IBEW Local 77 Joe Murphy PAC",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "Professional & Technical Employees Local 17 PAC",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "Laborers Local 242 SSF",
+     "total": 1200.0,
+     "type": "Union"
+    },
+    {
+     "name": "American Muslim Advancement Council",
+     "total": 1200.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 113.07
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601663": {
+   "pdc_name": "TERESA C MOSQUEDA (Teresa Mosqueda)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/57199",
+   "raised": 142598.29,
+   "carried_forward": 2037.03,
+   "spent": 120500.19,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 85181.0,
+    "Unions": 23950.0,
+    "Small or unitemized contributions": 19368.0,
+    "PACs and political committees": 11300.0,
+    "Businesses": 2224.29,
+    "Other organizations": 500.0,
+    "The candidate": 75.0
+   },
+   "individual_donors": 241,
+   "top_organizations": [
+    {
+     "name": "SEIU Local 6 PAC",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Professional & Technical Employees Local 17 PAC",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Iron Workers District Council of the PacNW SSF",
+     "total": 2400.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Electrical Workers 46 PAC",
+     "total": 2400.0,
+     "type": "Union"
+    },
+    {
+     "name": "Laborers Local 242 SSF",
+     "total": 1700.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 330.84
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601664": {
+   "pdc_name": "Nicholas Andrew Duda (Nick Duda)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69758",
+   "raised": 31041.75,
+   "carried_forward": 0.0,
+   "spent": 25329.27,
+   "debt": 0.0,
+   "loans": 767.68,
+   "by_type": {
+    "Individuals": 30274.07,
+    "The candidate": 767.68
+   },
+   "individual_donors": 72,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601666": {
+   "pdc_name": "Jan Trasen",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/63779",
+   "raised": 39301.43,
+   "carried_forward": 0.0,
+   "spent": 30208.56,
+   "debt": 0.0,
+   "loans": 2500.0,
+   "by_type": {
+    "Individuals": 30920.0,
+    "The candidate": 3438.43,
+    "Small or unitemized contributions": 2543.0,
+    "Unions": 2400.0
+   },
+   "individual_donors": 48,
+   "top_organizations": [
+    {
+     "name": "WA FEDERATION OF STATE EMPLOYEES",
+     "total": 2400.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601665": {
+   "pdc_name": "Bianca Kwok Tse (Bianca Tse)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70040",
+   "raised": 61421.96,
+   "carried_forward": 0.0,
+   "spent": 65994.07,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 43291.37,
+    "The candidate": 12313.39,
+    "Small or unitemized contributions": 3017.2,
+    "Businesses": 2800.0
+   },
+   "individual_donors": 68,
+   "top_organizations": [
+    {
+     "name": "WinPower Strategies",
+     "total": 1600.0,
+     "type": "Business"
+    },
+    {
+     "name": "Tse & Associates P.S.",
+     "total": 1200.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602231": {
+   "pdc_name": "Michelle Kemp Gehlsen (Michelle Gehlsen)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69444",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602232": {
+   "pdc_name": "Lisa Napoli O'Toole (Lisa O'Toole)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67447",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602233": {
+   "pdc_name": "Kevin Peck",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67632",
+   "raised": 4390.93,
+   "carried_forward": 11923.26,
+   "spent": 5507.95,
+   "debt": 0.0,
+   "loans": 7500.0,
+   "by_type": {
+    "The candidate": 4260.96,
+    "Individuals": 129.97
+   },
+   "individual_donors": 1,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602234": {
+   "pdc_name": "Jill Klinge",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68018",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602235": {
+   "pdc_name": "Denice Emily Gagner (Denice Gagner)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67361",
+   "raised": 15887.55,
+   "carried_forward": 0.0,
+   "spent": 23386.44,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 6920.95,
+    "The candidate": 6386.6,
+    "Small or unitemized contributions": 2580.0,
+    "Businesses": 0.0
+   },
+   "individual_donors": 59,
+   "top_organizations": [
+    {
+     "name": "Altaras Law PLLC",
+     "total": 0.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602236": {
+   "pdc_name": "Peter Peaquin",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69409",
+   "raised": 2000.0,
+   "carried_forward": 0.12,
+   "spent": 2000.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 2000.0
+   },
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602237": {
+   "pdc_name": "Raul Robert Martinez (Raul Martinez)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/63328",
+   "raised": 2020.24,
+   "carried_forward": 5470.49,
+   "spent": 4798.05,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 2000.0,
+    "Individuals": 20.24
+   },
+   "individual_donors": 1,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602238": {
+   "pdc_name": "Karama H. Hawkins",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69415",
+   "raised": 43.89,
+   "carried_forward": 4898.01,
+   "spent": 140.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 43.89
+   },
+   "individual_donors": 1,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602239": {
+   "pdc_name": "Leah Marie Taguba (Leah Taguba)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69417",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602240": {
+   "pdc_name": "Matthew York",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68758",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602241": {
+   "pdc_name": "Tricia Johnson (Tricia Grove Johnson)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69414",
+   "raised": 2289.11,
+   "carried_forward": 0.0,
+   "spent": 2647.07,
+   "debt": 0.0,
+   "loans": 4000.0,
+   "by_type": {
+    "The candidate": 2037.34,
+    "Individuals": 251.77
+   },
+   "individual_donors": 2,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602242": {
+   "pdc_name": "Corinna Harn",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67428",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602244": {
+   "pdc_name": "Joshua C. Harris",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69052",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602243": {
+   "pdc_name": "Heather M. Barker",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69418",
+   "raised": 17210.5,
+   "carried_forward": 0.0,
+   "spent": 12648.15,
+   "debt": 0.0,
+   "loans": 6617.26,
+   "by_type": {
+    "The candidate": 8683.79,
+    "Individuals": 7926.71,
+    "Small or unitemized contributions": 600.0
+   },
+   "individual_donors": 10,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602245": {
+   "pdc_name": "Rhonda Lee Laumann (Rhonda Laumann)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69451",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602246": {
+   "pdc_name": "Brian J Todd (Brian Todd)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67884",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602247": {
+   "pdc_name": "ANDREA SAMONICA JARMON (Andrea Samonica Jarmon)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68057",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602248": {
+   "pdc_name": "Mitch Greene",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69296",
+   "raised": 2.41,
+   "carried_forward": 0.0,
+   "spent": 2688.02,
+   "debt": 0.0,
+   "loans": 7500.0,
+   "by_type": {
+    "Individuals": 2.41
+   },
+   "individual_donors": 1,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602250": {
+   "pdc_name": "Fa'amomoi P. Masaniai, Jr. (Fa'amomoi Masaniai, Jr.)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/62530",
+   "raised": 15089.48,
+   "carried_forward": 6.34,
+   "spent": 19198.55,
+   "debt": 0.0,
+   "loans": 6000.0,
+   "by_type": {
+    "The candidate": 6260.96,
+    "Individuals": 5450.75,
+    "Political parties": 2400.0,
+    "Small or unitemized contributions": 977.77
+   },
+   "individual_donors": 11,
+   "top_organizations": [
+    {
+     "name": "WA State Democrats",
+     "total": 2400.0,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602249": {
+   "pdc_name": "Harry S. Steinmetz (Harry Steinmetz)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/70062",
+   "raised": 39845.29,
+   "carried_forward": 0.0,
+   "spent": 23024.08,
+   "debt": 0.0,
+   "loans": 10000.0,
+   "by_type": {
+    "The candidate": 27278.6,
+    "Individuals": 9825.0,
+    "Small or unitemized contributions": 2241.69,
+    "Businesses": 500.0
+   },
+   "individual_donors": 25,
+   "top_organizations": [
+    {
+     "name": "Durflinger Oliver",
+     "total": 500.0,
+     "type": "Business"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602252": {
+   "pdc_name": "Noel Merfeld",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69440",
+   "raised": 38274.66,
+   "carried_forward": 0.0,
+   "spent": 16778.65,
+   "debt": 1929.53,
+   "loans": 0.0,
+   "by_type": {
+    "The candidate": 30618.23,
+    "Individuals": 7351.43,
+    "Small or unitemized contributions": 305.0
+   },
+   "individual_donors": 5,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602251": {
+   "pdc_name": "Renee Glenda Walls (Renee Walls)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69568",
+   "raised": 82761.53,
+   "carried_forward": 0.0,
+   "spent": 48647.58,
+   "debt": 0.0,
+   "loans": 7500.0,
+   "by_type": {
+    "The candidate": 78772.64,
+    "Individuals": 3663.89,
+    "Small or unitemized contributions": 225.0,
+    "PACs and political committees": 100.0
+   },
+   "individual_donors": 6,
+   "top_organizations": [
+    {
+     "name": "NAT'L WOMEN'S POLITICAL CAUCUS OF WA CAMPAIGN FUND",
+     "total": 100.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602254": {
+   "pdc_name": "Bardi David Martin (Bardi Martin)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68534",
+   "raised": 125163.45,
+   "carried_forward": 0.0,
+   "spent": 49030.47,
+   "debt": 0.0,
+   "loans": 7500.0,
+   "by_type": {
+    "The candidate": 112638.45,
+    "Individuals": 11300.0,
+    "Small or unitemized contributions": 1225.0
+   },
+   "individual_donors": 17,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602253": {
+   "pdc_name": "Nyjat Rose-Akins",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68293",
+   "raised": 52886.64,
+   "carried_forward": 0.0,
+   "spent": 32635.99,
+   "debt": 0.0,
+   "loans": 6000.0,
+   "by_type": {
+    "Individuals": 45614.63,
+    "Small or unitemized contributions": 6772.01,
+    "Other organizations": 500.0
+   },
+   "individual_donors": 113,
+   "top_organizations": [
+    {
+     "name": "The Curtis Firm, LLC",
+     "total": 500.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602255": {
+   "pdc_name": "Kuljinder Dhillon (Kuljinder K. Dhillon)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69453",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602256": {
+   "pdc_name": "Rebecca C. Robertson (Rebecca Robertson)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68290",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602257": {
+   "pdc_name": "Yvonne Chin",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69325",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602258": {
+   "pdc_name": "Kristin D. Shotwell (Kristin Shotwell)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69416",
+   "raised": 0.0,
+   "carried_forward": 0.0,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601668": {
+   "pdc_name": "Neeloofar Jenks (Nilu Jenks)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68337",
+   "raised": 193208.14,
+   "carried_forward": 0.0,
+   "spent": 143454.78,
+   "debt": 3000.0,
+   "loans": 0.0,
+   "by_type": {
+    "Small or unitemized contributions": 162786.0,
+    "Individuals": 25662.14,
+    "PACs and political committees": 2800.0,
+    "Unions": 1000.0,
+    "Other organizations": 550.0,
+    "Political parties": 350.0,
+    "The candidate": 60.0
+   },
+   "individual_donors": 141,
+   "top_organizations": [
+    {
+     "name": "Washington Teamsters Legislative League",
+     "total": 350.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "UA local 32 Pipe PAC",
+     "total": 350.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Washington Machinists Council",
+     "total": 350.0,
+     "type": "Union"
+    },
+    {
+     "name": "Protec 17 PAC",
+     "total": 350.0,
+     "type": "Political Action Committee"
+    },
+    {
+     "name": "Electrical workers 46 PAC",
+     "total": 350.0,
+     "type": "Political Action Committee"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Progressive People Power",
+     "total": 23465.61
+    },
+    {
+     "name": "WA Bikes PAC Sponsored by Washington Bikes",
+     "total": 18202.25
+    },
+    {
+     "name": "Fuse Votes",
+     "total": 264.67
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601667": {
+   "pdc_name": "Mun Julie Kang (Julie Kang)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/67412",
+   "raised": 162760.02,
+   "carried_forward": 0.0,
+   "spent": 129585.53,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Small or unitemized contributions": 122381.0,
+    "Individuals": 39555.57,
+    "Political parties": 350.0,
+    "Unions": 350.0,
+    "The candidate": 123.45
+   },
+   "individual_donors": 172,
+   "top_organizations": [
+    {
+     "name": "WA State Democrats",
+     "total": 350.0,
+     "type": "Party"
+    },
+    {
+     "name": "Laborers Local Union 242",
+     "total": 350.0,
+     "type": "Union"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602225": {
+   "pdc_name": "Catherine M. McDowall (Cat McDowall)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68015",
+   "raised": 16782.91,
+   "carried_forward": 0.0,
+   "spent": 6777.63,
+   "debt": 0.0,
+   "loans": 5000.0,
+   "by_type": {
+    "Individuals": 13050.0,
+    "The candidate": 2147.91,
+    "Small or unitemized contributions": 1585.0
+   },
+   "individual_donors": 28,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602222": {
+   "pdc_name": "Katharine Kinard Edwards (Katharine Edwards)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68311",
+   "raised": 33184.58,
+   "carried_forward": 0.0,
+   "spent": 8492.08,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 24574.87,
+    "The candidate": 5234.71,
+    "Small or unitemized contributions": 3375.0
+   },
+   "individual_donors": 41,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602226": {
+   "pdc_name": "Pooja Vaddadi",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69452",
+   "raised": 0.0,
+   "carried_forward": 0.89,
+   "spent": 0.0,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {},
+   "individual_donors": 0,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602223": {
+   "pdc_name": "Anita M. Crawford-Willis (Anita Crawford-Willis)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/50257",
+   "raised": 0.0,
+   "carried_forward": 19701.01,
+   "spent": 4484.87,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 0.0
+   },
+   "individual_donors": 1,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601669": {
+   "pdc_name": "Gabriel Rothstein (Gabe Rothstein)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68851",
+   "raised": 43457.17,
+   "carried_forward": 0.0,
+   "spent": 22518.31,
+   "debt": 0.0,
+   "loans": 12500.0,
+   "by_type": {
+    "Individuals": 36157.17,
+    "Small or unitemized contributions": 5700.0,
+    "Unions": 1000.0,
+    "The candidate": 300.0,
+    "Political parties": 300.0
+   },
+   "individual_donors": 55,
+   "top_organizations": [
+    {
+     "name": "Professional & Technical Employees Local 17",
+     "total": 1000.0,
+     "type": "Union"
+    },
+    {
+     "name": "34th District Democrats",
+     "total": 300.0,
+     "type": "Party"
+    }
+   ],
+   "outside_support": [
+    {
+     "name": "Fuse Votes",
+     "total": 113.07
+    }
+   ],
+   "outside_opposition": []
+  },
+  "sos-1601670": {
+   "pdc_name": "Garmon Newsom II (Garmon Newsom)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69519",
+   "raised": 115644.45,
+   "carried_forward": 0.0,
+   "spent": 93085.93,
+   "debt": 3000.0,
+   "loans": 7500.0,
+   "by_type": {
+    "Individuals": 87261.16,
+    "The candidate": 27500.0,
+    "Small or unitemized contributions": 883.29
+   },
+   "individual_donors": 84,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602227": {
+   "pdc_name": "Shantrice Anderson",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/68272",
+   "raised": 25827.31,
+   "carried_forward": 0.0,
+   "spent": 11524.87,
+   "debt": 0.0,
+   "loans": 0.0,
+   "by_type": {
+    "Individuals": 23026.58,
+    "Other organizations": 2400.0,
+    "Small or unitemized contributions": 390.74,
+    "The candidate": 9.99
+   },
+   "individual_donors": 29,
+   "top_organizations": [
+    {
+     "name": "Nicoll Black Altenbrun & Feig PLLC",
+     "total": 2400.0,
+     "type": "Other"
+    }
+   ],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1602224": {
+   "pdc_name": "Damon George Shadid (Damon Shadid)",
+   "pdc_url": "https://my.pdc.wa.gov/registration/public/-/#/public/registration/69217",
+   "raised": 101.54,
+   "carried_forward": 0.0,
+   "spent": 869.68,
+   "debt": 0.0,
+   "loans": 2500.0,
+   "by_type": {
+    "Small or unitemized contributions": 100.0,
+    "Individuals": 1.54
+   },
+   "individual_donors": 1,
+   "top_organizations": [],
+   "outside_support": [],
+   "outside_opposition": []
+  },
+  "sos-1601889": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Suzan+DelBene&election_year=2026"
+  },
+  "sos-1601888": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Mary+Silva&election_year=2026"
+  },
+  "sos-1601900": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Pramila+Jayapal&election_year=2026"
+  },
+  "sos-1601901": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Nirav+Sheth&election_year=2026"
+  },
+  "sos-1601904": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Kim+Schrier&election_year=2026"
+  },
+  "sos-1601903": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Spencer+Meline&election_year=2026"
+  },
+  "sos-1601906": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Adam+Smith&election_year=2026"
+  },
+  "sos-1601905": {
+   "federal": true,
+   "fec_url": "https://www.fec.gov/data/candidates/?q=Doug+Basler&election_year=2026"
+  }
+ }
+}

@@ -25,11 +25,11 @@ jobs:
         if: github.event_name != 'push'
         with:
           python-version: "3.12"
-      - name: Refresh voters' guide data
+      - name: Refresh voters' guide and campaign finance data
         if: github.event_name != 'push'
         run: |
           pip install -r pipeline/requirements.txt
-          cd pipeline && python sos_guide.py --refresh
+          cd pipeline && python sos_guide.py --refresh && python pdc_finance.py --refresh
       - name: Commit refreshed data
         if: github.event_name != 'push'
         run: |
