@@ -162,3 +162,35 @@ mark { background: var(--mark); color: inherit; padding: 0 2px; border-radius: 3
 .money-legend .swatch { width: 10px; height: 10px; border-radius: 2px; flex: none; align-self: center; }
 .money-legend .src, .money-list li > span:first-child { flex: 1; min-width: 0; }
 .amt { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* Advisor */
+.followups:empty { display: none; }
+.followup-intro { margin: 16px 0 6px; font-weight: 600; }
+.followup { border: 1px solid var(--line); border-radius: var(--radius); margin: 8px 0; padding: 8px 12px 10px; }
+.followup legend { font-weight: 600; padding: 0 4px; }
+.options { display: grid; gap: 6px; }
+.option { display: flex; gap: 8px; align-items: flex-start; cursor: pointer; }
+.option input { margin-top: 4px; width: 18px; height: 18px; flex: none; }
+.advisor { border: 1px solid var(--accent); border-radius: var(--radius); padding: 12px 14px; margin: 0 0 14px; background: var(--bg); }
+.advisor-head { margin-bottom: 8px; }
+.bottom { border-radius: var(--radius); padding: 10px 12px; background: var(--surface); border: 1px solid var(--line); margin-bottom: 10px; }
+.bottom.clear { border-color: var(--accent); }
+.bottom p { margin: 4px 0; }
+.tally { margin: 4px 0 0; padding-left: 18px; }
+.adv-issue { border-top: 1px solid var(--line); padding-top: 8px; margin-top: 8px; }
+.adv-issue h4 { margin: 0 0 4px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.same-tag { font-size: 0.75rem; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--line); color: var(--muted); }
+.adv-option { margin: 8px 0; }
+.opt-label { font-weight: 600; font-size: 0.9rem; margin-bottom: 4px; }
+.adv-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px; }
+.adv-cell { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; background: var(--surface); min-width: 0; }
+.cell-name { font-weight: 600; font-size: 0.85rem; color: var(--muted); margin-bottom: 2px; }
+.stance { font-size: 0.92rem; }
+.stance .mark { font-weight: 700; }
+.stance.yes .mark { color: var(--yes); }
+.stance.no .mark { color: var(--no); }
+.stance.none { color: var(--muted); }
+.ev > summary { font-size: 0.82rem; font-weight: 500; margin-top: 2px; }
+.evidence { margin: 4px 0 0; padding-left: 18px; font-size: 0.88rem; }
+.evidence li { margin-bottom: 4px; overflow-wrap: anywhere; }
+.adv-bg { margin-top: 10px; }

@@ -32,8 +32,9 @@ const $ = (sel) => document.querySelector(sel);
 let data;
 let websites = {}; // candidate id -> scraped campaign website text (site/data/websites.json)
 let finance = {}; // candidate id -> PDC campaign finance summary (site/data/finance.json)
+let advisor = { questions: {}, races: {} }; // researched race briefs (site/data/advisor.json)
 let ballot = null; // { districts, address } once the voter has asked for a ballot
-const chosen = { chips: new Set(), custom: [] };
+const chosen = { chips: new Set(), custom: [], answers: new Set() }; // answers: advisor option ids
 
 function h(tag, attrs = {}, ...children) {
   const el = document.createElement(tag);
@@ -90,6 +91,8 @@ async function districtsAt({ x, y }) {
   }));
   return Object.fromEntries(entries);
 }
+
+const isJudicial = (c) => c.category === "JUD" || /Judge/.test(c.title);
 
 function groupOf(contest) {
   const layer = contest.match?.layer;
@@ -202,6 +205,7 @@ function renderChips() {
     type: "button", class: "chip custom", "aria-pressed": "true", "data-custom": t, title: `Remove “${t}”`,
   }, `“${t}” ×`));
   $("#chips").replaceChildren(...chips, ...custom);
+  renderFollowups();
 
   const prios = priorities();
   const bar = $("#priority-bar");
@@ -212,9 +216,23 @@ function renderChips() {
     h("button", { type: "button", class: "linkish", "data-edit": "1" }, prios.length ? "Change" : "Pick some")));
 }
 
+// Follow-up questions for each picked topic, so the advisor knows what the voter means by it.
+function renderFollowups() {
+  const blocks = [...chosen.chips].flatMap((issueId) => (advisor.questions[issueId] || []).map((q) =>
+    h("fieldset", { class: "followup" },
+      h("legend", {}, q.text, h("span", { class: "muted small" }, " Pick any that apply")),
+      h("div", { class: "options" }, q.options.map((o) => h("label", { class: "option" },
+        h("input", { type: "checkbox", "data-answer": o.id, checked: chosen.answers.has(o.id) }),
+        h("span", {}, h("strong", {}, o.label), h("span", { class: "muted small" }, ` ${o.detail}`))))))));
+  $("#followups").replaceChildren(...(blocks.length
+    ? [h("p", { class: "followup-intro" }, "Tell us a bit more, so we can compare candidates on what you mean (optional):"), ...blocks]
+    : []));
+}
+
 function savePriorities() {
   const params = new URLSearchParams();
   if (chosen.chips.size) params.set("topics", [...chosen.chips].join(","));
+  if (chosen.answers.size) params.set("a", [...chosen.answers].join(","));
   if (chosen.custom.length) params.set("q", chosen.custom.join("|"));
   const hash = params.toString();
   history.replaceState(null, "", hash ? `#${hash}` : location.pathname + location.search);
@@ -223,6 +241,7 @@ function savePriorities() {
 function loadPriorities() {
   const params = new URLSearchParams(location.hash.slice(1));
   for (const id of (params.get("topics") || "").split(",")) if (ISSUES.some((i) => i.id === id)) chosen.chips.add(id);
+  for (const id of (params.get("a") || "").split(",")) if (/^[a-z_]+$/.test(id)) chosen.answers.add(id);
   chosen.custom = (params.get("q") || "").split("|").map((t) => t.trim()).filter((t) => t.length >= 2).slice(0, 8);
 }
 
@@ -354,12 +373,121 @@ function measureCard(m, prios) {
     sourceLine(m));
 }
 
+// ---- Advisor ---------------------------------------------------------------
+
+const optionInfo = (issueId, optId) => {
+  for (const q of advisor.questions[issueId] || []) {
+    const o = q.options.find((x) => x.id === optId);
+    if (o) return o;
+  }
+  return { id: optId, label: optId };
+};
+
+function evidenceList(evidence) {
+  return h("ul", { class: "evidence" }, evidence.map((ev) => h("li", {},
+    h("q", {}, ev.quote), " ",
+    h("a", { href: ev.url, target: "_blank", rel: "noopener nofollow", class: "small" }, ev.source || "source"))));
+}
+
+function stanceCell(pos) {
+  if (!pos) return h("div", { class: "stance none" }, h("span", { class: "mark" }, "–"), " No stated position");
+  const yes = pos.stance === "supports";
+  return h("div", { class: `stance ${yes ? "yes" : "no"}` },
+    h("span", { class: "mark", "aria-hidden": "true" }, yes ? "✓" : "✗"), ` ${yes ? "Supports" : "Opposes"}. `, pos.why || "",
+    h("details", { class: "ev" }, h("summary", {}, "Evidence"), evidenceList(pos.evidence)));
+}
+
+// Tally, per candidate, how their documented positions line up with the options the voter picked.
+function fitFor(contest, brief) {
+  const tally = Object.fromEntries(contest.candidates.map((c) => [c.id, { agree: 0, differ: 0, unknown: 0 }]));
+  let asked = 0;
+  for (const issueId of chosen.chips) {
+    const issue = brief.issues[issueId];
+    for (const q of advisor.questions[issueId] || []) {
+      for (const o of q.options) {
+        if (!chosen.answers.has(o.id)) continue;
+        asked++;
+        for (const c of contest.candidates) {
+          const pos = issue?.positions?.[c.id]?.[o.id];
+          tally[c.id][!pos ? "unknown" : pos.stance === "supports" ? "agree" : "differ"]++;
+        }
+      }
+    }
+  }
+  return { tally, asked };
+}
+
+function bottomLine(contest, brief) {
+  const { tally, asked } = fitFor(contest, brief);
+  if (!asked) {
+    return h("p", { class: "bottom muted" }, "Answer the follow-up questions under your topics to see which candidate's stated positions are closest to yours.");
+  }
+  const score = (c) => tally[c.id].agree - tally[c.id].differ;
+  const ranked = [...contest.candidates].sort((a, b) => score(b) - score(a));
+  const [top, next] = ranked;
+  const line = (c) => {
+    const t = tally[c.id];
+    return `${c.name}: agrees on ${t.agree} of your ${asked} picks${t.differ ? `, differs on ${t.differ}` : ""}${t.unknown ? `, no stated position on ${t.unknown}` : ""}.`;
+  };
+  const clear = score(top) > 0 && score(top) > score(next);
+  return h("div", { class: `bottom ${clear ? "clear" : ""}` },
+    h("strong", {}, clear ? `Closest to your answers: ${top.name}` : "No clear difference on what you told us"),
+    h("p", { class: "small" }, clear ? "" : "On your picks, their stated positions are about the same, or there isn't enough on record. Decide on other factors like experience, background and who's funding them."),
+    h("ul", { class: "small tally" }, ranked.map((c) => h("li", {}, line(c)))));
+}
+
+function advisorPanel(contest) {
+  const brief = advisor.races[contest.id];
+  if (!brief) return null;
+  const issues = [...chosen.chips].filter((id) => brief.issues[id]);
+  const cands = contest.candidates;
+  return h("div", { class: "advisor" },
+    h("div", { class: "advisor-head" },
+      h("strong", {}, "Advisor: how they compare on what you care about"),
+      h("span", { class: "muted small" }, " Researched by AI from public sources. Every claim links to its evidence.")),
+    chosen.chips.size ? bottomLine(contest, brief) : h("p", { class: "muted small" }, "Pick topics above to compare these candidates."),
+    issues.map((issueId) => {
+      const issue = brief.issues[issueId];
+      const label = ISSUES.find((i) => i.id === issueId)?.label || issueId;
+      const picked = (advisor.questions[issueId] || []).flatMap((q) => q.options).filter((o) => chosen.answers.has(o.id)).map((o) => o.id);
+      // Show the options the voter picked; if none, show every option a candidate took a position on.
+      const opts = picked.length ? picked
+        : [...new Set(cands.flatMap((c) => Object.keys(issue.positions[c.id] || {})))];
+      return h("section", { class: "adv-issue" },
+        h("h4", {}, label, issue.differ === false ? h("span", { class: "same-tag" }, "Similar positions") : null),
+        h("p", { class: "small" }, issue.summary),
+        opts.map((optId) => {
+          const o = optionInfo(issueId, optId);
+          return h("div", { class: "adv-option" },
+            h("div", { class: "opt-label" }, picked.length ? "You picked: " : "", o.label),
+            h("div", { class: "adv-grid" }, cands.map((c) => h("div", { class: "adv-cell" },
+              h("div", { class: "cell-name" }, c.name),
+              stanceCell(issue.positions[c.id]?.[optId])))));
+        }));
+    }),
+    issues.length < chosen.chips.size
+      ? h("p", { class: "muted small" }, "Topics not shown: neither candidate has said anything we could document about them.")
+      : null,
+    h("details", { class: "adv-bg" }, h("summary", {}, "Background and record"),
+      h("div", { class: "adv-grid" }, cands.map((c) => {
+        const b = brief.candidates?.[c.id] || {};
+        return h("div", { class: "adv-cell" },
+          h("div", { class: "cell-name" }, c.name),
+          b.background ? h("p", { class: "small" }, b.background) : null,
+          b.record?.length ? h("ul", { class: "evidence" }, b.record.map((r) => h("li", {}, r.text, " ",
+            h("a", { href: r.url, target: "_blank", rel: "noopener nofollow", class: "small" }, r.source || "source")))) : null);
+      }))));
+}
+
 function raceCard(c, prios) {
   const meta = [c.jurisdiction, c.term].filter(Boolean).join(" · ");
   return h("section", { class: "contest" },
     h("h3", {}, c.title),
     h("div", { class: "meta" }, meta, c.candidates.length === 1 ? " · Unopposed" : ""),
-    h("div", { class: "candidates" }, c.candidates.map((cand) => candidateCard(cand, prios))),
+    isJudicial(c) ? h("p", { class: "muted small" }, "Judicial candidates are barred by the Code of Judicial Conduct from promising how they'd rule on issues. Compare experience, background and ratings instead.") : null,
+    advisorPanel(c),
+    // With an advisor brief, keyword matching is only needed for typed-in priorities.
+    h("div", { class: "candidates" }, c.candidates.map((cand) => candidateCard(cand, advisor.races[c.id] ? prios.filter((p) => p.text) : prios))),
     sourceLine(c));
 }
 
@@ -421,6 +549,7 @@ async function lookup(address) {
 
 async function init() {
   loadPriorities();
+  advisor = (await fetch("data/advisor.json").then((r) => (r.ok ? r.json() : null)).catch(() => null)) || advisor;
   renderChips();
   data = await (await fetch("data/ballot.json")).json();
   // Website text and finance data are optional extras: the guide works without them.
@@ -439,6 +568,13 @@ async function init() {
       chosen.custom = chosen.custom.filter((t) => t !== btn.dataset.custom);
     }
     prioritiesChanged();
+  });
+  $("#followups").addEventListener("change", (e) => {
+    const id = e.target.dataset?.answer;
+    if (!id) return;
+    e.target.checked ? chosen.answers.add(id) : chosen.answers.delete(id);
+    savePriorities();
+    if (ballot) render();
   });
   $("#add-custom").addEventListener("click", addCustom);
   $("#custom-input").addEventListener("keydown", (e) => {
