@@ -1,0 +1,698 @@
+{
+ "contest_id": "sos-899-186677",
+ "researched": "2026-10-19",
+ "candidates": {
+  "sos-1601663": {
+   "background": "Incumbent King County Councilmember for District 8 since 2024, chair of the Health, Housing and Human Services Committee and the King County Board of Health, and a Sound Transit Board member. Previously served two terms on the Seattle City Council and worked at the Washington State Labor Council.",
+   "record": [
+    {
+     "text": "Sponsored a 2026 ordinance, approved by the council, restricting use of county-owned property as a staging area or operations base for civil immigration enforcement.",
+     "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-24-mosqueda-ice-out-of-county-property-release",
+     "source": "King County Council news release"
+    },
+    {
+     "text": "Sponsored a one-year emergency moratorium (2026), approved by the council, on accepting permits for new or expanded detention facilities in unincorporated King County.",
+     "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-03-mosqueda-detention-center-ban-release",
+     "source": "King County Council news release"
+    },
+    {
+     "text": "Sponsored legislation (2025), passed unanimously, prohibiting large corporate landlords in unincorporated King County from using algorithmic rent-setting platforms.",
+     "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2025/09-23-mosqueda-rent-price-fixing-release",
+     "source": "King County Council news release"
+    },
+    {
+     "text": "Issued a statement supporting the June 2026 King County Transportation District action funding unincorporated roads, with a share for cities.",
+     "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/06-12-mosqueda-transportation-funding-statement",
+     "source": "King County Council news release"
+    },
+    {
+     "text": "As a Sound Transit Board member, issued a statement supporting the May 2026 Sound Transit 20-year financial plan vote covering West Seattle Link and other ST3 projects.",
+     "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/05-28-mosqueda-statement-sound-transit-vote",
+     "source": "King County Council news release"
+    },
+    {
+     "text": "On the Seattle City Council, led passage in 2020 of the JumpStart payroll expense tax on large employers (described on her campaign site as progressive revenue for housing and other investments).",
+     "url": "https://www.teamteresa.org/about",
+     "source": "Campaign website"
+    }
+   ]
+  },
+  "sos-1601664": {
+   "background": "Former data analytics and technology consultant who most recently worked as a legislative assistant to Seattle City Councilmember Maritza Rivera. Has not held elected office, so has no voting record.",
+   "record": []
+  }
+ },
+ "issues": {
+  "housing": {
+   "summary": "Both candidates say they want more housing built. Mosqueda emphasizes public and nonprofit funding (including a regional housing levy and progressive revenue) and sponsored a ban on algorithmic rent-setting; Duda emphasizes faster permitting, fewer development barriers and much more density near light rail, and says public budgets alone cannot close the gap. On homelessness, Mosqueda describes a housing-first approach with outcome benchmarks; Duda calls for leading with addiction treatment, sober housing and rebuilding the regional system around measurable goals.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "build_more": {
+      "stance": "supports",
+      "why": "Supports incentives and zoning to build more housing, including density near transit.",
+      "evidence": [
+       {
+        "quote": "Create incentives to build more green, lasting and affordable housing throughout our region in partnership with local jurisdictions and communities to promote density",
+        "url": "https://www.teamteresa.org/priorities",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "leverage county financing, zoning, and surplus land policies to build more affordable units near transit and job centers",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     },
+     "public_housing": {
+      "stance": "supports",
+      "why": "Supports public and nonprofit housing funding, including social housing developers, land trusts and a regional housing levy.",
+      "evidence": [
+       {
+        "quote": "I support community land trusts and nonprofit social housing developers to take land permanently off the speculative market",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "I support the growing call for a regional Housing Levy to scale up housing in our region to meet the need.",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     },
+     "tenant_protections": {
+      "stance": "supports",
+      "why": "Sponsored a county ban on algorithmic rent-setting by large corporate landlords and lists preventing displacement as a priority.",
+      "evidence": [
+       {
+        "quote": "unanimously passed legislation sponsored by Councilmember Teresa Mosqueda to prohibit large corporate landlords from using algorithmic rent price fixing platforms",
+        "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2025/09-23-mosqueda-rent-price-fixing-release",
+        "source": "King County Council news release"
+       },
+       {
+        "quote": "My priorities remain expanding affordable housing and preventing displacement",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "housing_first": {
+      "stance": "supports",
+      "why": "Supports a housing-first approach and expanding permanent supportive housing with services.",
+      "evidence": [
+       {
+        "quote": "I support a housing-first, evidence-based approach with clear outcome benchmarks and rigorous fiscal oversight.",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "I will fight to expand permanent supportive housing and the workforce required to succeed",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     },
+     "treatment": {
+      "stance": "supports",
+      "why": "Supports investing in behavioral health services and workers.",
+      "evidence": [
+       {
+        "quote": "Increase access to care by investing in behavioral health services and workers",
+        "url": "https://www.teamteresa.org/priorities",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "spending_accountability": {
+      "stance": "supports",
+      "why": "Points to steps to bring homelessness contracts back under county oversight, including an independent financial monitor, and calls for outcome benchmarks and oversight hearings.",
+      "evidence": [
+       {
+        "quote": "we hired an independent financial monitor",
+        "url": "https://www.westsideseattle.com/robinson-papers/2026/10/16/candidates-clash-public-safety-tax-policy-and-school-funding-alki",
+        "source": "Westside Seattle (Alki Community Council forum)"
+       },
+       {
+        "quote": "My approach is to build accountability in from the start: clear outcome benchmarks, transparent reporting, timely payments to contracted providers, and regular oversight hearings so problems are caught early.",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "build_more": {
+      "stance": "supports",
+      "why": "Supports fixing permitting and allowing much more housing near light rail stations.",
+      "evidence": [
+       {
+        "quote": "It means building more housing by fixing permitting and reducing barriers to new construction",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       },
+       {
+        "quote": "Allow significantly more housing within several blocks of major light-rail stations",
+        "url": "https://www.nickduda.com/housingandtransit",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "less_regulation_tax": {
+      "stance": "supports",
+      "why": "Says development requirements and barriers make housing harder to finance and should be reduced to expand private supply.",
+      "evidence": [
+       {
+        "quote": "We need to greatly reduce barriers for private development to expand the total supply",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "Development requirements make projects difficult to finance, meaning less housing actually gets built.",
+        "url": "https://www.nickduda.com/housingandtransit",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "public_housing": {
+      "stance": "supports",
+      "why": "Supports public housing that is safe and stabilizing for the most vulnerable, while saying government cannot build its way out of the shortage alone.",
+      "evidence": [
+       {
+        "quote": "public housing that is safe and stabilizing for our most vulnerable",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       },
+       {
+        "quote": "There is no municipal budget that won’t collapse if local government tries to build its way out of the gap.",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     },
+     "treatment": {
+      "stance": "supports",
+      "why": "Wants treatment as the primary response to addiction-related homelessness, with more public treatment beds, private beds when needed, and sober recovery housing.",
+      "evidence": [
+       {
+        "quote": "Contract with qualified private providers when public beds are unavailable.",
+        "url": "https://www.nickduda.com/treatment",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Create dedicated sober housing throughout the county-funded housing system.",
+        "url": "https://www.nickduda.com/treatment",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Housing matters, but for someone suffering from severe addiction, housing alone is not treatment.",
+        "url": "https://www.nickduda.com/treatment",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "enforce_encampments": {
+      "stance": "supports",
+      "why": "Calls for clear expectations on public safety and public spaces alongside services.",
+      "evidence": [
+       {
+        "quote": "We need a much stronger treatment, recovery, and accountability framework that connects people to services, but also sets clear expectations around public safety and public spaces.",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     },
+     "spending_accountability": {
+      "stance": "supports",
+      "why": "Supports moving away from the current regional homelessness authority structure and measuring each program against clear goals.",
+      "evidence": [
+       {
+        "quote": "Yes, I support moving away from the current KCRHA structure.",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "Each program should have clear measurable goals and outcomes and should be regularly measured against them.",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "safety": {
+   "summary": "Both candidates mention violence prevention for young people. Mosqueda frames gun and youth violence as a public health issue and calls for prevention programs and for stronger follow-through on law enforcement oversight recommendations. Duda calls for recruiting and retaining officers, escalating consequences for repeat offenders, aggressive pursuit of traffickers and dealers, and fixing jail medical intake; he said he did not yet have a position on making oversight recommendations binding.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "prevention": {
+      "stance": "supports",
+      "why": "Supports gun and youth violence prevention programs and funding for community-based services.",
+      "evidence": [
+       {
+        "quote": "Address gun, youth, and interpersonal violence as the public health crisis they are by expanding gun awareness programming and money for dispute resolution programming",
+        "url": "https://www.teamteresa.org/priorities",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "improving community safety through behavioral health and gun violence prevention",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "police_accountability": {
+      "stance": "supports",
+      "why": "Says advisory-only oversight (OLEO) recommendations are insufficient and the council should push for stronger accountability on use of force and traffic enforcement.",
+      "evidence": [
+       {
+        "quote": "The current advisory-only structure for OLEO recommendations is insufficient",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "I believe the Council should be much more actively involved in advancing these recommendations, particularly around use of force, traffic enforcement, and community safety.",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "more_police": {
+      "stance": "supports",
+      "why": "Supports competitive pay and staffing to recruit and retain officers.",
+      "evidence": [
+       {
+        "quote": "We should recruit, train, and retain excellent officers, compensate them competitively, and expect professionalism in return.",
+        "url": "https://www.nickduda.com/publicsafety",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "tougher_enforcement": {
+      "stance": "supports",
+      "why": "Supports escalating consequences for repeat offenders after diversion and aggressively pursuing traffickers and drug dealers.",
+      "evidence": [
+       {
+        "quote": "Escalate consequences for repeated offenses when previous interventions have failed.",
+        "url": "https://www.nickduda.com/publicsafety",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Aggressively pursue pimps, dealers, and organized exploitation.",
+        "url": "https://www.nickduda.com/publicsafety",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "prevention": {
+      "stance": "supports",
+      "why": "Supports youth programs and earlier intervention in areas with persistent violence, and stabilization centers for people in crisis.",
+      "evidence": [
+       {
+        "quote": "Expand youth sports, mentorship, employment, and after-school opportunities in neighborhoods experiencing persistent violence.",
+        "url": "https://www.nickduda.com/publicsafety",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "police_accountability": {
+      "stance": "supports",
+      "why": "Says independent oversight of law enforcement is essential, but said he needed more information before taking a position on binding OLEO recommendations.",
+      "evidence": [
+       {
+        "quote": "I am a firm believer in accountability and measurable outcomes, and believe independent oversight is essential to public trust, especially in law enforcement.",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "cost": {
+   "summary": "Mosqueda says she will pursue progressive revenue such as a progressive payroll tax and real estate excise tax, and opposes using accountability concerns to cut social services. Duda focuses on audits, outcome statements and withholding funds from programs that cannot define success and says better delivery can provide more effective services.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "tax_wealthy": {
+      "stance": "supports",
+      "why": "Supports progressive revenue, including a progressive payroll tax and progressive real estate excise tax; led Seattle's JumpStart payroll tax.",
+      "evidence": [
+       {
+        "quote": "I will pursue progressive revenue – including a progressive payroll tax and progressive REET",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "leading the passage of progressive revenue to invest in housing",
+        "url": "https://www.teamteresa.org/about",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "cut_spending": {
+      "stance": "opposes",
+      "why": "Opposes using financial-mismanagement findings as a reason to cut social services, while supporting stronger controls.",
+      "evidence": [
+       {
+        "quote": "I refuse to let legitimate accountability concerns become a backdoor to austerity.",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "cut_spending": {
+      "stance": "supports",
+      "why": "Supports stronger audits and outcome-based budgeting, including withholding part of a large program's funding until it sets measurable goals.",
+      "evidence": [
+       {
+        "quote": "Strengthen independent performance and financial audits.",
+        "url": "https://www.nickduda.com/accountability",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "25% of its funding should be withheld until it can.",
+        "url": "https://www.nickduda.com/accountability",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "transport": {
+   "summary": "Both candidates support frequent, reliable transit and protecting service. Mosqueda emphasizes building all ST3 light rail lines, around-the-clock service, new transit revenue, a road-funding district and bike and pedestrian safety. Duda emphasizes fare gates paired with reduced fares, reassessing project costs, exploring lower-cost rail alternatives, and denser housing around stations.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "transit": {
+      "stance": "supports",
+      "why": "Supports building all voter-approved ST3 lines and expanding frequent, around-the-clock transit service.",
+      "evidence": [
+       {
+        "quote": "expand frequent, reliable, electrified transit service around the clock",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "Abandonment is not an option – neither is indefinitely deferring lines King County riders are counting on.",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     },
+     "roads": {
+      "stance": "supports",
+      "why": "Supported a Transportation Benefit District to fund road repairs in unincorporated areas such as White Center and Vashon.",
+      "evidence": [
+       {
+        "quote": "Today’s action provides much needed relief for unincorporated roads, bike lanes and sidewalks to be built on the horizon.",
+        "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/06-12-mosqueda-transportation-funding-statement",
+        "source": "King County Council news release"
+       }
+      ]
+     },
+     "safe_streets": {
+      "stance": "supports",
+      "why": "Supports protected bike lanes and safe crossings.",
+      "evidence": [
+       {
+        "quote": "I've advocated to advance safe walking and biking infrastructure, including protected bike lanes and safe crossings",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "transit": {
+      "stance": "supports",
+      "why": "Supports protecting frequency and reliability, expanding evening and night service where sensible, and fare gates paired with reduced and free fares.",
+      "evidence": [
+       {
+        "quote": "My second priority is protecting service: frequency, reliability, safety, and the rider experience.",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "Install modern, accessible fare gates at Link stations while expanding reduced and free fare programs for riders who qualify.",
+        "url": "https://www.nickduda.com/housingandtransit",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "climate": {
+   "summary": "Mosqueda describes density and green housing as part of climate action and has highlighted salmon and watershed restoration grants as a Flood Control District supervisor. Duda said Metro's bus fleet electrification plan should be reassessed because of its cost. Duda's materials do not otherwise state climate positions.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "strong_climate_action": {
+      "stance": "supports",
+      "why": "Supports green housing and density as part of efforts to address climate change.",
+      "evidence": [
+       {
+        "quote": "promote density, greenspace, trees, and community cohesion as part of the effort to combat climate change",
+        "url": "https://www.teamteresa.org/priorities",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "conservation": {
+      "stance": "supports",
+      "why": "Highlighted Flood Control District grants for salmon recovery and watershed restoration in District 8.",
+      "evidence": [
+       {
+        "quote": "help create healthier communities, support salmon recovery, and ensure that environmental benefits are shared by current and future generations",
+        "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/07-22-mosqueda-fcd-habitat-salmon-recovery",
+        "source": "King County Council news release"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "energy_costs_first": {
+      "stance": "supports",
+      "why": "Says Metro's fleet electrification plan should be reassessed because cost estimates were understated.",
+      "evidence": [
+       {
+        "quote": "Two specific areas that deserve reassessment are fleet electrification and fare collection.",
+        "url": "https://docs.google.com/document/d/1MWimyh9BLrceV73GPkmuknOyekZd5hlAVEBDssIAMAo/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "schools": {
+   "summary": "Mosqueda lists expanding affordable child care as a priority. Duda's materials do not state a position on schools or child care funding.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "child_care": {
+      "stance": "supports",
+      "why": "Supports expanding affordable child care, including workforce pay and facilities.",
+      "evidence": [
+       {
+        "quote": "Expand accessible and affordable childcare in our county by supporting workforce pay, career pipelines and creating the infrastructure needed to deliver childcare service",
+        "url": "https://www.teamteresa.org/priorities",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "health": {
+   "summary": "Both candidates support more behavioral health and addiction care. Mosqueda also calls for using county revenue tools to fund Harborview and public health clinics as federal Medicaid cuts take effect. Duda emphasizes stabilization centers, treatment capacity and fixing jail medical intake.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "expand_coverage": {
+      "stance": "supports",
+      "why": "Calls for using county revenue tools authorized by the state to fund Harborview and public health clinics as Medicaid coverage is cut.",
+      "evidence": [
+       {
+        "quote": "We have these revenue tools at our disposal to invest in the safety net that is Harborview and our public health clinics - the time to act is now.",
+        "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/09-18-mosqueda-boh-medicaid-cuts",
+        "source": "King County Council news release"
+       }
+      ]
+     },
+     "behavioral_health": {
+      "stance": "supports",
+      "why": "Supports more behavioral health services and the workers who provide them.",
+      "evidence": [
+       {
+        "quote": "invest in behavioral health",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       },
+       {
+        "quote": "Increase access to care by investing in behavioral health services and workers",
+        "url": "https://www.teamteresa.org/priorities",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "behavioral_health": {
+      "stance": "supports",
+      "why": "Supports stabilization facilities for people in addiction or behavioral-health crises, and more residential treatment capacity.",
+      "evidence": [
+       {
+        "quote": "King County should develop stabilization facilities where law enforcement, outreach teams, and other responders can bring people experiencing serious addiction or behavioral-health crises.",
+        "url": "https://www.nickduda.com/treatment",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "economy": {
+   "summary": "Both candidates mention workforce training and apprenticeships. Mosqueda emphasizes worker protections, union jobs and Community Workforce Agreements, and support for small businesses. Duda proposes a plan to recruit advanced-manufacturing and other emerging industries with fast-tracked permits.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "worker_protections": {
+      "stance": "supports",
+      "why": "Supports worker protections, living-wage union jobs, apprenticeships and Community Workforce Agreements.",
+      "evidence": [
+       {
+        "quote": "good living wage union jobs through apprenticeships and Community Workforce Agreements",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       },
+       {
+        "quote": "strengthen worker protections",
+        "url": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+        "source": "Voters' guide statement"
+       }
+      ]
+     },
+     "small_business": {
+      "stance": "supports",
+      "why": "Cites investments to support small businesses.",
+      "evidence": [
+       {
+        "quote": "I have delivered on policy and made significant investments to support small businesses",
+        "url": "https://www.teamteresa.org/priorities",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "business_climate": {
+      "stance": "supports",
+      "why": "Proposes a 'Frontier Industries' plan with a single point of contact and fast-tracked county permits for advanced manufacturing companies.",
+      "evidence": [
+       {
+        "quote": "Fast tracks qualifying advanced manufacturing projects, with measurable timelines",
+        "url": "https://www.nickduda.com/economicfrontier",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "We should make King County the best place in America to build the technologies of the future",
+        "url": "https://www.nickduda.com/economicfrontier",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "rights": {
+   "summary": "Mosqueda sponsored county measures restricting use of county property for civil immigration enforcement and pausing new detention facilities. Duda's materials do not state a position on immigration or civil rights policy.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "protect_immigrants": {
+      "stance": "supports",
+      "why": "Sponsored ordinances restricting county property from use in civil immigration enforcement and placing a moratorium on new detention facilities.",
+      "evidence": [
+       {
+        "quote": "the ordinance limits the use of county-owned and county-controlled property",
+        "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-24-mosqueda-ice-out-of-county-property-release",
+        "source": "King County Council news release"
+       },
+       {
+        "quote": "the measure prohibits the county from accepting applications for new or expanded detention centers",
+        "url": "https://kingcounty.gov/en/dept/council/governance-leadership/county-council/newsroom/2026/03-03-mosqueda-detention-center-ban-release",
+        "source": "King County Council news release"
+       }
+      ]
+     }
+    }
+   }
+  },
+  "government": {
+   "summary": "Both candidates say they support public services and accountability. Mosqueda emphasizes outcome benchmarks and oversight while opposing service cuts. Duda proposes public outcome statements for every program over $1 million a year, stronger audits, and shrinking or redesigning programs that repeatedly miss targets, and says the goal is better, not smaller, government.",
+   "differ": true,
+   "positions": {
+    "sos-1601663": {
+     "transparency": {
+      "stance": "supports",
+      "why": "Supports outcome benchmarks, transparent reporting and regular oversight hearings for contracted services.",
+      "evidence": [
+       {
+        "quote": "clear outcome benchmarks, transparent reporting, timely payments to contracted providers, and regular oversight hearings",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     },
+     "public_services": {
+      "stance": "supports",
+      "why": "Says both financial controls and social services investment are needed.",
+      "evidence": [
+       {
+        "quote": "Strong financial controls and robust social services investment are not mutually exclusive – we need both.",
+        "url": "https://docs.google.com/document/d/1LDI_mktSfyY5d4Nd9PRFRd0OH7rVMlz13uCwuGwUMk8/export?format=txt",
+        "source": "The Urbanist 2026 candidate questionnaire"
+       }
+      ]
+     }
+    },
+    "sos-1601664": {
+     "transparency": {
+      "stance": "supports",
+      "why": "Supports public outcome statements, published results and stronger audits.",
+      "evidence": [
+       {
+        "quote": "Set measurable goals. Publish the results. Scale what works. Change what doesn't.",
+        "url": "https://www.nickduda.com/accountability",
+        "source": "Campaign website"
+       },
+       {
+        "quote": "Require agencies to respond publicly to major audit findings.",
+        "url": "https://www.nickduda.com/accountability",
+        "source": "Campaign website"
+       }
+      ]
+     },
+     "public_services": {
+      "stance": "supports",
+      "why": "Says he believes in robust public services that are measured for results.",
+      "evidence": [
+       {
+        "quote": "I believe in robust public services.",
+        "url": "https://www.nickduda.com/accountability",
+        "source": "Campaign website"
+       }
+      ]
+     }
+    }
+   }
+  }
+ }
+}

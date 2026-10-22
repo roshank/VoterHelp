@@ -1,0 +1,92 @@
+{
+ "_about": "Guided questions for the voter advisor. Issue ids match the chips in site/issues.js. Options are approaches a candidate can support or oppose; they are not mutually exclusive. Wording must stay neutral: describe the approach, not its merits.",
+ "issues": {
+  "housing": [
+   {"id": "housing_cost", "text": "What should government do most about housing costs?", "options": [
+    {"id": "build_more", "label": "Allow more homes to be built", "detail": "Zoning changes, faster permits, more density"},
+    {"id": "public_housing", "label": "Fund affordable housing directly", "detail": "Public or nonprofit housing paid for with public money"},
+    {"id": "tenant_protections", "label": "Protect renters", "detail": "Rent stabilization, eviction protections"},
+    {"id": "less_regulation_tax", "label": "Cut costs, taxes and rules on building", "detail": "Lower fees, taxes and regulations rather than new programs"}
+   ]},
+   {"id": "homelessness", "text": "What's the right approach to homelessness?", "options": [
+    {"id": "housing_first", "label": "Housing and shelter first", "detail": "More shelter, supportive and permanent housing"},
+    {"id": "treatment", "label": "Mental health and addiction treatment", "detail": "Expand treatment and behavioral health services"},
+    {"id": "enforce_encampments", "label": "Enforce laws on encampments", "detail": "Clear encampments, enforce public-space rules"},
+    {"id": "spending_accountability", "label": "Hold homelessness spending accountable", "detail": "Audit programs, measure results"}
+   ]}
+  ],
+  "safety": [
+   {"id": "safety_approach", "text": "Which approaches to public safety do you favor?", "options": [
+    {"id": "more_police", "label": "Hire and keep more police", "detail": "Officer staffing, recruitment and retention"},
+    {"id": "prevention", "label": "Prevention and alternative responders", "detail": "Violence prevention, non-police crisis response"},
+    {"id": "tougher_enforcement", "label": "Tougher enforcement and prosecution", "detail": "Stronger penalties, prosecute more crimes"},
+    {"id": "police_accountability", "label": "Police oversight and accountability", "detail": "Oversight, use-of-force rules, reform"}
+   ]},
+   {"id": "guns", "text": "On guns:", "options": [
+    {"id": "more_gun_laws", "label": "Stronger gun laws", "detail": "Permits, limits on certain weapons, safe storage"},
+    {"id": "gun_rights", "label": "Protect gun rights", "detail": "Oppose new gun restrictions"}
+   ]}
+  ],
+  "cost": [
+   {"id": "taxes", "text": "On taxes and the budget:", "options": [
+    {"id": "tax_wealthy", "label": "Raise revenue from the wealthy and large corporations", "detail": "Capital gains, wealth or payroll taxes on high earners"},
+    {"id": "no_new_taxes", "label": "No new taxes; cut or hold taxes", "detail": "Oppose tax increases, roll back taxes"},
+    {"id": "cut_spending", "label": "Cut spending and waste", "detail": "Audits, efficiency, smaller budgets"},
+    {"id": "relief_regressive", "label": "Lower taxes on working families", "detail": "Reduce sales or property tax burden, tax credits"}
+   ]}
+  ],
+  "transport": [
+   {"id": "transport_priority", "text": "What should transportation money go to first?", "options": [
+    {"id": "transit", "label": "More and faster transit", "detail": "Bus, light rail, ferries"},
+    {"id": "roads", "label": "Roads and traffic", "detail": "Road maintenance, congestion relief"},
+    {"id": "safe_streets", "label": "Safe streets for walking and biking", "detail": "Sidewalks, bike lanes, traffic safety"},
+    {"id": "lower_driving_costs", "label": "Lower costs for drivers", "detail": "Gas tax, car tabs, tolls"}
+   ]}
+  ],
+  "climate": [
+   {"id": "climate_approach", "text": "On climate and the environment:", "options": [
+    {"id": "strong_climate_action", "label": "Strong climate action", "detail": "Cut emissions, clean energy, keep or expand climate laws"},
+    {"id": "energy_costs_first", "label": "Keep energy and gas costs down first", "detail": "Oppose or roll back costly climate mandates"},
+    {"id": "conservation", "label": "Protect land, water and wildlife", "detail": "Salmon, orcas, forests, clean water"}
+   ]}
+  ],
+  "schools": [
+   {"id": "schools_priority", "text": "For schools and kids, what matters most?", "options": [
+    {"id": "school_funding", "label": "More school funding", "detail": "Fully fund schools, special education, staff"},
+    {"id": "parental_rights", "label": "Parents' rights and say over curriculum", "detail": "Parent notification and curriculum control"},
+    {"id": "child_care", "label": "Child care and early learning", "detail": "Affordable child care, pre-K"},
+    {"id": "student_mental_health", "label": "Student safety and mental health", "detail": "Counselors, school safety"}
+   ]}
+  ],
+  "health": [
+   {"id": "health_priority", "text": "On health care:", "options": [
+    {"id": "expand_coverage", "label": "Expand coverage and lower costs", "detail": "Medicaid, public options, drug prices"},
+    {"id": "behavioral_health", "label": "Mental health and addiction care", "detail": "Treatment capacity, crisis care"},
+    {"id": "abortion_access", "label": "Protect abortion access", "detail": "Keep or expand reproductive health access"},
+    {"id": "abortion_limits", "label": "Limit abortion", "detail": "Support restrictions on abortion"}
+   ]}
+  ],
+  "economy": [
+   {"id": "economy_priority", "text": "On jobs and the economy:", "options": [
+    {"id": "worker_protections", "label": "Workers' pay and protections", "detail": "Minimum wage, labor rights, unions"},
+    {"id": "small_business", "label": "Help small businesses", "detail": "Lower costs and red tape for local business"},
+    {"id": "business_climate", "label": "Business-friendly climate", "detail": "Fewer regulations and taxes on employers"}
+   ]}
+  ],
+  "rights": [
+   {"id": "rights_priority", "text": "On civil rights and immigration:", "options": [
+    {"id": "protect_immigrants", "label": "Protect immigrant communities", "detail": "Limit cooperation with federal immigration enforcement"},
+    {"id": "immigration_enforcement", "label": "Cooperate with immigration enforcement", "detail": "Work with federal authorities"},
+    {"id": "equity_programs", "label": "Equity and anti-discrimination programs", "detail": "Address racial and other disparities"},
+    {"id": "voting_access", "label": "Voting access and democracy reforms", "detail": "Ranked choice, voter access"}
+   ]}
+  ],
+  "government": [
+   {"id": "government_priority", "text": "On how government is run:", "options": [
+    {"id": "transparency", "label": "Transparency and accountability", "detail": "Audits, open records, measurable results"},
+    {"id": "smaller_government", "label": "Smaller, leaner government", "detail": "Cut bureaucracy and programs"},
+    {"id": "public_services", "label": "Invest in public services", "detail": "Expand what government provides"}
+   ]}
+  ]
+ }
+}
